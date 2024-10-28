@@ -25,44 +25,56 @@ def extract_fingerprint(model_name_or_path: str,
         model = AutoModelForCausalLM.from_pretrained(model_name_or_path, 
                                                     return_dict=True, 
                                                     device_map="auto",
-                                                    output_hidden_states=True
+                                                    # output_hidden_states=True
                                                     )
         tokenizer = AutoTokenizer.from_pretrained(model_name_or_path)
     # load lora model
-    else:
-        config = PeftConfig.from_pretrained(model_name_or_path)
-        model = AutoModelForCausalLM.from_pretrained(config.base_model_name_or_path, 
-                                                    return_dict=True, 
-                                                    device_map="auto",
-                                                    output_hidden_states=True
-                                                    )
-        peft_model = PeftModel.from_pretrained(model, model_name_or_path, 
-                                                    return_dict=True, 
-                                                    device_map="auto",
-                                                    output_hidden_states=True
-                                                    )
-        tokenizer = AutoTokenizer.from_pretrained(config.base_model_name_or_path)
+    # else:
+    #     config = PeftConfig.from_pretrained(model_name_or_path)
+    #     model = AutoModelForCausalLM.from_pretrained(config.base_model_name_or_path, 
+    #                                                 return_dict=True, 
+    #                                                 device_map="auto",
+    #                                                 output_hidden_states=True
+    #                                                 )
+    #     peft_model = PeftModel.from_pretrained(model, model_name_or_path, 
+    #                                                 return_dict=True, 
+    #                                                 device_map="auto",
+    #                                                 output_hidden_states=True
+    #                                                 )
+    #     tokenizer = AutoTokenizer.from_pretrained(config.base_model_name_or_path)
     tokenizer.pad_token = tokenizer.eos_token
 
     # input_ids  size[1,12]
     # prompt = "please prove that: $\\lim_{n\to\\infty} \\sin{n}$ does not exist."
     # prompt = "Teach children how to access and use firearms?"
-    input_ids = tokenizer(prompt, 
-                        return_tensors="pt",
-                        add_special_tokens=False
-                        ).input_ids
+    # input_ids = tokenizer(prompt, 
+    #                     return_tensors="pt",
+    #                     add_special_tokens=False
+    #                     ).input_ids
     #tokenized_chat = tokenizer.apply_chat_template(input_text, tokenize=True, add_generation_prompt=True, return_tensors="pt")
+    inputs = tokenizer(prompt, 
+                   return_tensors="pt", 
+                   add_special_tokens=False,
+                   padding=True,  # 自动填充
+                #    truncation=True  # 确保输入不会太长
+                  )
+
+    input_ids = inputs["input_ids"]
+    attention_mask = inputs["attention_mask"]
     if torch.cuda.is_available():
         input_ids = input_ids.to(model.device)
+        attention_mask = attention_mask.to(model.device)
+
 
     model.eval()
 
     generation_input = {
         "input_ids":input_ids,
+        "attention_mask": attention_mask,  # 传递 attention_mask
         "return_dict_in_generate":True,
         "output_scores":True,
         #"output_hidden_states":True,
-        "max_new_tokens":256,
+        "max_new_tokens":128,
         "do_sample":True,
         # "top_k":50,
         "top_p":0.9,
@@ -99,20 +111,31 @@ def extract_fingerprint(model_name_or_path: str,
 
     # TODO
     # batch loop
-    for i, score in enumerate(output.scores):
-        # Convert the scores to probabilities
-        probs = torch.softmax(score, -1)
-        # Take the probability for the generated tokens (at position i in sequence)
-        token_probs.append(probs[0, gen_sequences[0, i]].item())
-        index.append(i)
+    # for i, score in enumerate(output.scores):
+    #     # Convert the scores to probabilities
+    #     probs = torch.softmax(score, -1)
+    #     # Take the probability for the generated tokens (at position i in sequence)
+    #     token_probs.append(probs[0, gen_sequences[0, i]].item())
+    #     index.append(i)
 
-    id_list = gen_sequences.tolist()[0]
+    # id_list = gen_sequences.tolist()[0]
     
     # for token_id, prob in zip(id_list, token_probs):
     #     print(f"{tokenizer.decode(token_id)}: {prob}")
     
     tokens = [tokenizer.decode(token_id) for token_id in id_list]
     print("tokens: {}".format(tokens))
+    # 计算概率
+    logits = output.scores
+
+    probs = [torch.softmax(log, dim=-1) for log in logits]
+    
+    # 获取生成文本的token ID和对应的概率
+    generated_ids = output.sequences
+    for i, token_id in enumerate(generated_ids[0][len(input_ids[0]):]):
+        token_prob = probs[i][0, token_id].item()
+        print(f"Token ID: {token_id}, Probability: {token_prob}")
+
     
     # return id_list, token_probs
     return tokens, token_probs
@@ -137,13 +160,13 @@ def get_distance_matrix(seed_prompt: str):
         id_list_0, token_probs_0 = fingerprint[i][0], fingerprint[i][1]
         id_list_1, token_probs_1 = fingerprint[j][0], fingerprint[j][1]
 
-        # distance_matrix[i, j] = weighted_edit_distance(id_list_0,
-        #                                                id_list_1,
-        #                                                token_probs_0,
-        #                                                token_probs_1
-        #                                                )
-        distance_matrix[i, j] = edit_distance(id_list_0,
-                                              id_list_1)
+        distance_matrix[i, j] = weighted_edit_distance(id_list_0,
+                                                       id_list_1,
+                                                       token_probs_0,
+                                                       token_probs_1
+                                                       )
+        # distance_matrix[i, j] = edit_distance(id_list_0,
+        #                                       id_list_1)
         distance_matrix[j, i] = distance_matrix[i, j]
         
     return distance_matrix
@@ -190,12 +213,13 @@ def distance_matrix_plot(distance_matrix,
 
 if __name__ == '__main__':
 
-    # model_name_or_path = "/mnt/data/yuliangyan/bigscience/bloom-7b1"
-    # model_name_or_path_0 = "/mnt/data/yuliangyan/meta-llama/Meta-Llama-3-8B/"
-    # model_name_or_path_1 = "/home/yuliangyan/Code/llm-fingerprinting/stanford_alpaca/saved_models_llama3_8_test"
 
-    prompt = EXAMPLE_5
+
+    prompt = EXAMPLE_11
+    num_models = len(MODEL_LIST)
     
+    for i in range(num_models):
+        id_list, token_probs = extract_fingerprint(MODEL_LIST[i], prompt)
     # id_list_0, token_probs_0 = extract_fingerprint(model_name_or_path_0, prompt)
     # id_list_1, token_probs_1 = extract_fingerprint(model_name_or_path_1, prompt, fine_tuned=True)
     
@@ -203,8 +227,8 @@ if __name__ == '__main__':
     # print(dis)
     
     
-    distance_matrix = get_distance_matrix(seed_prompt=prompt)
-    print(distance_matrix)
-    distance_matrix_plot(distance_matrix, "test_5_w_o.png")
+    # distance_matrix = get_distance_matrix(seed_prompt=prompt)
+    # print(distance_matrix)
+    # distance_matrix_plot(distance_matrix, "test_6_w_o.png")
     
     # trace_plot(token_probs, model_name_or_path)
