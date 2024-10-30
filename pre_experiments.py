@@ -61,6 +61,8 @@ def extract_fingerprint(model_name_or_path: str,
 
     input_ids = inputs["input_ids"]
     attention_mask = inputs["attention_mask"]
+    accelerator = Accelerator("no")
+    model, tokenizer = accelerator.prepare(model, tokenizer)
     if torch.cuda.is_available():
         input_ids = input_ids.to(model.device)
         attention_mask = attention_mask.to(model.device)
@@ -111,17 +113,17 @@ def extract_fingerprint(model_name_or_path: str,
 
     # TODO
     # batch loop
-    # for i, score in enumerate(output.scores):
-    #     # Convert the scores to probabilities
-    #     probs = torch.softmax(score, -1)
-    #     # Take the probability for the generated tokens (at position i in sequence)
-    #     token_probs.append(probs[0, gen_sequences[0, i]].item())
-    #     index.append(i)
+    for i, score in enumerate(output.scores):
+        # Convert the scores to probabilities
+        probs = torch.softmax(score, -1)
+        # Take the probability for the generated tokens (at position i in sequence)
+        token_probs.append(probs[0, gen_sequences[0, i]].item())
+        index.append(i)
 
-    # id_list = gen_sequences.tolist()[0]
+    id_list = gen_sequences.tolist()[0]
     
-    # for token_id, prob in zip(id_list, token_probs):
-    #     print(f"{tokenizer.decode(token_id)}: {prob}")
+    for token_id, prob in zip(id_list, token_probs):
+        print(f"{tokenizer.decode(token_id)}: {prob}")
     
     tokens = [tokenizer.decode(token_id) for token_id in id_list]
     print("tokens: {}".format(tokens))

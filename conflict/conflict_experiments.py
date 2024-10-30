@@ -9,6 +9,7 @@ from model_list import *
 # from vllm import LLM, SamplingParams
 import traceback  # 用于打印详细的异常信息
 from accelerate import Accelerator  # 引入Accelerator
+from peft import get_peft_config, get_peft_model, LoraConfig, TaskType, PeftModel, PeftConfig
 
 def inference(model_name, input_dir, out_dir):
     """
@@ -18,14 +19,37 @@ def inference(model_name, input_dir, out_dir):
     :param input_dir: str, 包含输入 JSON 文件的目录
     :param out_dir: str, 保存输出 JSON 文件的目录
     """
-    
-    # llm = LLM(model=model_name, dtype="float16", tensor_parallel_size=torch.cuda.device_count(), trust_remote_code=True)
-    # tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForCausalLM.from_pretrained(model_name, 
+    fine_tuned = False
+
+    if "test" in model_name:
+        fine_tuned = True
+    if not fine_tuned:
+        model = AutoModelForCausalLM.from_pretrained(model_name, 
+                                                        return_dict=True, 
+                                                        device_map="auto",
+                                                        )
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
+    # load lora model
+    else:
+        config = PeftConfig.from_pretrained(model_name)
+        model = AutoModelForCausalLM.from_pretrained(config.base_model_name_or_path, 
                                                     return_dict=True, 
                                                     device_map="auto",
+                                                    output_hidden_states=True
                                                     )
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
+        model = PeftModel.from_pretrained(model, model_name, 
+                                                    return_dict=True, 
+                                                    device_map="auto",
+                                                    output_hidden_states=True
+                                                    )
+        tokenizer = AutoTokenizer.from_pretrained(config.base_model_name_or_path)
+    # llm = LLM(model=model_name, dtype="float16", tensor_parallel_size=torch.cuda.device_count(), trust_remote_code=True)
+    # tokenizer = AutoTokenizer.from_pretrained(model_name)
+    # model = AutoModelForCausalLM.from_pretrained(model_name, 
+    #                                                 return_dict=True, 
+    #                                                 device_map="auto",
+    #                                                 )
+    # tokenizer = AutoTokenizer.from_pretrained(model_name)
     tokenizer.padding_side = "left"  # 设置为左侧填充
 
     # sampling_params = SamplingParams(logprobs=20)
@@ -36,7 +60,7 @@ def inference(model_name, input_dir, out_dir):
 
     # 获取输入目录下所有的 JSON 文件
     json_files = glob.glob(os.path.join(input_dir, "*.json"))
-    
+    print(os.path.basename(model_name))
     # 创建输出目录路径，基于模型名称
     output_dir = os.path.join(out_dir, os.path.basename(model_name))
     # 如果输出目录不存在则创建
@@ -46,7 +70,9 @@ def inference(model_name, input_dir, out_dir):
     out_files = glob.glob(os.path.join(output_dir, '*.json'))
     # 提取已经处理过的文件名列表
     processed_files = [os.path.basename(file) for file in out_files]
-
+    for input_file in tqdm(json_files, desc="Processing files"):
+        if os.path.basename(input_file) in processed_files:
+            continue    
     # 遍历所有输入的 JSON 文件
     for input_file in tqdm(json_files, desc="Processing files"):
         # 如果当前文件已经处理过，则跳过
@@ -228,10 +254,10 @@ def inference(model_name, input_dir, out_dir):
 # UNDO:将输入统一限制为一定长度然后
         generation_input = {
             "max_new_tokens": 128,
-            "do_sample": False,
+            "do_sample": True,
             # "top_p": 0.9,
-            # "temperature": 0.0001,
-            "repetition_penalty": 1.4,
+            # "temperature": 0.7,
+            # "repetition_penalty": 1.4,
             "pad_token_id": tokenizer.eos_token_id,
             "return_dict_in_generate": True,
             "output_scores": True
@@ -239,7 +265,8 @@ def inference(model_name, input_dir, out_dir):
         max_length  = 128
         predictions = []
         pbs = []
-        batch_size = 20 # 调整为较小的批次
+        batch_size = 50 # 调整为较小的批次
+        model.eval()
 
         with torch.no_grad():
             for  i in range(0, len(prompts), batch_size):
@@ -257,24 +284,22 @@ def inference(model_name, input_dir, out_dir):
                 generated_sequences = output.sequences
                 # 生成的序列的形状为 (num, sequence_length)
                 cur_batch_size = generated_sequences.shape[0]  # 获取批次大小
-                predictions = []
+                # predictions = []
                 probs = []
-
                 for num in range(cur_batch_size):  # 假设 output.sequences 是生成的序列                    
                     gen_sequences = output.sequences[num, max_length:]
                     print(gen_sequences)
-                    decoded_output = [tokenizer.decode(ids) for ids in gen_sequences]
-                    print("Generated content is: {}".format(decoded_output))
+                    # decoded_output = [tokenizer.decode(ids) for ids in gen_sequences]
+                    # print("Generated content is: {}".format(decoded_output))
                     Choicelist = [("A", -100), ("B", -100), ("C", -100), ("D", -100)]
                     # batch loop
-                    for i, score in enumerate(output.scores[num]):
-                        
+                    for i, score in enumerate(output.scores):
                         # Convert the scores to probabilities
-                        probs = torch.softmax(score, -1)
+                        probs = torch.softmax(score[num], -1)
                         # print(probs.size())
                         # Take the probability for the generated tokens (at position i in sequence)
                         cur_id = gen_sequences[i]
-                        # print(cur_id)
+                        # print(cur_id)0
                         cur_token = tokenizer.decode(cur_id,add_special_tokens=False).replace(":", "").replace("(", "").strip()
                         # cpr cur with "A B C D"
                         for idx, (token, prob) in enumerate(Choicelist):
@@ -309,6 +334,7 @@ def inference(model_name, input_dir, out_dir):
 
 
         output_file = os.path.join(output_dir, os.path.basename(input_file))
+        print(output_file)
         with open(output_file, 'a', encoding='utf-8') as f:
             # 每次写入 1000 条数据
             for j in range(len(all_datas)):
@@ -323,6 +349,6 @@ if __name__ == '__main__':
 
     for model in MODEL_LIST:
         # print("./conflict/"+model.split('/')[-1])
-        # inference(model, "./conflictdata", "./conflictoutput/"+model.split('/')[-1])
-        inference(model, "./test", "./testoutput/"+model.split('/')[-1])
+        inference(model, "./normaldata", "./secondnormaloutput/")
+        # inference(model, "./test", "./testoutput/"+model.split('/')[-1])
 

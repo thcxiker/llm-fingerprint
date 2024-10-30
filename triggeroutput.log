@@ -1,0 +1,309 @@
+nohup: 忽略输入
+600
+start to initial search
+  0%|          | 0/2 [00:00<?, ?it/s]/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:777: UserWarning: `return_dict_in_generate` is NOT set to `True`, but `output_hidden_states` is. When `return_dict_in_generate` is not `True`, `output_hidden_states` is ignored.
+  warnings.warn(
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s][A
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:07,  2.37s/it][A
+Loading checkpoint shards:  50%|█████     | 2/4 [00:04<00:04,  2.37s/it][A
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:07<00:02,  2.34s/it][A
+Loading checkpoint shards: 100%|██████████| 4/4 [00:07<00:00,  1.65s/it][ALoading checkpoint shards: 100%|██████████| 4/4 [00:07<00:00,  1.91s/it]
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:601: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.6` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:606: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.9` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
+  warnings.warn(
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Starting from v4.46, the `logits` model output will have the same type as the model (except at train time, where it will always be FP32)
+From v4.47 onwards, when a model cache is to be returned, `generate` will return a `Cache` instance instead by default (as opposed to the legacy tuple of tuples format). If you want to keep returning the legacy format, please set `return_legacy_cache=True`.
+Current model: /mnt/data/yuliangyan/yuliangyan/meta-llama/Meta-Llama-3-8B/
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s][A
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:07,  2.61s/it][A
+Loading checkpoint shards:  50%|█████     | 2/4 [00:05<00:05,  2.78s/it][A
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:07<00:02,  2.61s/it][A
+Loading checkpoint shards: 100%|██████████| 4/4 [00:08<00:00,  1.81s/it][ALoading checkpoint shards: 100%|██████████| 4/4 [00:08<00:00,  2.12s/it]
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:601: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.6` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:606: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.9` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:777: UserWarning: `return_dict_in_generate` is NOT set to `True`, but `output_hidden_states` is. When `return_dict_in_generate` is not `True`, `output_hidden_states` is ignored.
+  warnings.warn(
+Current model: /home/haochuntang/instruction_tuning_models/llama3-ft
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s][A
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:07,  2.37s/it][A
+Loading checkpoint shards:  50%|█████     | 2/4 [00:04<00:04,  2.36s/it][A
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:07<00:02,  2.35s/it][A
+Loading checkpoint shards: 100%|██████████| 4/4 [00:07<00:00,  1.65s/it][ALoading checkpoint shards: 100%|██████████| 4/4 [00:07<00:00,  1.91s/it]
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:601: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.6` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:606: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.9` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
+  warnings.warn(
+Current model: /mnt/data/yuliangyan/yuliangyan/meta-llama/Meta-Llama-3-8B-Instruct/
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s][A
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:07,  2.40s/it][A
+Loading checkpoint shards:  50%|█████     | 2/4 [00:04<00:04,  2.41s/it][A
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:07<00:02,  2.39s/it][A
+Loading checkpoint shards: 100%|██████████| 4/4 [00:07<00:00,  1.68s/it][ALoading checkpoint shards: 100%|██████████| 4/4 [00:07<00:00,  1.94s/it]
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:601: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.6` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:606: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.9` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:777: UserWarning: `return_dict_in_generate` is NOT set to `True`, but `output_hidden_states` is. When `return_dict_in_generate` is not `True`, `output_hidden_states` is ignored.
+  warnings.warn(
+Current model: /home/haochuntang/instruction_tuning_models/llama3-instruct-ft
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s][A
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:07,  2.41s/it][A
+Loading checkpoint shards:  50%|█████     | 2/4 [00:04<00:04,  2.48s/it][A
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:07<00:02,  2.45s/it][A
+Loading checkpoint shards: 100%|██████████| 4/4 [00:07<00:00,  1.73s/it][ALoading checkpoint shards: 100%|██████████| 4/4 [00:07<00:00,  1.99s/it]
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:601: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.6` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:606: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.9` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
+  warnings.warn(
+Current model: /mnt/data/yuliangyan/yuliangyan/meta-llama/Meta-Llama-3.1-8B/
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s][A
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:07,  2.42s/it][A
+Loading checkpoint shards:  50%|█████     | 2/4 [00:04<00:04,  2.47s/it][A
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:07<00:02,  2.43s/it][A
+Loading checkpoint shards: 100%|██████████| 4/4 [00:07<00:00,  1.71s/it][ALoading checkpoint shards: 100%|██████████| 4/4 [00:07<00:00,  1.98s/it]
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:601: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.6` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:606: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.9` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:777: UserWarning: `return_dict_in_generate` is NOT set to `True`, but `output_hidden_states` is. When `return_dict_in_generate` is not `True`, `output_hidden_states` is ignored.
+  warnings.warn(
+Current model: /home/haochuntang/instruction_tuning_models/llama31-ft
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s][A
+Loading checkpoint shards:  50%|█████     | 1/2 [00:04<00:04,  4.77s/it][A
+Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.27s/it][ALoading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.49s/it]
+Starting from v4.46, the `logits` model output will have the same type as the model (except at train time, where it will always be FP32)
+Current model: /mnt/data/yuliangyan/yuliangyan/mistralai/Mistral-7B-v0.1/
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s][A
+Loading checkpoint shards:  50%|█████     | 1/2 [00:04<00:04,  4.76s/it][A
+Loading checkpoint shards: 100%|██████████| 2/2 [00:07<00:00,  3.29s/it][ALoading checkpoint shards: 100%|██████████| 2/2 [00:07<00:00,  3.51s/it]
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:777: UserWarning: `return_dict_in_generate` is NOT set to `True`, but `output_hidden_states` is. When `return_dict_in_generate` is not `True`, `output_hidden_states` is ignored.
+  warnings.warn(
+Current model: /home/haochuntang/instruction_tuning_models/mistral-ft
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s][A
+Loading checkpoint shards:  50%|█████     | 1/2 [00:04<00:04,  4.91s/it][A
+Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.13s/it][ALoading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.40s/it]
+Current model: /mnt/data/yuliangyan/yuliangyan/deepseek-ai/deepseek-llm-7b-base/
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s][A
+Loading checkpoint shards:  50%|█████     | 1/2 [00:04<00:04,  4.82s/it][A
+Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.03s/it][ALoading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.30s/it]
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:777: UserWarning: `return_dict_in_generate` is NOT set to `True`, but `output_hidden_states` is. When `return_dict_in_generate` is not `True`, `output_hidden_states` is ignored.
+  warnings.warn(
+Current model: /home/haochuntang/instruction_tuning_models/deepseek-ft
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s][A
+Loading checkpoint shards:  50%|█████     | 1/2 [00:04<00:04,  4.69s/it][A
+Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.00s/it][ALoading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.25s/it]
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:601: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.7` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:606: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.95` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
+  warnings.warn(
+Current model: /mnt/data/yuliangyan/yuliangyan/deepseek-ai/deepseek-llm-7b-chat/
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s][A
+Loading checkpoint shards:  50%|█████     | 1/2 [00:04<00:04,  4.62s/it][A
+Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  2.94s/it][ALoading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.20s/it]
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:601: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.7` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:606: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.95` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:777: UserWarning: `return_dict_in_generate` is NOT set to `True`, but `output_hidden_states` is. When `return_dict_in_generate` is not `True`, `output_hidden_states` is ignored.
+  warnings.warn(
+Current model: /home/haochuntang/instruction_tuning_models/deepseek-chat-ft
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s][A
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:07,  2.42s/it][A
+Loading checkpoint shards:  50%|█████     | 2/4 [00:04<00:04,  2.42s/it][A
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:07<00:02,  2.44s/it][A
+Loading checkpoint shards: 100%|██████████| 4/4 [00:07<00:00,  1.74s/it][ALoading checkpoint shards: 100%|██████████| 4/4 [00:07<00:00,  1.99s/it]
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:601: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.6` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:606: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.9` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:777: UserWarning: `return_dict_in_generate` is NOT set to `True`, but `output_hidden_states` is. When `return_dict_in_generate` is not `True`, `output_hidden_states` is ignored.
+  warnings.warn(
+Current model: /mnt/data/yuliangyan/yuliangyan/meta-llama/Meta-Llama-3-8B-Instruct/
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s][A
+Loading checkpoint shards:  50%|█████     | 1/2 [00:05<00:05,  5.00s/it][A
+Loading checkpoint shards: 100%|██████████| 2/2 [00:07<00:00,  3.38s/it][ALoading checkpoint shards: 100%|██████████| 2/2 [00:07<00:00,  3.62s/it]
+ 50%|█████     | 1/2 [02:36<02:36, 156.53s/it]/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:777: UserWarning: `return_dict_in_generate` is NOT set to `True`, but `output_hidden_states` is. When `return_dict_in_generate` is not `True`, `output_hidden_states` is ignored.
+  warnings.warn(
+Current model: /mnt/data/yuliangyan/yuliangyan/mistralai/Mistral-7B-v0.1/
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s][A
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:07,  2.49s/it][A
+Loading checkpoint shards:  50%|█████     | 2/4 [00:04<00:04,  2.49s/it][A
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:07<00:02,  2.46s/it][A
+Loading checkpoint shards: 100%|██████████| 4/4 [00:08<00:00,  1.74s/it][ALoading checkpoint shards: 100%|██████████| 4/4 [00:08<00:00,  2.01s/it]
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:601: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.6` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:606: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.9` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
+  warnings.warn(
+Current model: /mnt/data/yuliangyan/yuliangyan/meta-llama/Meta-Llama-3-8B/
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s][A
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:07,  2.49s/it][A
+Loading checkpoint shards:  50%|█████     | 2/4 [00:04<00:04,  2.48s/it][A
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:07<00:02,  2.46s/it][A
+Loading checkpoint shards: 100%|██████████| 4/4 [00:08<00:00,  1.74s/it][ALoading checkpoint shards: 100%|██████████| 4/4 [00:08<00:00,  2.01s/it]
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:601: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.6` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:606: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.9` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:777: UserWarning: `return_dict_in_generate` is NOT set to `True`, but `output_hidden_states` is. When `return_dict_in_generate` is not `True`, `output_hidden_states` is ignored.
+  warnings.warn(
+Current model: /home/haochuntang/instruction_tuning_models/llama3-ft
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s][A
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:07,  2.48s/it][A
+Loading checkpoint shards:  50%|█████     | 2/4 [00:04<00:04,  2.49s/it][A
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:07<00:02,  2.46s/it][A
+Loading checkpoint shards: 100%|██████████| 4/4 [00:08<00:00,  1.73s/it][ALoading checkpoint shards: 100%|██████████| 4/4 [00:08<00:00,  2.01s/it]
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:601: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.6` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:606: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.9` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
+  warnings.warn(
+Current model: /mnt/data/yuliangyan/yuliangyan/meta-llama/Meta-Llama-3-8B-Instruct/
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s][A
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:07,  2.50s/it][A
+Loading checkpoint shards:  50%|█████     | 2/4 [00:05<00:05,  2.51s/it][A
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:07<00:02,  2.47s/it][A
+Loading checkpoint shards: 100%|██████████| 4/4 [00:08<00:00,  1.74s/it][ALoading checkpoint shards: 100%|██████████| 4/4 [00:08<00:00,  2.02s/it]
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:601: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.6` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:606: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.9` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:777: UserWarning: `return_dict_in_generate` is NOT set to `True`, but `output_hidden_states` is. When `return_dict_in_generate` is not `True`, `output_hidden_states` is ignored.
+  warnings.warn(
+Current model: /home/haochuntang/instruction_tuning_models/llama3-instruct-ft
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s][A
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:07,  2.49s/it][A
+Loading checkpoint shards:  50%|█████     | 2/4 [00:04<00:04,  2.48s/it][A
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:07<00:02,  2.44s/it][A
+Loading checkpoint shards: 100%|██████████| 4/4 [00:07<00:00,  1.72s/it][ALoading checkpoint shards: 100%|██████████| 4/4 [00:07<00:00,  1.99s/it]
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:601: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.6` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:606: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.9` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
+  warnings.warn(
+Current model: /mnt/data/yuliangyan/yuliangyan/meta-llama/Meta-Llama-3.1-8B/
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s][A
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:07,  2.46s/it][A
+Loading checkpoint shards:  50%|█████     | 2/4 [00:04<00:04,  2.50s/it][A
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:07<00:02,  2.48s/it][A
+Loading checkpoint shards: 100%|██████████| 4/4 [00:08<00:00,  1.75s/it][ALoading checkpoint shards: 100%|██████████| 4/4 [00:08<00:00,  2.02s/it]
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:601: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.6` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:606: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.9` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:777: UserWarning: `return_dict_in_generate` is NOT set to `True`, but `output_hidden_states` is. When `return_dict_in_generate` is not `True`, `output_hidden_states` is ignored.
+  warnings.warn(
+Current model: /home/haochuntang/instruction_tuning_models/llama31-ft
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s][A
+Loading checkpoint shards:  50%|█████     | 1/2 [00:05<00:05,  5.53s/it][A
+Loading checkpoint shards: 100%|██████████| 2/2 [00:08<00:00,  3.88s/it][ALoading checkpoint shards: 100%|██████████| 2/2 [00:08<00:00,  4.13s/it]
+Current model: /mnt/data/yuliangyan/yuliangyan/mistralai/Mistral-7B-v0.1/
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s][A
+Loading checkpoint shards:  50%|█████     | 1/2 [00:05<00:05,  5.74s/it][A
+Loading checkpoint shards: 100%|██████████| 2/2 [00:08<00:00,  3.98s/it][ALoading checkpoint shards: 100%|██████████| 2/2 [00:08<00:00,  4.24s/it]
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:777: UserWarning: `return_dict_in_generate` is NOT set to `True`, but `output_hidden_states` is. When `return_dict_in_generate` is not `True`, `output_hidden_states` is ignored.
+  warnings.warn(
+Current model: /home/haochuntang/instruction_tuning_models/mistral-ft
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s][A
+Loading checkpoint shards:  50%|█████     | 1/2 [00:05<00:05,  5.38s/it][A
+Loading checkpoint shards: 100%|██████████| 2/2 [00:07<00:00,  3.30s/it][ALoading checkpoint shards: 100%|██████████| 2/2 [00:07<00:00,  3.61s/it]
+Current model: /mnt/data/yuliangyan/yuliangyan/deepseek-ai/deepseek-llm-7b-base/
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s][A
+Loading checkpoint shards:  50%|█████     | 1/2 [00:04<00:04,  4.95s/it][A
+Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.07s/it][ALoading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.35s/it]
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:777: UserWarning: `return_dict_in_generate` is NOT set to `True`, but `output_hidden_states` is. When `return_dict_in_generate` is not `True`, `output_hidden_states` is ignored.
+  warnings.warn(
+Current model: /home/haochuntang/instruction_tuning_models/deepseek-ft
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s][A
+Loading checkpoint shards:  50%|█████     | 1/2 [00:04<00:04,  4.73s/it][A
+Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.01s/it][ALoading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.27s/it]
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:601: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.7` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:606: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.95` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
+  warnings.warn(
+Current model: /mnt/data/yuliangyan/yuliangyan/deepseek-ai/deepseek-llm-7b-chat/
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s][A
+Loading checkpoint shards:  50%|█████     | 1/2 [00:05<00:05,  5.04s/it][A
+Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.13s/it][ALoading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.42s/it]
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:601: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.7` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:606: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.95` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:777: UserWarning: `return_dict_in_generate` is NOT set to `True`, but `output_hidden_states` is. When `return_dict_in_generate` is not `True`, `output_hidden_states` is ignored.
+  warnings.warn(
+Current model: /home/haochuntang/instruction_tuning_models/deepseek-chat-ft
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s][A
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:07,  2.44s/it][A
+Loading checkpoint shards:  50%|█████     | 2/4 [00:04<00:04,  2.46s/it][A
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:07<00:02,  2.40s/it][A
+Loading checkpoint shards: 100%|██████████| 4/4 [00:07<00:00,  1.69s/it][ALoading checkpoint shards: 100%|██████████| 4/4 [00:07<00:00,  1.96s/it]
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:601: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.6` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:606: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.9` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
+  warnings.warn(
+/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:777: UserWarning: `return_dict_in_generate` is NOT set to `True`, but `output_hidden_states` is. When `return_dict_in_generate` is not `True`, `output_hidden_states` is ignored.
+  warnings.warn(
+Current model: /mnt/data/yuliangyan/yuliangyan/meta-llama/Meta-Llama-3-8B/
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s][A
+Loading checkpoint shards:  50%|█████     | 1/2 [00:05<00:05,  5.46s/it][A
+Loading checkpoint shards: 100%|██████████| 2/2 [00:08<00:00,  3.78s/it][ALoading checkpoint shards: 100%|██████████| 2/2 [00:08<00:00,  4.03s/it]
+100%|██████████| 2/2 [04:57<00:00, 147.39s/it]100%|██████████| 2/2 [04:57<00:00, 148.76s/it]
+Current model: /mnt/data/yuliangyan/yuliangyan/mistralai/Mistral-7B-v0.1/
+start to search the final trigger set
+  0%|          | 0/150 [00:00<?, ?it/s]/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/generation/configuration_utils.py:777: UserWarning: `return_dict_in_generate` is NOT set to `True`, but `output_hidden_states` is. When `return_dict_in_generate` is not `True`, `output_hidden_states` is ignored.
+  warnings.warn(
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s][A
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:08,  2.83s/it][A
+Loading checkpoint shards:  50%|█████     | 2/4 [00:05<00:05,  2.90s/it][A
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:08<00:02,  2.90s/it][A
+Loading checkpoint shards: 100%|██████████| 4/4 [00:09<00:00,  2.02s/it][ALoading checkpoint shards: 100%|██████████| 4/4 [00:09<00:00,  2.34s/it]
+  0%|          | 0/150 [00:09<?, ?it/s]
+Traceback (most recent call last):
+  File "/home/haochuntang/llm-fingerprint/trigger_optimize.py", line 161, in <module>
+    optimized_prompts = optimize_prompts_with_pair_sampling(seed_trigger_set, 
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/haochuntang/llm-fingerprint/trigger_optimize.py", line 110, in optimize_prompts_with_pair_sampling
+    intra_sim_score += compute_intra_model_similarity(model, fine_tuned, prompt)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/haochuntang/llm-fingerprint/trigger_optimize.py", line 28, in compute_intra_model_similarity
+    tokens1, token_probs1, text1 = generation(model, prompt)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/haochuntang/llm-fingerprint/generation.py", line 39, in generation
+    input_ids = tokenizer(prompt, 
+                ^^^^^^^^^^^^^^^^^
+  File "/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/tokenization_utils_base.py", line 3016, in __call__
+    encodings = self._call_one(text=text, text_pair=text_pair, **all_kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/haochuntang/miniconda3/envs/finger/lib/python3.12/site-packages/transformers/tokenization_utils_base.py", line 3076, in _call_one
+    raise ValueError(
+ValueError: text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
