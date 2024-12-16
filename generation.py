@@ -37,8 +37,8 @@ def batched_generation(model_name_or_path: str,
     accelerator = Accelerator("no")
     model, tokenizer = accelerator.prepare(model, tokenizer)
     generation_input = {
-            "max_new_tokens": max_inputlength,
-            "do_sample": True,
+            "max_new_tokens": 128,
+            "do_sample": False,
             # "top_p": 0.9,
             # "temperature": 0.7,
             # "repetition_penalty": 1.4,

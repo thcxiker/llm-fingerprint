@@ -1,0 +1,266 @@
+{"idx": 0, "questions": ["The Barkhausen criterion for an oscillator"], "answers": [" Both A and C"], "subject": "electrical_engineering_test"}
+{"idx": 1, "questions": ["Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because"], "answers": [" It does not load the circuit at all."], "subject": "electrical_engineering_test"}
+{"idx": 2, "questions": ["Which of these sets of logic gates are designated as universal gates?"], "answers": [" NOR, NAND."], "subject": "electrical_engineering_test"}
+{"idx": 3, "questions": ["A box which tells the effect of inputs on control sub system is known as"], "answers": [" Decision box."], "subject": "electrical_engineering_test"}
+{"idx": 4, "questions": ["Two infinite parallel metal plates are charged with equal surface charge density of the same polarity. The electric field in the gap between the plates is"], "answers": [" zero."], "subject": "electrical_engineering_test"}
+{"idx": 5, "questions": ["The resistance in the circuit of the moving coil of a dynamometer wattmeter should be"], "answers": [" High."], "subject": "electrical_engineering_test"}
+{"idx": 6, "questions": ["The following are the necessary requirements of an oscillator"], "answers": [" Both A and B"], "subject": "electrical_engineering_test"}
+{"idx": 7, "questions": ["The normal voltage used in directional heating is"], "answers": [" 1.5 KV."], "subject": "electrical_engineering_test"}
+{"idx": 8, "questions": ["LC oscillators are used for produce a waveform with frequency ranging from"], "answers": [" 1MHz to 500 MHz"], "subject": "electrical_engineering_test"}
+{"idx": 9, "questions": ["What is the name of the fluorescent material that gives red colour fluorescence?"], "answers": [" Magnesium silicate."], "subject": "electrical_engineering_test"}
+{"idx": 10, "questions": ["How many bits are required to store one BCD digit ?"], "answers": [" 4"], "subject": "electrical_engineering_test"}
+{"idx": 11, "questions": ["Commutator in DC generator is used for"], "answers": [" convert AC armature current in to DC"], "subject": "electrical_engineering_test"}
+{"idx": 12, "questions": ["1 F is theoretically equal to"], "answers": [" ratio of 1 C to 1 V"], "subject": "electrical_engineering_test"}
+{"idx": 13, "questions": ["How many entries will be in the truth table of a 3 input NAND gate ?"], "answers": [" 8"], "subject": "electrical_engineering_test"}
+{"idx": 14, "questions": ["In decimal number system what is MSD"], "answers": [" First digit from left to right"], "subject": "electrical_engineering_test"}
+{"idx": 15, "questions": ["In Digital Logic Designs, GAL is abbreviated as"], "answers": [" Generic Array Logic"], "subject": "electrical_engineering_test"}
+{"idx": 16, "questions": ["For an SCR gate cathode characteristic is a straight line of 130. For triggered source volume of 15 V and allowable gate power dissipation of 0.5 W compute the gate source resistance?"], "answers": [" 111.9 ohm"], "subject": "electrical_engineering_test"}
+{"idx": 17, "questions": ["The concept of V/f control of inverters driving induction motors resuls in"], "answers": [" constant torque operation"], "subject": "electrical_engineering_test"}
+{"idx": 18, "questions": ["The energy stored in the magnetic field in a solenoid 30 cm long and 3 cm diameter wound with 1000 turns of wire carrying a current at 10 amp, is"], "answers": [" 0.15 joule."], "subject": "electrical_engineering_test"}
+{"idx": 19, "questions": ["While operating on variable frequency supplies, the AC motor requires variable voltage in order to"], "answers": [" avoid effect of saturation."], "subject": "electrical_engineering_test"}
+{"idx": 20, "questions": ["Which of the following windings are necessary in case of all dc machines?"], "answers": [" closed winding"], "subject": "electrical_engineering_test"}
+{"idx": 21, "questions": ["Relaxation Voltage controlled oscillators are used to generate"], "answers": [" Both B and C"], "subject": "electrical_engineering_test"}
+{"idx": 22, "questions": ["In the toggle mode a JK flip-flop has"], "answers": [" J = 1, K = 1."], "subject": "electrical_engineering_test"}
+{"idx": 23, "questions": ["Electric drive is becoming more and more popular because"], "answers": [" all of below."], "subject": "electrical_engineering_test"}
+{"idx": 24, "questions": ["A step up chopper has input voltage 110 V and output voltage 150 V. The value of duty cycle is"], "answers": [" 0.67."], "subject": "electrical_engineering_test"}
+{"idx": 25, "questions": ["A Binary number system has how many digits."], "answers": [" 2"], "subject": "electrical_engineering_test"}
+{"idx": 26, "questions": ["Lowest critical frequency is due to pole and it may be present at the origin or nearer to the origin, then the type of network is"], "answers": [" RC."], "subject": "electrical_engineering_test"}
+{"idx": 27, "questions": ["Advantages of open loop control system is/are"], "answers": [" simple and economical."], "subject": "electrical_engineering_test"}
+{"idx": 28, "questions": ["If a Hexadecimal number needs to convert to binary. For each hexadecimal digit, there will be how many bits"], "answers": [" 4"], "subject": "electrical_engineering_test"}
+{"idx": 29, "questions": ["In a lap winding dc machine number of conductors are 100 and number of parallel paths are 10. Find the average pitch"], "answers": [" 10"], "subject": "electrical_engineering_test"}
+{"idx": 30, "questions": ["Magnetic flux has the unit of"], "answers": [" Weber"], "subject": "electrical_engineering_test"}
+{"idx": 31, "questions": ["In balanced bridge, if the positions of detector and source are interchanged, the bridge will still remain balanced. This can be explained from which theorem"], "answers": [" Reciprocity theorem"], "subject": "electrical_engineering_test"}
+{"idx": 32, "questions": ["A D-flip-flop is said to be transparent when"], "answers": [" the output follow input"], "subject": "electrical_engineering_test"}
+{"idx": 33, "questions": ["A Lissajous pattern on an oscilloscope has 5 horinzontal tangencies and 2 vertical tangencies. The frequency of horizontal input is 100 Hz. The frequency of the vertical will be"], "answers": [" 250 Hz."], "subject": "electrical_engineering_test"}
+{"idx": 34, "questions": ["Speed control by variation of field flux results in"], "answers": [" constant power drive."], "subject": "electrical_engineering_test"}
+{"idx": 35, "questions": ["Which of the following memories uses one transistor and one capacitor as basic memory unit"], "answers": [" DRAM"], "subject": "electrical_engineering_test"}
+{"idx": 36, "questions": ["What will be the number of lamps, each having 300 lumens, required to obtain an average illuminance of 50 lux on a 4m * 3m rectangular room?"], "answers": [" 2"], "subject": "electrical_engineering_test"}
+{"idx": 37, "questions": ["The output of the system has an effect upon the input quantity, then the system is a"], "answers": [" closed loop control system."], "subject": "electrical_engineering_test"}
+{"idx": 38, "questions": ["FM stands for"], "answers": [" frequency modulation."], "subject": "electrical_engineering_test"}
+{"idx": 39, "questions": ["Stack is also known as"], "answers": [" LIFO memory"], "subject": "electrical_engineering_test"}
+{"idx": 40, "questions": ["In Ward-Leonard system, the lower limit of the speed imposed by"], "answers": [" Residual magnetism of the generator."], "subject": "electrical_engineering_test"}
+{"idx": 41, "questions": ["Colpitts oscillator is also called as"], "answers": [" All of the above"], "subject": "electrical_engineering_test"}
+{"idx": 42, "questions": ["An SCR has half cycle surge current rating of 3000 A for 50 Hz supply. One cycle surge current will be"], "answers": [" 2121.32 A."], "subject": "electrical_engineering_test"}
+{"idx": 43, "questions": ["Both the ALU and control section of CPU employ which special purpose storage location?"], "answers": [" Accumulators"], "subject": "electrical_engineering_test"}
+{"idx": 44, "questions": ["Systematic errors are"], "answers": [" all of the above."], "subject": "electrical_engineering_test"}
+{"idx": 45, "questions": ["Which of the following is/are the disadvantages of an open loop control system?"], "answers": [" both A and B."], "subject": "electrical_engineering_test"}
+{"idx": 46, "questions": ["A diode (p-n junction) when reverse biased act as"], "answers": [" Off Switch"], "subject": "electrical_engineering_test"}
+{"idx": 47, "questions": ["Piezoelectric effect is carried out in"], "answers": [" crystal filter."], "subject": "electrical_engineering_test"}
+{"idx": 48, "questions": ["The resistivity of the conductor depends on"], "answers": [" type of material."], "subject": "electrical_engineering_test"}
+{"idx": 49, "questions": ["The smallest change in measured variable to which instrument will respond is"], "answers": [" resolution."], "subject": "electrical_engineering_test"}
+{"idx": 50, "questions": ["In electronic communications, \"AM\" stands for"], "answers": [" Amplitude Modulation"], "subject": "electrical_engineering_test"}
+{"idx": 51, "questions": ["Which system is also known as automatic control system?"], "answers": [" Closed loop control system"], "subject": "electrical_engineering_test"}
+{"idx": 52, "questions": ["A combinational PLD with a fixed AND array and a programmable OR array is called a"], "answers": [" PROM"], "subject": "electrical_engineering_test"}
+{"idx": 53, "questions": ["A null type instrument as compared to a deflected type instrument has"], "answers": [" a higher accuracy."], "subject": "electrical_engineering_test"}
+{"idx": 54, "questions": ["Length of the cable is doubled, its capacitance C will be"], "answers": [" doubled."], "subject": "electrical_engineering_test"}
+{"idx": 55, "questions": ["Electrons in p-type material of a semi-conductor are called as"], "answers": [" minority carriers"], "subject": "electrical_engineering_test"}
+{"idx": 56, "questions": ["________ is the most detrimental impurity in the magnetic materials"], "answers": [" Carbon."], "subject": "electrical_engineering_test"}
+{"idx": 57, "questions": ["Voltage controlled oscillators are used commonly in"], "answers": [" All the above"], "subject": "electrical_engineering_test"}
+{"idx": 58, "questions": ["Low frequency supply is necessary for direct core type induction furnaces because"], "answers": [" Both A and B."], "subject": "electrical_engineering_test"}
+{"idx": 59, "questions": ["The moving coil-meters, damping is provided by"], "answers": [" the aluminium frame of the coil."], "subject": "electrical_engineering_test"}
+{"idx": 60, "questions": ["Which of the following is the analogous quantity for mass element in force-voltage analogy?"], "answers": [" Inductance."], "subject": "electrical_engineering_test"}
+{"idx": 61, "questions": ["A latch is ________ sensitive"], "answers": [" level"], "subject": "electrical_engineering_test"}
+{"idx": 62, "questions": ["What is used to protect the SCR from over current ?"], "answers": [" CB and fuse."], "subject": "electrical_engineering_test"}
+{"idx": 63, "questions": ["The errors mainly caused by human mistakes are"], "answers": [" gross error."], "subject": "electrical_engineering_test"}
+{"idx": 64, "questions": ["Electrical analogous quantity for dash-pot in force-current analogy is"], "answers": [" conductance."], "subject": "electrical_engineering_test"}
+{"idx": 65, "questions": ["Which lamp has the best Colour Rendering Index (CRI)?"], "answers": [" Incandescent"], "subject": "electrical_engineering_test"}
+{"idx": 66, "questions": ["Power dissipation in ideal inductor is"], "answers": [" Zero"], "subject": "electrical_engineering_test"}
+{"idx": 67, "questions": ["For intermittent work which of the following furnace is suitable?"], "answers": [" Indirect arc furnace."], "subject": "electrical_engineering_test"}
+{"idx": 68, "questions": ["In electrical resistance welding material of electrode should have"], "answers": [" all of above."], "subject": "electrical_engineering_test"}
+{"idx": 69, "questions": ["Which of the following are the passive elements?"], "answers": [" Both"], "subject": "electrical_engineering_test"}
+{"idx": 70, "questions": ["The main advantage of dielectric heating is that"], "answers": [" heating occurs in the material itself."], "subject": "electrical_engineering_test"}
+{"idx": 71, "questions": ["Materials used in heat sink should have"], "answers": [" All of these."], "subject": "electrical_engineering_test"}
+{"idx": 72, "questions": ["Conductor is static and the field is varying then emf will be induced. This principle is called"], "answers": [" static induced emf."], "subject": "electrical_engineering_test"}
+{"idx": 73, "questions": ["Four identical alternators each are rated for 20 MVA, 11 KV having a subtransient reactance of 16% are working in parallel. The short circuit level at the busbar is"], "answers": [" 500 MVA"], "subject": "electrical_engineering_test"}
+{"idx": 74, "questions": ["According to the Bohr model, an electron gains or losses energy only by"], "answers": [" jumping from one allowed orbit to another."], "subject": "electrical_engineering_test"}
+{"idx": 75, "questions": ["A three-state buffer has the following output states"], "answers": [" Both A and B"], "subject": "electrical_engineering_test"}
+{"idx": 76, "questions": ["By using which of the following elements, mechanical translational systems are obtained?"], "answers": [" all of the above"], "subject": "electrical_engineering_test"}
+{"idx": 77, "questions": ["Four capacitors each of 40 µF are connected in parallel, the equivalent capacitance of the system will be"], "answers": [" 160 µF"], "subject": "electrical_engineering_test"}
+{"idx": 78, "questions": ["The resistance of a conductor of diameter d and length l is R Ω. If the diameter of the conductor is halved and its length is doubled, the resistance will be"], "answers": [" 4R Ω"], "subject": "electrical_engineering_test"}
+{"idx": 79, "questions": ["A single phase full bridge inverter can operated in load commutation mode in case load consist of"], "answers": [" RLC underdamped."], "subject": "electrical_engineering_test"}
+{"idx": 80, "questions": ["A microprocessor is ALU"], "answers": [" register unit and control unit on a single chip."], "subject": "electrical_engineering_test"}
+{"idx": 81, "questions": ["To obtain a high value of capacitance, the permittivity of dielectric medium should be"], "answers": [" high"], "subject": "electrical_engineering_test"}
+{"idx": 82, "questions": ["Deflection method direct measurements are most widely used as these are"], "answers": [" most simple and least time consuming."], "subject": "electrical_engineering_test"}
+{"idx": 83, "questions": ["Purely mechanical instrument cannot be used for dynamic measurements because they have"], "answers": [" all of the above."], "subject": "electrical_engineering_test"}
+{"idx": 84, "questions": ["Advantages of higher transmission voltage is/are"], "answers": [" all of the above"], "subject": "electrical_engineering_test"}
+{"idx": 85, "questions": ["Under over voltage condition impedance offered by the voltage clamping device is"], "answers": [" low."], "subject": "electrical_engineering_test"}
+{"idx": 86, "questions": ["A long wire composed of a smooth round conductor runs above and parallel to the ground (assumed to be a large conducting plane). A high voltage exists between the conductor and the ground. The maximum electric stress occurs at"], "answers": [" lower surface of the conductor."], "subject": "electrical_engineering_test"}
+{"idx": 87, "questions": ["In a dc machine 6 pole wave winding is used. The number of parallel paths are?"], "answers": [" 2"], "subject": "electrical_engineering_test"}
+{"idx": 88, "questions": ["Which of the following is a digital device"], "answers": [" Light switch"], "subject": "electrical_engineering_test"}
+{"idx": 89, "questions": ["Which of the following is a variable displacement transducer?"], "answers": [" potentiometer"], "subject": "electrical_engineering_test"}
+{"idx": 90, "questions": ["Five capacitors each of 5 µF are connected in series, the equivalent capacitance of the system will be"], "answers": [" 1 µF"], "subject": "electrical_engineering_test"}
+{"idx": 91, "questions": ["Susceptibility is negative for"], "answers": [" diamagnetic substances."], "subject": "electrical_engineering_test"}
+{"idx": 92, "questions": ["The metal surfaces for electrical resistance welding must be"], "answers": [" clean."], "subject": "electrical_engineering_test"}
+{"idx": 93, "questions": ["The latching current of SCR is 20 mA. Its holding current will be"], "answers": [" 10 mA."], "subject": "electrical_engineering_test"}
+{"idx": 94, "questions": ["In force-current analogy, electrical analogous quantity for displacement (x) is"], "answers": [" flux."], "subject": "electrical_engineering_test"}
+{"idx": 95, "questions": ["Feedback circuit in an oscillator can be accomplished by"], "answers": [" Any one or combinations of the above methods"], "subject": "electrical_engineering_test"}
+{"idx": 96, "questions": ["Lowest critical frequency is due to zero and it may be present at the origin or nearer to the origin, then the type of network is"], "answers": [" RL Circuit."], "subject": "electrical_engineering_test"}
+{"idx": 97, "questions": ["What is the value of dielectric constant of air?"], "answers": [" 1."], "subject": "electrical_engineering_test"}
+{"idx": 98, "questions": ["Temperature variation is a/an"], "answers": [" Analog quantity"], "subject": "electrical_engineering_test"}
+{"idx": 99, "questions": ["The illumination at a point 5 meters below a lamp in 6 lux. The candle power of the lamp is"], "answers": [" 150."], "subject": "electrical_engineering_test"}
+{"idx": 100, "questions": ["For a dc machine shunt resistance and armature resistance values are"], "answers": [" high and low"], "subject": "electrical_engineering_test"}
+{"idx": 101, "questions": ["Which of the following is used in SCR to protect from high dV / dt?"], "answers": [" Snubber circuit."], "subject": "electrical_engineering_test"}
+{"idx": 102, "questions": ["What are the sets of commands in a program which are not translated into machine instructions during assembly process, called?"], "answers": [" Directives"], "subject": "electrical_engineering_test"}
+{"idx": 103, "questions": ["Which of the followings is/are active element?"], "answers": [" Both"], "subject": "electrical_engineering_test"}
+{"idx": 104, "questions": ["Electrical analogous quantity for spring element (K) in force-voltage analogy is"], "answers": [" 1/C"], "subject": "electrical_engineering_test"}
+{"idx": 105, "questions": ["A quartz crystal oscillator consists of"], "answers": [" both series and parallel frequencies."], "subject": "electrical_engineering_test"}
+{"idx": 106, "questions": ["Which of the following oscillators are used for low frequency (LF) applications"], "answers": [" RC oscillators"], "subject": "electrical_engineering_test"}
+{"idx": 107, "questions": ["The solid angle subtended by an area of 2400 cm^2 on the surface of a sphere of diameter 1.2 m is"], "answers": [" 2 / 3."], "subject": "electrical_engineering_test"}
+{"idx": 108, "questions": ["Relative error is same as"], "answers": [" ratio of absolute error and true value."], "subject": "electrical_engineering_test"}
+{"idx": 109, "questions": ["If holding current of a thyristor is 2 mA then latching current should be"], "answers": [" 0.004 A."], "subject": "electrical_engineering_test"}
+{"idx": 110, "questions": ["In an intel 8085A, which is the first machine cycle of an instruction?"], "answers": [" An op-code fetch cycle"], "subject": "electrical_engineering_test"}
+{"idx": 111, "questions": ["Which of the following are the disadvantages of a closed loop control system?"], "answers": [" All of the above."], "subject": "electrical_engineering_test"}
+{"idx": 112, "questions": ["Poles and zeros are arranged alternatively on negative real axis, then type of network is/are"], "answers": [" Both 2 and 3."], "subject": "electrical_engineering_test"}
+{"idx": 113, "questions": ["The magnetisation and applied field in ferromagnetic materials are related"], "answers": [" non linearly."], "subject": "electrical_engineering_test"}
+{"idx": 114, "questions": ["Thin laminations are used in a machine in order to reduce"], "answers": [" Eddy current losses"], "subject": "electrical_engineering_test"}
+{"idx": 115, "questions": ["A metal surface with 1 meter radius and surface charge density of 20 coulombs / m2 is enclosed in a 10 m side cube. The total outward electric displacement normal to the surface of the cube is"], "answers": [" 80π coulombs."], "subject": "electrical_engineering_test"}
+{"idx": 116, "questions": ["In binary number system the first digit (bit) from right to left is called as"], "answers": [" LSB, Least Significant Bit"], "subject": "electrical_engineering_test"}
+{"idx": 117, "questions": ["In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of the system is"], "answers": [" 0.5."], "subject": "electrical_engineering_test"}
+{"idx": 118, "questions": ["A 0 - 100 V voltmeter has a guaranteed accuracy of 2 % of full scale reading. The voltage measured by the voltmeter is 75 V. The limiting error is in percentage"], "answers": [" 2.66 %."], "subject": "electrical_engineering_test"}
+{"idx": 119, "questions": ["Which of the following methods is/are used for reactive or voltage compensation"], "answers": [" all of the above"], "subject": "electrical_engineering_test"}
+{"idx": 120, "questions": ["The ROM programmed during manufacturing process itself is called"], "answers": [" MROM"], "subject": "electrical_engineering_test"}
+{"idx": 121, "questions": ["In 8085 name/names of the 16 bit registers is/are"], "answers": [" both A and B."], "subject": "electrical_engineering_test"}
+{"idx": 122, "questions": ["Stability of a transmission line can be increased by"], "answers": [" both A and B"], "subject": "electrical_engineering_test"}
+{"idx": 123, "questions": ["Snubber circuit is used with SCR"], "answers": [" in parallel."], "subject": "electrical_engineering_test"}
+{"idx": 124, "questions": ["The number of rings in the Bohr model of any element is determined by what?"], "answers": [" Row number on periodic table."], "subject": "electrical_engineering_test"}
+{"idx": 125, "questions": ["Silicon and Germanium are ________ elements."], "answers": [" tetravalant"], "subject": "electrical_engineering_test"}
+{"idx": 126, "questions": ["The number of output pins in 8085 microprocessors are"], "answers": [" 27."], "subject": "electrical_engineering_test"}
+{"idx": 127, "questions": ["If P is the power of a star connected system then what will be power of an equivalent delta connected system?"], "answers": [" P"], "subject": "electrical_engineering_test"}
+{"idx": 128, "questions": ["Which oscillators are easy to fabricate in a monolithic IC?"], "answers": [" Relaxation oscillator."], "subject": "electrical_engineering_test"}
+{"idx": 129, "questions": ["If all the elements in a particular network are linear, then the superposition theorem would hold, when the excitation is"], "answers": [" Either AC or DC"], "subject": "electrical_engineering_test"}
+{"idx": 130, "questions": ["The feedback factor of a Wien bridge oscillator using Op-Amp is"], "answers": [" 1/2"], "subject": "electrical_engineering_test"}
+{"idx": 131, "questions": ["Which of the following is not a sinusoidal oscillator?"], "answers": [" Relaxation oscillator"], "subject": "electrical_engineering_test"}
+{"idx": 132, "questions": ["A wire carrying current is bent in the form of a circular loop. Then the magnetic field around each portion of the wire will be"], "answers": [" parallel to the plane of the wire."], "subject": "electrical_engineering_test"}
+{"idx": 0, "questions": ["The Barkhausen criterion for an oscillator"], "answers": [" Both A and C"], "subject": "electrical_engineering_test"}
+{"idx": 1, "questions": ["Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because"], "answers": [" It does not load the circuit at all."], "subject": "electrical_engineering_test"}
+{"idx": 2, "questions": ["Which of these sets of logic gates are designated as universal gates?"], "answers": [" NOR, NAND."], "subject": "electrical_engineering_test"}
+{"idx": 3, "questions": ["A box which tells the effect of inputs on control sub system is known as"], "answers": [" Decision box."], "subject": "electrical_engineering_test"}
+{"idx": 4, "questions": ["Two infinite parallel metal plates are charged with equal surface charge density of the same polarity. The electric field in the gap between the plates is"], "answers": [" zero."], "subject": "electrical_engineering_test"}
+{"idx": 5, "questions": ["The resistance in the circuit of the moving coil of a dynamometer wattmeter should be"], "answers": [" High."], "subject": "electrical_engineering_test"}
+{"idx": 6, "questions": ["The following are the necessary requirements of an oscillator"], "answers": [" Both A and B"], "subject": "electrical_engineering_test"}
+{"idx": 7, "questions": ["The normal voltage used in directional heating is"], "answers": [" 1.5 KV."], "subject": "electrical_engineering_test"}
+{"idx": 8, "questions": ["LC oscillators are used for produce a waveform with frequency ranging from"], "answers": [" 1MHz to 500 MHz"], "subject": "electrical_engineering_test"}
+{"idx": 9, "questions": ["What is the name of the fluorescent material that gives red colour fluorescence?"], "answers": [" Magnesium silicate."], "subject": "electrical_engineering_test"}
+{"idx": 10, "questions": ["How many bits are required to store one BCD digit ?"], "answers": [" 4"], "subject": "electrical_engineering_test"}
+{"idx": 11, "questions": ["Commutator in DC generator is used for"], "answers": [" convert AC armature current in to DC"], "subject": "electrical_engineering_test"}
+{"idx": 12, "questions": ["1 F is theoretically equal to"], "answers": [" ratio of 1 C to 1 V"], "subject": "electrical_engineering_test"}
+{"idx": 13, "questions": ["How many entries will be in the truth table of a 3 input NAND gate ?"], "answers": [" 8"], "subject": "electrical_engineering_test"}
+{"idx": 14, "questions": ["In decimal number system what is MSD"], "answers": [" First digit from left to right"], "subject": "electrical_engineering_test"}
+{"idx": 15, "questions": ["In Digital Logic Designs, GAL is abbreviated as"], "answers": [" Generic Array Logic"], "subject": "electrical_engineering_test"}
+{"idx": 16, "questions": ["For an SCR gate cathode characteristic is a straight line of 130. For triggered source volume of 15 V and allowable gate power dissipation of 0.5 W compute the gate source resistance?"], "answers": [" 111.9 ohm"], "subject": "electrical_engineering_test"}
+{"idx": 17, "questions": ["The concept of V/f control of inverters driving induction motors resuls in"], "answers": [" constant torque operation"], "subject": "electrical_engineering_test"}
+{"idx": 18, "questions": ["The energy stored in the magnetic field in a solenoid 30 cm long and 3 cm diameter wound with 1000 turns of wire carrying a current at 10 amp, is"], "answers": [" 0.15 joule."], "subject": "electrical_engineering_test"}
+{"idx": 19, "questions": ["While operating on variable frequency supplies, the AC motor requires variable voltage in order to"], "answers": [" avoid effect of saturation."], "subject": "electrical_engineering_test"}
+{"idx": 20, "questions": ["Which of the following windings are necessary in case of all dc machines?"], "answers": [" closed winding"], "subject": "electrical_engineering_test"}
+{"idx": 21, "questions": ["Relaxation Voltage controlled oscillators are used to generate"], "answers": [" Both B and C"], "subject": "electrical_engineering_test"}
+{"idx": 22, "questions": ["In the toggle mode a JK flip-flop has"], "answers": [" J = 1, K = 1."], "subject": "electrical_engineering_test"}
+{"idx": 23, "questions": ["Electric drive is becoming more and more popular because"], "answers": [" all of below."], "subject": "electrical_engineering_test"}
+{"idx": 24, "questions": ["A step up chopper has input voltage 110 V and output voltage 150 V. The value of duty cycle is"], "answers": [" 0.67."], "subject": "electrical_engineering_test"}
+{"idx": 25, "questions": ["A Binary number system has how many digits."], "answers": [" 2"], "subject": "electrical_engineering_test"}
+{"idx": 26, "questions": ["Lowest critical frequency is due to pole and it may be present at the origin or nearer to the origin, then the type of network is"], "answers": [" RC."], "subject": "electrical_engineering_test"}
+{"idx": 27, "questions": ["Advantages of open loop control system is/are"], "answers": [" simple and economical."], "subject": "electrical_engineering_test"}
+{"idx": 28, "questions": ["If a Hexadecimal number needs to convert to binary. For each hexadecimal digit, there will be how many bits"], "answers": [" 4"], "subject": "electrical_engineering_test"}
+{"idx": 29, "questions": ["In a lap winding dc machine number of conductors are 100 and number of parallel paths are 10. Find the average pitch"], "answers": [" 10"], "subject": "electrical_engineering_test"}
+{"idx": 30, "questions": ["Magnetic flux has the unit of"], "answers": [" Weber"], "subject": "electrical_engineering_test"}
+{"idx": 31, "questions": ["In balanced bridge, if the positions of detector and source are interchanged, the bridge will still remain balanced. This can be explained from which theorem"], "answers": [" Reciprocity theorem"], "subject": "electrical_engineering_test"}
+{"idx": 32, "questions": ["A D-flip-flop is said to be transparent when"], "answers": [" the output follow input"], "subject": "electrical_engineering_test"}
+{"idx": 33, "questions": ["A Lissajous pattern on an oscilloscope has 5 horinzontal tangencies and 2 vertical tangencies. The frequency of horizontal input is 100 Hz. The frequency of the vertical will be"], "answers": [" 250 Hz."], "subject": "electrical_engineering_test"}
+{"idx": 34, "questions": ["Speed control by variation of field flux results in"], "answers": [" constant power drive."], "subject": "electrical_engineering_test"}
+{"idx": 35, "questions": ["Which of the following memories uses one transistor and one capacitor as basic memory unit"], "answers": [" DRAM"], "subject": "electrical_engineering_test"}
+{"idx": 36, "questions": ["What will be the number of lamps, each having 300 lumens, required to obtain an average illuminance of 50 lux on a 4m * 3m rectangular room?"], "answers": [" 2"], "subject": "electrical_engineering_test"}
+{"idx": 37, "questions": ["The output of the system has an effect upon the input quantity, then the system is a"], "answers": [" closed loop control system."], "subject": "electrical_engineering_test"}
+{"idx": 38, "questions": ["FM stands for"], "answers": [" frequency modulation."], "subject": "electrical_engineering_test"}
+{"idx": 39, "questions": ["Stack is also known as"], "answers": [" LIFO memory"], "subject": "electrical_engineering_test"}
+{"idx": 40, "questions": ["In Ward-Leonard system, the lower limit of the speed imposed by"], "answers": [" Residual magnetism of the generator."], "subject": "electrical_engineering_test"}
+{"idx": 41, "questions": ["Colpitts oscillator is also called as"], "answers": [" All of the above"], "subject": "electrical_engineering_test"}
+{"idx": 42, "questions": ["An SCR has half cycle surge current rating of 3000 A for 50 Hz supply. One cycle surge current will be"], "answers": [" 2121.32 A."], "subject": "electrical_engineering_test"}
+{"idx": 43, "questions": ["Both the ALU and control section of CPU employ which special purpose storage location?"], "answers": [" Accumulators"], "subject": "electrical_engineering_test"}
+{"idx": 44, "questions": ["Systematic errors are"], "answers": [" all of the above."], "subject": "electrical_engineering_test"}
+{"idx": 45, "questions": ["Which of the following is/are the disadvantages of an open loop control system?"], "answers": [" both A and B."], "subject": "electrical_engineering_test"}
+{"idx": 46, "questions": ["A diode (p-n junction) when reverse biased act as"], "answers": [" Off Switch"], "subject": "electrical_engineering_test"}
+{"idx": 47, "questions": ["Piezoelectric effect is carried out in"], "answers": [" crystal filter."], "subject": "electrical_engineering_test"}
+{"idx": 48, "questions": ["The resistivity of the conductor depends on"], "answers": [" type of material."], "subject": "electrical_engineering_test"}
+{"idx": 49, "questions": ["The smallest change in measured variable to which instrument will respond is"], "answers": [" resolution."], "subject": "electrical_engineering_test"}
+{"idx": 50, "questions": ["In electronic communications, \"AM\" stands for"], "answers": [" Amplitude Modulation"], "subject": "electrical_engineering_test"}
+{"idx": 51, "questions": ["Which system is also known as automatic control system?"], "answers": [" Closed loop control system"], "subject": "electrical_engineering_test"}
+{"idx": 52, "questions": ["A combinational PLD with a fixed AND array and a programmable OR array is called a"], "answers": [" PROM"], "subject": "electrical_engineering_test"}
+{"idx": 53, "questions": ["A null type instrument as compared to a deflected type instrument has"], "answers": [" a higher accuracy."], "subject": "electrical_engineering_test"}
+{"idx": 54, "questions": ["Length of the cable is doubled, its capacitance C will be"], "answers": [" doubled."], "subject": "electrical_engineering_test"}
+{"idx": 55, "questions": ["Electrons in p-type material of a semi-conductor are called as"], "answers": [" minority carriers"], "subject": "electrical_engineering_test"}
+{"idx": 56, "questions": ["________ is the most detrimental impurity in the magnetic materials"], "answers": [" Carbon."], "subject": "electrical_engineering_test"}
+{"idx": 57, "questions": ["Voltage controlled oscillators are used commonly in"], "answers": [" All the above"], "subject": "electrical_engineering_test"}
+{"idx": 58, "questions": ["Low frequency supply is necessary for direct core type induction furnaces because"], "answers": [" Both A and B."], "subject": "electrical_engineering_test"}
+{"idx": 59, "questions": ["The moving coil-meters, damping is provided by"], "answers": [" the aluminium frame of the coil."], "subject": "electrical_engineering_test"}
+{"idx": 60, "questions": ["Which of the following is the analogous quantity for mass element in force-voltage analogy?"], "answers": [" Inductance."], "subject": "electrical_engineering_test"}
+{"idx": 61, "questions": ["A latch is ________ sensitive"], "answers": [" level"], "subject": "electrical_engineering_test"}
+{"idx": 62, "questions": ["What is used to protect the SCR from over current ?"], "answers": [" CB and fuse."], "subject": "electrical_engineering_test"}
+{"idx": 63, "questions": ["The errors mainly caused by human mistakes are"], "answers": [" gross error."], "subject": "electrical_engineering_test"}
+{"idx": 64, "questions": ["Electrical analogous quantity for dash-pot in force-current analogy is"], "answers": [" conductance."], "subject": "electrical_engineering_test"}
+{"idx": 65, "questions": ["Which lamp has the best Colour Rendering Index (CRI)?"], "answers": [" Incandescent"], "subject": "electrical_engineering_test"}
+{"idx": 66, "questions": ["Power dissipation in ideal inductor is"], "answers": [" Zero"], "subject": "electrical_engineering_test"}
+{"idx": 67, "questions": ["For intermittent work which of the following furnace is suitable?"], "answers": [" Indirect arc furnace."], "subject": "electrical_engineering_test"}
+{"idx": 68, "questions": ["In electrical resistance welding material of electrode should have"], "answers": [" all of above."], "subject": "electrical_engineering_test"}
+{"idx": 69, "questions": ["Which of the following are the passive elements?"], "answers": [" Both"], "subject": "electrical_engineering_test"}
+{"idx": 70, "questions": ["The main advantage of dielectric heating is that"], "answers": [" heating occurs in the material itself."], "subject": "electrical_engineering_test"}
+{"idx": 71, "questions": ["Materials used in heat sink should have"], "answers": [" All of these."], "subject": "electrical_engineering_test"}
+{"idx": 72, "questions": ["Conductor is static and the field is varying then emf will be induced. This principle is called"], "answers": [" static induced emf."], "subject": "electrical_engineering_test"}
+{"idx": 73, "questions": ["Four identical alternators each are rated for 20 MVA, 11 KV having a subtransient reactance of 16% are working in parallel. The short circuit level at the busbar is"], "answers": [" 500 MVA"], "subject": "electrical_engineering_test"}
+{"idx": 74, "questions": ["According to the Bohr model, an electron gains or losses energy only by"], "answers": [" jumping from one allowed orbit to another."], "subject": "electrical_engineering_test"}
+{"idx": 75, "questions": ["A three-state buffer has the following output states"], "answers": [" Both A and B"], "subject": "electrical_engineering_test"}
+{"idx": 76, "questions": ["By using which of the following elements, mechanical translational systems are obtained?"], "answers": [" all of the above"], "subject": "electrical_engineering_test"}
+{"idx": 77, "questions": ["Four capacitors each of 40 µF are connected in parallel, the equivalent capacitance of the system will be"], "answers": [" 160 µF"], "subject": "electrical_engineering_test"}
+{"idx": 78, "questions": ["The resistance of a conductor of diameter d and length l is R Ω. If the diameter of the conductor is halved and its length is doubled, the resistance will be"], "answers": [" 4R Ω"], "subject": "electrical_engineering_test"}
+{"idx": 79, "questions": ["A single phase full bridge inverter can operated in load commutation mode in case load consist of"], "answers": [" RLC underdamped."], "subject": "electrical_engineering_test"}
+{"idx": 80, "questions": ["A microprocessor is ALU"], "answers": [" register unit and control unit on a single chip."], "subject": "electrical_engineering_test"}
+{"idx": 81, "questions": ["To obtain a high value of capacitance, the permittivity of dielectric medium should be"], "answers": [" high"], "subject": "electrical_engineering_test"}
+{"idx": 82, "questions": ["Deflection method direct measurements are most widely used as these are"], "answers": [" most simple and least time consuming."], "subject": "electrical_engineering_test"}
+{"idx": 83, "questions": ["Purely mechanical instrument cannot be used for dynamic measurements because they have"], "answers": [" all of the above."], "subject": "electrical_engineering_test"}
+{"idx": 84, "questions": ["Advantages of higher transmission voltage is/are"], "answers": [" all of the above"], "subject": "electrical_engineering_test"}
+{"idx": 85, "questions": ["Under over voltage condition impedance offered by the voltage clamping device is"], "answers": [" low."], "subject": "electrical_engineering_test"}
+{"idx": 86, "questions": ["A long wire composed of a smooth round conductor runs above and parallel to the ground (assumed to be a large conducting plane). A high voltage exists between the conductor and the ground. The maximum electric stress occurs at"], "answers": [" lower surface of the conductor."], "subject": "electrical_engineering_test"}
+{"idx": 87, "questions": ["In a dc machine 6 pole wave winding is used. The number of parallel paths are?"], "answers": [" 2"], "subject": "electrical_engineering_test"}
+{"idx": 88, "questions": ["Which of the following is a digital device"], "answers": [" Light switch"], "subject": "electrical_engineering_test"}
+{"idx": 89, "questions": ["Which of the following is a variable displacement transducer?"], "answers": [" potentiometer"], "subject": "electrical_engineering_test"}
+{"idx": 90, "questions": ["Five capacitors each of 5 µF are connected in series, the equivalent capacitance of the system will be"], "answers": [" 1 µF"], "subject": "electrical_engineering_test"}
+{"idx": 91, "questions": ["Susceptibility is negative for"], "answers": [" diamagnetic substances."], "subject": "electrical_engineering_test"}
+{"idx": 92, "questions": ["The metal surfaces for electrical resistance welding must be"], "answers": [" clean."], "subject": "electrical_engineering_test"}
+{"idx": 93, "questions": ["The latching current of SCR is 20 mA. Its holding current will be"], "answers": [" 10 mA."], "subject": "electrical_engineering_test"}
+{"idx": 94, "questions": ["In force-current analogy, electrical analogous quantity for displacement (x) is"], "answers": [" flux."], "subject": "electrical_engineering_test"}
+{"idx": 95, "questions": ["Feedback circuit in an oscillator can be accomplished by"], "answers": [" Any one or combinations of the above methods"], "subject": "electrical_engineering_test"}
+{"idx": 96, "questions": ["Lowest critical frequency is due to zero and it may be present at the origin or nearer to the origin, then the type of network is"], "answers": [" RL Circuit."], "subject": "electrical_engineering_test"}
+{"idx": 97, "questions": ["What is the value of dielectric constant of air?"], "answers": [" 1."], "subject": "electrical_engineering_test"}
+{"idx": 98, "questions": ["Temperature variation is a/an"], "answers": [" Analog quantity"], "subject": "electrical_engineering_test"}
+{"idx": 99, "questions": ["The illumination at a point 5 meters below a lamp in 6 lux. The candle power of the lamp is"], "answers": [" 150."], "subject": "electrical_engineering_test"}
+{"idx": 100, "questions": ["For a dc machine shunt resistance and armature resistance values are"], "answers": [" high and low"], "subject": "electrical_engineering_test"}
+{"idx": 101, "questions": ["Which of the following is used in SCR to protect from high dV / dt?"], "answers": [" Snubber circuit."], "subject": "electrical_engineering_test"}
+{"idx": 102, "questions": ["What are the sets of commands in a program which are not translated into machine instructions during assembly process, called?"], "answers": [" Directives"], "subject": "electrical_engineering_test"}
+{"idx": 103, "questions": ["Which of the followings is/are active element?"], "answers": [" Both"], "subject": "electrical_engineering_test"}
+{"idx": 104, "questions": ["Electrical analogous quantity for spring element (K) in force-voltage analogy is"], "answers": [" 1/C"], "subject": "electrical_engineering_test"}
+{"idx": 105, "questions": ["A quartz crystal oscillator consists of"], "answers": [" both series and parallel frequencies."], "subject": "electrical_engineering_test"}
+{"idx": 106, "questions": ["Which of the following oscillators are used for low frequency (LF) applications"], "answers": [" RC oscillators"], "subject": "electrical_engineering_test"}
+{"idx": 107, "questions": ["The solid angle subtended by an area of 2400 cm^2 on the surface of a sphere of diameter 1.2 m is"], "answers": [" 2 / 3."], "subject": "electrical_engineering_test"}
+{"idx": 108, "questions": ["Relative error is same as"], "answers": [" ratio of absolute error and true value."], "subject": "electrical_engineering_test"}
+{"idx": 109, "questions": ["If holding current of a thyristor is 2 mA then latching current should be"], "answers": [" 0.004 A."], "subject": "electrical_engineering_test"}
+{"idx": 110, "questions": ["In an intel 8085A, which is the first machine cycle of an instruction?"], "answers": [" An op-code fetch cycle"], "subject": "electrical_engineering_test"}
+{"idx": 111, "questions": ["Which of the following are the disadvantages of a closed loop control system?"], "answers": [" All of the above."], "subject": "electrical_engineering_test"}
+{"idx": 112, "questions": ["Poles and zeros are arranged alternatively on negative real axis, then type of network is/are"], "answers": [" Both 2 and 3."], "subject": "electrical_engineering_test"}
+{"idx": 113, "questions": ["The magnetisation and applied field in ferromagnetic materials are related"], "answers": [" non linearly."], "subject": "electrical_engineering_test"}
+{"idx": 114, "questions": ["Thin laminations are used in a machine in order to reduce"], "answers": [" Eddy current losses"], "subject": "electrical_engineering_test"}
+{"idx": 115, "questions": ["A metal surface with 1 meter radius and surface charge density of 20 coulombs / m2 is enclosed in a 10 m side cube. The total outward electric displacement normal to the surface of the cube is"], "answers": [" 80π coulombs."], "subject": "electrical_engineering_test"}
+{"idx": 116, "questions": ["In binary number system the first digit (bit) from right to left is called as"], "answers": [" LSB, Least Significant Bit"], "subject": "electrical_engineering_test"}
+{"idx": 117, "questions": ["In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of the system is"], "answers": [" 0.5."], "subject": "electrical_engineering_test"}
+{"idx": 118, "questions": ["A 0 - 100 V voltmeter has a guaranteed accuracy of 2 % of full scale reading. The voltage measured by the voltmeter is 75 V. The limiting error is in percentage"], "answers": [" 2.66 %."], "subject": "electrical_engineering_test"}
+{"idx": 119, "questions": ["Which of the following methods is/are used for reactive or voltage compensation"], "answers": [" all of the above"], "subject": "electrical_engineering_test"}
+{"idx": 120, "questions": ["The ROM programmed during manufacturing process itself is called"], "answers": [" MROM"], "subject": "electrical_engineering_test"}
+{"idx": 121, "questions": ["In 8085 name/names of the 16 bit registers is/are"], "answers": [" both A and B."], "subject": "electrical_engineering_test"}
+{"idx": 122, "questions": ["Stability of a transmission line can be increased by"], "answers": [" both A and B"], "subject": "electrical_engineering_test"}
+{"idx": 123, "questions": ["Snubber circuit is used with SCR"], "answers": [" in parallel."], "subject": "electrical_engineering_test"}
+{"idx": 124, "questions": ["The number of rings in the Bohr model of any element is determined by what?"], "answers": [" Row number on periodic table."], "subject": "electrical_engineering_test"}
+{"idx": 125, "questions": ["Silicon and Germanium are ________ elements."], "answers": [" tetravalant"], "subject": "electrical_engineering_test"}
+{"idx": 126, "questions": ["The number of output pins in 8085 microprocessors are"], "answers": [" 27."], "subject": "electrical_engineering_test"}
+{"idx": 127, "questions": ["If P is the power of a star connected system then what will be power of an equivalent delta connected system?"], "answers": [" P"], "subject": "electrical_engineering_test"}
+{"idx": 128, "questions": ["Which oscillators are easy to fabricate in a monolithic IC?"], "answers": [" Relaxation oscillator."], "subject": "electrical_engineering_test"}
+{"idx": 129, "questions": ["If all the elements in a particular network are linear, then the superposition theorem would hold, when the excitation is"], "answers": [" Either AC or DC"], "subject": "electrical_engineering_test"}
+{"idx": 130, "questions": ["The feedback factor of a Wien bridge oscillator using Op-Amp is"], "answers": [" 1/2"], "subject": "electrical_engineering_test"}
+{"idx": 131, "questions": ["Which of the following is not a sinusoidal oscillator?"], "answers": [" Relaxation oscillator"], "subject": "electrical_engineering_test"}
+{"idx": 132, "questions": ["A wire carrying current is bent in the form of a circular loop. Then the magnetic field around each portion of the wire will be"], "answers": [" parallel to the plane of the wire."], "subject": "electrical_engineering_test"}

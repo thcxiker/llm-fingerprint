@@ -1,0 +1,106 @@
+{"idx": 0, "questions": ["The rate, r, of a zero-order chemical reaction A → B can be expressed as which of the following?"], "answers": [" r = k"], "subject": "college_chemistry_test"}
+{"idx": 1, "questions": ["What is the maximum number of phases that can be at equilibrium with each other in a three component mixture?"], "answers": [" 5"], "subject": "college_chemistry_test"}
+{"idx": 2, "questions": ["The equation ΔH = ΔU + PΔV is applicable"], "answers": [" only for constant pressure processes"], "subject": "college_chemistry_test"}
+{"idx": 3, "questions": ["Cobalt-60 is used in the radiation therapy of cancer and can be produced by bombardment of cobalt-59 with which of the following?"], "answers": [" Neutrons"], "subject": "college_chemistry_test"}
+{"idx": 4, "questions": ["Which of the following is required for both paramagnetism and ferromagnetism?"], "answers": [" Unpaired electrons"], "subject": "college_chemistry_test"}
+{"idx": 5, "questions": ["Estimate the β-hyperfine value for the cyclobutyl radical (C4H7•) assuming the radical is flat and the HCH angle is 115°."], "answers": [" 4.6 mT"], "subject": "college_chemistry_test"}
+{"idx": 6, "questions": ["The normal modes of a carbon dioxide molecule that are infrared-active include which of the following?\nI. Bending\nII. Symmetric stretching\nIII. Asymmetric stretching"], "answers": [" I and III only"], "subject": "college_chemistry_test"}
+{"idx": 7, "questions": ["Calculate the Larmor frequency for a proton in a magnetic field of 1 T."], "answers": [" 42.58 MHz"], "subject": "college_chemistry_test"}
+{"idx": 8, "questions": ["Which of the following is an n-type semiconductor?"], "answers": [" Arsenic-doped silicon"], "subject": "college_chemistry_test"}
+{"idx": 9, "questions": ["The 13C spectrum of which isomer of C6H14 has lines with five distinct chemical shifts?"], "answers": [" 2-methylpentane"], "subject": "college_chemistry_test"}
+{"idx": 10, "questions": ["Which of the following is the most common naturally-occurring form in which silicon is found?"], "answers": [" Oxide"], "subject": "college_chemistry_test"}
+{"idx": 11, "questions": ["Which nuclide has an NMR frequency of 115.5 MHz in a 20.0 T magnetic field?"], "answers": [" 17O"], "subject": "college_chemistry_test"}
+{"idx": 12, "questions": ["Calculate the magnetic field responsible for the polarization of 2.5 x 10^-6 for 13C at 298 K."], "answers": [" 2.9 T"], "subject": "college_chemistry_test"}
+{"idx": 13, "questions": ["The T2 of an NMR line is 15 ms. Ignoring other sources of linebroadening, calculate its linewidth."], "answers": [" 21.2 Hz"], "subject": "college_chemistry_test"}
+{"idx": 14, "questions": ["Of the following compounds, which has the lowest melting point?"], "answers": [" HCl"], "subject": "college_chemistry_test"}
+{"idx": 15, "questions": ["Predict the hyperfine value for the EPR spectrum of fully deuteriated benzene radical anion C6D6•-."], "answers": [" 0.58 G"], "subject": "college_chemistry_test"}
+{"idx": 16, "questions": ["The strongest base in liquid ammonia is"], "answers": [" NH2−"], "subject": "college_chemistry_test"}
+{"idx": 17, "questions": ["Calculate the Q-factor for an X-band EPR cavity with a resonator bandwidth of 1.58 MHz."], "answers": [" Q = 6012"], "subject": "college_chemistry_test"}
+{"idx": 18, "questions": ["Of the following solutions, which will have the highest ionic strength? (Assume complete dissociation.)"], "answers": [" 0.050 M AlCl3"], "subject": "college_chemistry_test"}
+{"idx": 19, "questions": ["What is the strength (B1) of a 13C 90° pulse of duration 1 μs?"], "answers": [" 5.18 mT"], "subject": "college_chemistry_test"}
+{"idx": 20, "questions": ["Which of the following experimental observations were explained by Planck’s quantum theory?"], "answers": [" Blackbody radiation curves"], "subject": "college_chemistry_test"}
+{"idx": 21, "questions": ["What is the orbital angular momentum quantum number, l, of the electron that is most easily removed when ground-state aluminum is ionized?"], "answers": [" 1"], "subject": "college_chemistry_test"}
+{"idx": 22, "questions": ["Considering 0.1 M aqueous solutions of each of the following, which solution has the lowest pH?"], "answers": [" NaCl"], "subject": "college_chemistry_test"}
+{"idx": 23, "questions": ["Elements with partially filled 4f or 5f orbitals include all of the following EXCEPT"], "answers": [" Cu"], "subject": "college_chemistry_test"}
+{"idx": 24, "questions": ["Calculate spin density on the central carbon atom of malonic acid radical (•CH(COOH)2) if the hyperfine value for the α-hydrogen atom is 21.9 G."], "answers": [" 0.15"], "subject": "college_chemistry_test"}
+{"idx": 25, "questions": ["Of the following ionic substances, which has the greatest lattice enthalpy?"], "answers": [" MgO"], "subject": "college_chemistry_test"}
+{"idx": 26, "questions": ["Which of the following compounds has a 1H resonance approximately 1.55 kHz away from TMS on a spectrometer with a 12.0 T magnet?"], "answers": [" CH3Cl"], "subject": "college_chemistry_test"}
+{"idx": 27, "questions": ["Calculate the equilibrium polarization of 13C nuclei in a 20.0 T magnetic field at 300 K."], "answers": [" 1.71 x 10^-5"], "subject": "college_chemistry_test"}
+{"idx": 28, "questions": ["The magnetic moment (μI) of an unknown nuclide is 2.884 x 10^-27 J T-1. Given the nuclear spin is known to be 1, identify the unknown nuclide."], "answers": [" 2H"], "subject": "college_chemistry_test"}
+{"idx": 29, "questions": ["Which of the following types of spectroscopy is a light-scattering technique?"], "answers": [" Raman"], "subject": "college_chemistry_test"}
+{"idx": 30, "questions": ["When the Heisenberg uncertainty principle is applied to a quantum mechanical particle in the lowest energy level of a one-dimensional box, which of the following is true?"], "answers": [" Neither position nor momentum can be known exactly."], "subject": "college_chemistry_test"}
+{"idx": 31, "questions": ["Exact solutions of the Schrödinger equation CANNOT be obtained for a"], "answers": [" helium atom"], "subject": "college_chemistry_test"}
+{"idx": 32, "questions": ["What is the limiting high-temperature molar heat capacity at constant volume (C_V) of a gas-phase diatomic molecule?"], "answers": [" 3.5R"], "subject": "college_chemistry_test"}
+{"idx": 33, "questions": ["The +1 oxidation state is more stable than the +3 oxidation state for which group 13 element?"], "answers": [" Tl"], "subject": "college_chemistry_test"}
+{"idx": 34, "questions": ["The fact that the infrared absorption frequency of deuterium chloride (DCl) is shifted from that of hydrogen chloride (HCl) is due to the differences in their"], "answers": [" reduced mass"], "subject": "college_chemistry_test"}
+{"idx": 35, "questions": ["The number of allowed energy levels for the 55Mn nuclide are:"], "answers": [" 3"], "subject": "college_chemistry_test"}
+{"idx": 36, "questions": ["A substance that is NOT generally considered to be a toxic pollutant in water is"], "answers": [" carbonic acid"], "subject": "college_chemistry_test"}
+{"idx": 37, "questions": ["The solid-state structures of the principal allotropes of elemental boron are made up of which of the following structural units?"], "answers": [" B12 icosahedra"], "subject": "college_chemistry_test"}
+{"idx": 38, "questions": ["A buffer is made from equal concentrations of a weak acid and its conjugate base. Doubling the volume of the buffer solution by adding water has what effect on its pH?"], "answers": [" It has little effect."], "subject": "college_chemistry_test"}
+{"idx": 39, "questions": ["Which of the following is classified as a conjugate acid-base pair?"], "answers": [" H3O+ / H2O"], "subject": "college_chemistry_test"}
+{"idx": 40, "questions": ["Which of the following metal ions cannot be used as a paramagnetic quencher?"], "answers": [" Cr3+"], "subject": "college_chemistry_test"}
+{"idx": 41, "questions": ["An electron and a proton are placed in a 1.0 T magnetic field at 300 K. What is the ratio of the equilibrium polarizations: |pe / pH| ?"], "answers": [" 820"], "subject": "college_chemistry_test"}
+{"idx": 42, "questions": ["The amplitude of a free induction decay drops to 25% of its initial intensity after 1.0 s. Assuming exponential relaxation and Ω = 0, determine the value of T2."], "answers": [" 1.661 s"], "subject": "college_chemistry_test"}
+{"idx": 43, "questions": ["The molecular geometry of thionyl chloride, SOCl2, is best described as"], "answers": [" trigonal pyramidal"], "subject": "college_chemistry_test"}
+{"idx": 44, "questions": ["Which of the following procedures tend(s) to minimize the influence of random errors on measured results?\nI. Signal averaging\nII. Use of internal standards\nIII. Averaging the results from multiple samples"], "answers": [" I and III only"], "subject": "college_chemistry_test"}
+{"idx": 45, "questions": ["Which of the following is a primary standard for use in standardizing bases?"], "answers": [" Potassium hydrogen phthalate"], "subject": "college_chemistry_test"}
+{"idx": 46, "questions": ["Which of the following is lower for argon than for neon?"], "answers": [" First ionization energy"], "subject": "college_chemistry_test"}
+{"idx": 47, "questions": ["During a delay, spins with an offset frequency Ω = 250 rad s-1 precess through an angle of 60°. How long is the delay?"], "answers": [" 4.19 ms"], "subject": "college_chemistry_test"}
+{"idx": 48, "questions": ["Of the following atoms, which has the lowest electron affinity?"], "answers": [" Ca"], "subject": "college_chemistry_test"}
+{"idx": 49, "questions": ["Of the following ions, which has the smallest radius?"], "answers": [" Sc3+"], "subject": "college_chemistry_test"}
+{"idx": 50, "questions": ["What is the NMR frequency of 31P in a 20.0 T magnetic field?"], "answers": [" 345.0 MHz"], "subject": "college_chemistry_test"}
+{"idx": 51, "questions": ["Predict the number of lines in the EPR spectrum of a solution of dimethylnitroxide (CH3)2NO• assuming the lines do not overlap."], "answers": [" 3"], "subject": "college_chemistry_test"}
+{"idx": 52, "questions": ["Of the following compounds, which is LEAST likely to behave as a Lewis acid?"], "answers": [" SCl2"], "subject": "college_chemistry_test"}
+{"idx": 0, "questions": ["The rate, r, of a zero-order chemical reaction A → B can be expressed as which of the following?"], "answers": [" r = k"], "subject": "college_chemistry_test"}
+{"idx": 1, "questions": ["What is the maximum number of phases that can be at equilibrium with each other in a three component mixture?"], "answers": [" 5"], "subject": "college_chemistry_test"}
+{"idx": 2, "questions": ["The equation ΔH = ΔU + PΔV is applicable"], "answers": [" only for constant pressure processes"], "subject": "college_chemistry_test"}
+{"idx": 3, "questions": ["Cobalt-60 is used in the radiation therapy of cancer and can be produced by bombardment of cobalt-59 with which of the following?"], "answers": [" Neutrons"], "subject": "college_chemistry_test"}
+{"idx": 4, "questions": ["Which of the following is required for both paramagnetism and ferromagnetism?"], "answers": [" Unpaired electrons"], "subject": "college_chemistry_test"}
+{"idx": 5, "questions": ["Estimate the β-hyperfine value for the cyclobutyl radical (C4H7•) assuming the radical is flat and the HCH angle is 115°."], "answers": [" 4.6 mT"], "subject": "college_chemistry_test"}
+{"idx": 6, "questions": ["The normal modes of a carbon dioxide molecule that are infrared-active include which of the following?\nI. Bending\nII. Symmetric stretching\nIII. Asymmetric stretching"], "answers": [" I and III only"], "subject": "college_chemistry_test"}
+{"idx": 7, "questions": ["Calculate the Larmor frequency for a proton in a magnetic field of 1 T."], "answers": [" 42.58 MHz"], "subject": "college_chemistry_test"}
+{"idx": 8, "questions": ["Which of the following is an n-type semiconductor?"], "answers": [" Arsenic-doped silicon"], "subject": "college_chemistry_test"}
+{"idx": 9, "questions": ["The 13C spectrum of which isomer of C6H14 has lines with five distinct chemical shifts?"], "answers": [" 2-methylpentane"], "subject": "college_chemistry_test"}
+{"idx": 10, "questions": ["Which of the following is the most common naturally-occurring form in which silicon is found?"], "answers": [" Oxide"], "subject": "college_chemistry_test"}
+{"idx": 11, "questions": ["Which nuclide has an NMR frequency of 115.5 MHz in a 20.0 T magnetic field?"], "answers": [" 17O"], "subject": "college_chemistry_test"}
+{"idx": 12, "questions": ["Calculate the magnetic field responsible for the polarization of 2.5 x 10^-6 for 13C at 298 K."], "answers": [" 2.9 T"], "subject": "college_chemistry_test"}
+{"idx": 13, "questions": ["The T2 of an NMR line is 15 ms. Ignoring other sources of linebroadening, calculate its linewidth."], "answers": [" 21.2 Hz"], "subject": "college_chemistry_test"}
+{"idx": 14, "questions": ["Of the following compounds, which has the lowest melting point?"], "answers": [" HCl"], "subject": "college_chemistry_test"}
+{"idx": 15, "questions": ["Predict the hyperfine value for the EPR spectrum of fully deuteriated benzene radical anion C6D6•-."], "answers": [" 0.58 G"], "subject": "college_chemistry_test"}
+{"idx": 16, "questions": ["The strongest base in liquid ammonia is"], "answers": [" NH2−"], "subject": "college_chemistry_test"}
+{"idx": 17, "questions": ["Calculate the Q-factor for an X-band EPR cavity with a resonator bandwidth of 1.58 MHz."], "answers": [" Q = 6012"], "subject": "college_chemistry_test"}
+{"idx": 18, "questions": ["Of the following solutions, which will have the highest ionic strength? (Assume complete dissociation.)"], "answers": [" 0.050 M AlCl3"], "subject": "college_chemistry_test"}
+{"idx": 19, "questions": ["What is the strength (B1) of a 13C 90° pulse of duration 1 μs?"], "answers": [" 5.18 mT"], "subject": "college_chemistry_test"}
+{"idx": 20, "questions": ["Which of the following experimental observations were explained by Planck’s quantum theory?"], "answers": [" Blackbody radiation curves"], "subject": "college_chemistry_test"}
+{"idx": 21, "questions": ["What is the orbital angular momentum quantum number, l, of the electron that is most easily removed when ground-state aluminum is ionized?"], "answers": [" 1"], "subject": "college_chemistry_test"}
+{"idx": 22, "questions": ["Considering 0.1 M aqueous solutions of each of the following, which solution has the lowest pH?"], "answers": [" NaCl"], "subject": "college_chemistry_test"}
+{"idx": 23, "questions": ["Elements with partially filled 4f or 5f orbitals include all of the following EXCEPT"], "answers": [" Cu"], "subject": "college_chemistry_test"}
+{"idx": 24, "questions": ["Calculate spin density on the central carbon atom of malonic acid radical (•CH(COOH)2) if the hyperfine value for the α-hydrogen atom is 21.9 G."], "answers": [" 0.15"], "subject": "college_chemistry_test"}
+{"idx": 25, "questions": ["Of the following ionic substances, which has the greatest lattice enthalpy?"], "answers": [" MgO"], "subject": "college_chemistry_test"}
+{"idx": 26, "questions": ["Which of the following compounds has a 1H resonance approximately 1.55 kHz away from TMS on a spectrometer with a 12.0 T magnet?"], "answers": [" CH3Cl"], "subject": "college_chemistry_test"}
+{"idx": 27, "questions": ["Calculate the equilibrium polarization of 13C nuclei in a 20.0 T magnetic field at 300 K."], "answers": [" 1.71 x 10^-5"], "subject": "college_chemistry_test"}
+{"idx": 28, "questions": ["The magnetic moment (μI) of an unknown nuclide is 2.884 x 10^-27 J T-1. Given the nuclear spin is known to be 1, identify the unknown nuclide."], "answers": [" 2H"], "subject": "college_chemistry_test"}
+{"idx": 29, "questions": ["Which of the following types of spectroscopy is a light-scattering technique?"], "answers": [" Raman"], "subject": "college_chemistry_test"}
+{"idx": 30, "questions": ["When the Heisenberg uncertainty principle is applied to a quantum mechanical particle in the lowest energy level of a one-dimensional box, which of the following is true?"], "answers": [" Neither position nor momentum can be known exactly."], "subject": "college_chemistry_test"}
+{"idx": 31, "questions": ["Exact solutions of the Schrödinger equation CANNOT be obtained for a"], "answers": [" helium atom"], "subject": "college_chemistry_test"}
+{"idx": 32, "questions": ["What is the limiting high-temperature molar heat capacity at constant volume (C_V) of a gas-phase diatomic molecule?"], "answers": [" 3.5R"], "subject": "college_chemistry_test"}
+{"idx": 33, "questions": ["The +1 oxidation state is more stable than the +3 oxidation state for which group 13 element?"], "answers": [" Tl"], "subject": "college_chemistry_test"}
+{"idx": 34, "questions": ["The fact that the infrared absorption frequency of deuterium chloride (DCl) is shifted from that of hydrogen chloride (HCl) is due to the differences in their"], "answers": [" reduced mass"], "subject": "college_chemistry_test"}
+{"idx": 35, "questions": ["The number of allowed energy levels for the 55Mn nuclide are:"], "answers": [" 3"], "subject": "college_chemistry_test"}
+{"idx": 36, "questions": ["A substance that is NOT generally considered to be a toxic pollutant in water is"], "answers": [" carbonic acid"], "subject": "college_chemistry_test"}
+{"idx": 37, "questions": ["The solid-state structures of the principal allotropes of elemental boron are made up of which of the following structural units?"], "answers": [" B12 icosahedra"], "subject": "college_chemistry_test"}
+{"idx": 38, "questions": ["A buffer is made from equal concentrations of a weak acid and its conjugate base. Doubling the volume of the buffer solution by adding water has what effect on its pH?"], "answers": [" It has little effect."], "subject": "college_chemistry_test"}
+{"idx": 39, "questions": ["Which of the following is classified as a conjugate acid-base pair?"], "answers": [" H3O+ / H2O"], "subject": "college_chemistry_test"}
+{"idx": 40, "questions": ["Which of the following metal ions cannot be used as a paramagnetic quencher?"], "answers": [" Cr3+"], "subject": "college_chemistry_test"}
+{"idx": 41, "questions": ["An electron and a proton are placed in a 1.0 T magnetic field at 300 K. What is the ratio of the equilibrium polarizations: |pe / pH| ?"], "answers": [" 820"], "subject": "college_chemistry_test"}
+{"idx": 42, "questions": ["The amplitude of a free induction decay drops to 25% of its initial intensity after 1.0 s. Assuming exponential relaxation and Ω = 0, determine the value of T2."], "answers": [" 1.661 s"], "subject": "college_chemistry_test"}
+{"idx": 43, "questions": ["The molecular geometry of thionyl chloride, SOCl2, is best described as"], "answers": [" trigonal pyramidal"], "subject": "college_chemistry_test"}
+{"idx": 44, "questions": ["Which of the following procedures tend(s) to minimize the influence of random errors on measured results?\nI. Signal averaging\nII. Use of internal standards\nIII. Averaging the results from multiple samples"], "answers": [" I and III only"], "subject": "college_chemistry_test"}
+{"idx": 45, "questions": ["Which of the following is a primary standard for use in standardizing bases?"], "answers": [" Potassium hydrogen phthalate"], "subject": "college_chemistry_test"}
+{"idx": 46, "questions": ["Which of the following is lower for argon than for neon?"], "answers": [" First ionization energy"], "subject": "college_chemistry_test"}
+{"idx": 47, "questions": ["During a delay, spins with an offset frequency Ω = 250 rad s-1 precess through an angle of 60°. How long is the delay?"], "answers": [" 4.19 ms"], "subject": "college_chemistry_test"}
+{"idx": 48, "questions": ["Of the following atoms, which has the lowest electron affinity?"], "answers": [" Ca"], "subject": "college_chemistry_test"}
+{"idx": 49, "questions": ["Of the following ions, which has the smallest radius?"], "answers": [" Sc3+"], "subject": "college_chemistry_test"}
+{"idx": 50, "questions": ["What is the NMR frequency of 31P in a 20.0 T magnetic field?"], "answers": [" 345.0 MHz"], "subject": "college_chemistry_test"}
+{"idx": 51, "questions": ["Predict the number of lines in the EPR spectrum of a solution of dimethylnitroxide (CH3)2NO• assuming the lines do not overlap."], "answers": [" 3"], "subject": "college_chemistry_test"}
+{"idx": 52, "questions": ["Of the following compounds, which is LEAST likely to behave as a Lewis acid?"], "answers": [" SCl2"], "subject": "college_chemistry_test"}

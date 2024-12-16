@@ -1,0 +1,310 @@
+{
+    "biology": [
+        {
+            "question_id": 3326,
+            "question": "Which statement about variation is true?"
+        },
+        {
+            "question_id": 3182,
+            "question": "In human, the M, MN, and N blood groups are determined by twocodominantalleles: L^m andL^n. In a population of 800 college students the following phenotypes were identified: Blood Group Number M 392 MN 336 N 72 800 Determine the frequency of the Lm and I\" alleles."
+        },
+        {
+            "question_id": 3245,
+            "question": "A biology student observes filamentous appendages on a bacterium and concludes they are flagella. However, he is told that the bacterium is non-motile. He therefore concludes that the flagella are non-operational. Why are both ofhis conclusions incorrect?"
+        },
+        {
+            "question_id": 3226,
+            "question": "What social and behavioral characteristics are paralleled in the primates, in particular chimpanzees, gorillas and man?"
+        },
+        {
+            "question_id": 2852,
+            "question": "Describe the structure and function of the nuclear membrane."
+        }
+    ],
+    "business": [
+        {
+            "question_id": 512,
+            "question": "An investor has utility function $U(x) = x^{1/4}$ for salary. He has a new job offer which pays $80,000 with a bonus. The bonus will be $0, $10000, $20000, $30000, $40000, $50000, or $60000, each with equal probability. What is the certainty equivalent value of this job offer?"
+        },
+        {
+            "question_id": 493,
+            "question": "Barnes and Sons, Co. insured its offices at an annual premiumof $130 on March 3. On October 15, the carrier canceledthe policy. What was the refund due Barnes and Sons?"
+        },
+        {
+            "question_id": 220,
+            "question": "Distribution of overhead is based on floor space. Department Aoccupied 8,100 sq. ft. of the 121,500 sq. ft. of space used byHar-rison Manufacturing Company. Find department A's shareof overhead based on floor footage for a month in whichthe total overhead of the Harrison Manufacturing Company was $97,500."
+        },
+        {
+            "question_id": 603,
+            "question": "A machinist spent 23(1/2) hours working on a part. If he is paid at the rate of $3.90 per hour , what was the cost of his labor for the part."
+        },
+        {
+            "question_id": 489,
+            "question": "Mr. White received the sum of $972.50 from ABC Loan Company. If he signed a loan agreement to pay $1000 to the loan company at the end of 180 days, what is the discount rate of the loan?"
+        }
+    ],
+    "chemistry": [
+        {
+            "question_id": 4325,
+            "question": "One curie is defined as the amount of material, which is equivalent to one gram of radium, that gives 3.7 \u00d7 10^10 nuclear disintegrations per second. The half-life of ^210At is 8.3 hr. How many grams of astatine (At) would equal one curie?"
+        },
+        {
+            "question_id": 4551,
+            "question": "What is the volume, in cubic centimeters, of a cube whichis 150.0 mm along each edge?"
+        },
+        {
+            "question_id": 4425,
+            "question": "para-dichlorobenzene is used as \"mothballs.\" This compound can also be named"
+        },
+        {
+            "question_id": 4440,
+            "question": "During a delay, spins with an offset frequency \u03a9 = 250 rad s-1 precess through an angle of 60\u00b0. How long is the delay?"
+        },
+        {
+            "question_id": 4245,
+            "question": "The name for CH3CHBrCHClCH2CH3 is"
+        }
+    ],
+    "economics": [
+        {
+            "question_id": 7164,
+            "question": "An increase in corporate optimism will have which of the following effects in the market for loanable funds?"
+        },
+        {
+            "question_id": 7273,
+            "question": "Suppose the marginal utility to David Jones of product A is defined by the function, MU_A = 10 - x, where x is the number of units of A pro-duced. For B, MU_B = 21 - 2y, where y is the number of units of B produced. Assume that the price of A = price of B = $1. How much of A and B would David buy if he had $7 to spend?"
+        },
+        {
+            "question_id": 7454,
+            "question": "Given below are the money NNP and Price Index(1929 base)for 1929 and 1933: Money NNPPrice (billions of current dollars)Index 1929$96100 1933$4875 a) What is the real NNP in 1933 using 1929 as a base? b) What is the real NNP in 1929 using 1933 as a base?"
+        },
+        {
+            "question_id": 7151,
+            "question": "Of the following choices the most direct exchange in the circular flow model of a private closed economy is when"
+        },
+        {
+            "question_id": 7161,
+            "question": "The potential amount of money created after the Fed increases bank reserves will be diminished if"
+        }
+    ],
+    "computer science": [
+        {
+            "question_id": 10384,
+            "question": "Which of the following statements about circuits is (are) true?\nI. Combinational circuits may have feedback; sequential circuits do not.\nII. Combinational circuits have a \"memoryless\" property; sequential circuits do not.\nIII. Both sequential and combinational circuits must be controlled by an external clock."
+        },
+        {
+            "question_id": 10605,
+            "question": "How do you prevent SQL injection?"
+        },
+        {
+            "question_id": 10454,
+            "question": "Statement 1| Since the VC dimension for an SVM with a Radial Base Kernel is infinite, such an SVM must be worse than an SVM with polynomial kernel which has a finite VC dimension. Statement 2| A two layer neural network with linear activation functions is essentially a weighted combination of linear separators, trained on a given dataset; the boosting algorithm built on linear separators also finds a combination of linear separators, therefore these two algorithms will give the same result."
+        },
+        {
+            "question_id": 10634,
+            "question": "Which of the following is false?"
+        },
+        {
+            "question_id": 10518,
+            "question": "Which of the following statements describe(s) properties of a purely segmented memory system?\nI. It divides memory into units of equal size.\nII. It permits implementation of virtual memory.\nIII. It suffers from internal fragmentation."
+        }
+    ],
+    "engineering": [
+        {
+            "question_id": 12173,
+            "question": "A key is used to fasten a pulley having a 3(1/2) in. long hub, delivering a torque of 1250 lbs.-ft. to a shaft 2(1/2) in., in diameter. If the pulley is made of ASTM 25 gray cast-iron, the shaft and key of cold drawn AISI 1020 and hot rolled 1010 steel respectively, determine the following under conditions of moderate shock: (a) the least permissible key length. (b) the key length, considering the key and shaft to be of the same material."
+        },
+        {
+            "question_id": 11442,
+            "question": "Methane is stored at low temperature inside a tank having a volume of 1.5 m^3. Initially the tank is at a pressure of 8atm and contains 30% liquid and 70% vapor on a volume basis. How much heat must be transferred to the tank from the surroundings, so that the pressure inside the tank rises to 100atm?"
+        },
+        {
+            "question_id": 11315,
+            "question": "Find the attenuation per meter along a wave guide for an appliedwave length \\lambda_0 = 2 meters, if the cutoff wave length ofthe guide is\\lambda_oc= 20 cm."
+        },
+        {
+            "question_id": 11962,
+            "question": "The three stages of a cascadedamplifier,have power gains G_1 = 15, G2= 10 and G_3 = 5 respectively. If the effective inputnoise temperatures are T_(e)1 = 1350K, T_(e)2 = 1700K andT_(e)3 = 2500K, determine, (a)overalleffective noise temperature and (b)orderingof the cascaded stages to achieve optimum noiseperformance."
+        },
+        {
+            "question_id": 12001,
+            "question": "A 4-pole commutator machine has 124 lap coils each having two turns. The flux per pole is 0.015 weber. Calculate: (a) The d.c. voltage appearing across quadrature brushes (b) The r.m.s. voltage with three sets of brushes per pole pair for 3-phase working and with relative field / conductor speed = 1400 rev/min."
+        }
+    ],
+    "health": [
+        {
+            "question_id": 6057,
+            "question": "The critical pH below which demineralisation of tooth enamel occurs is usually around:\n"
+        },
+        {
+            "question_id": 6420,
+            "question": "The major concentrations of proprioceptive receptors providing information about position of the TMJ are located in"
+        },
+        {
+            "question_id": 6736,
+            "question": "The initial length of telomere stand for members of a species is"
+        },
+        {
+            "question_id": 6429,
+            "question": "Which of the following structures should be visible on a dental panoramic radiograph?"
+        },
+        {
+            "question_id": 6632,
+            "question": "Which of the following proteins is not involved in the absorption of cholesterol in the small intestine?\n"
+        }
+    ],
+    "history": [
+        {
+            "question_id": 5017,
+            "question": "This question refers to the following information.\n\"The question, therefore, should be quickly settled, whether free colored persons, born and naturalized in this country, are not American citizens, and justly entitled to all the rights, privileges and immunities of citizens of the several states; and whether the Constitution of the United States makes or authorizes any invidious distinction with regard to the color or condition of free inhabitants.\n\"For myself, I have not the shadow of doubt on the subject. I believe that the rights of the free colored persons need only to be vindicated before the U.S. Supreme Court, to be obtained; that no prejudice or sophistry . . . can prevent their acknowledgement . . . and that the present laws, affecting your condition, are clearly unconstitutional. The fact that you have been treated, by common consent and common usage, as aliens and brutes, is not proof that such treatment is legal, but only shows the strength, the bitterness, and the blindness of prejudice.\"\n\u2014William Lloyd Garrison, \"To the Free People of Color of the United States,\" The Liberator, January 15, 1831\nThe approach of William Lloyd Garrison and The Liberator can best be seen as"
+        },
+        {
+            "question_id": 4912,
+            "question": "This question refers to the following information.\nOur leaders talk about stopping aggression from the north, but this was a struggle among groups of Vietnamese until we intervened. We seem bent upon saving the Vietnamese from Ho Chi Minh even if we have to kill them and demolish their country to do it. As the native people survey bombed-out villages, women and children burned by napalm, rice crops destroyed and cities overrun with our military personnel, they are doubtless saying secretly of the Vietcong guerillas and of the American forces, \"A plague on both your houses.\" \u2026 Stop the bombing, north and south, end search and destroy offensive sweeps, and confine our military action to holding operations on the ground. Bombing the north has failed to halt or seriously check the flow of troops to the south and may, in fact, have prompted a much greater war effort by Hanoi.\n\u2014Senator George McGovern, \"The Lessons of Vietnam,\" April 25, 1967\nThe sentiments expressed in the speech above most directly influenced which of the following?"
+        },
+        {
+            "question_id": 4865,
+            "question": "Archaeological evidence for the domestication of cats suggests it occurred when and why?"
+        },
+        {
+            "question_id": 4804,
+            "question": "This question refers to the following information.\n\"In Northern India the existence of separate States at this period is usually little more than a question of words. A zamindar who paid revenue to the Mogul was clearly in a position of dependence, and if he wished to establish a claim to sovereignty, the first step was to refuse, or omit to pay revenue. Such an omission might, however, arise from various other causes, and it is probable that in Rajputana, Central India, and Chota Nagpur there were numerous chiefs and tribes occupying what constitutional lawyers would regard as an anomalous position, sometimes paying the stipulated revenue, sometimes in open rebellion, and sometimes enjoying practical independence because the Mogul authorities found it inconvenient to undertake active measures of coercion.\"\nW.H. Moreland, India at the Death of Akbar, 1920\nZamindars had an ability \"to establish a claim to sovereignty\" largely due to the Mughal Empire's policy of"
+        },
+        {
+            "question_id": 4710,
+            "question": "The appropriateness and usefulness of pedestrian survey depends on:"
+        }
+    ],
+    "law": [
+        {
+            "question_id": 985,
+            "question": "In 2006, an investor purchased a 100-acre tract located in a rural county. Shortly thereafter, the investor prepared a subdivision plan that created 90 one-acre residential building lots on this tract with the remaining 10-acre lot proposed for a public school building. In the investor's sales brochure promoting the subdivision, he stated that \"in addition to the close proximity of the proposed school for subdivision residents, the county school district would not need to expend tax money to acquire this property for school construction. \" In 2007, the subdivision plan was recorded with the county recorder's office. On January 15, 2009, the county school board voted to build a new school on the 10-acre tract. The investor's proposed designation of the 1 0-acre tract for construction of a school building would best be described as a (an)"
+        },
+        {
+            "question_id": 1485,
+            "question": "Hume's attack on natural law is founded on his argument that:"
+        },
+        {
+            "question_id": 1078,
+            "question": "A defendant was suspected of having burglarized his neighbor's apartment. The neighbor reported that his apartment had been ransacked and several items of clothing had been stolen. During the course of their investigation, two police detectives went to the defendant's place of work to interview him. After being advised of his Miranda rights, the defendant requested permission to call his attorney. Although his attorney was unavailable, the attorney's receptionist admonished him not to say anything. The defendant told the detectives he would have nothing further to say unless his attorney was present. The detectives then asked him if he would accompany them to the police station to answer some questions about an unrelated robbery. The defendant agreed. As they were driving to the police station, the defendant was asked where he had purchased the boots that he was wearing. He refused to answer. When they arrived at the police station, the detectives requested that he sign a waiver of his right to counsel. The defendant replied that he would not sign anything in the absence of his attorney. He was then placed in an interrogation room. Shortly thereafter, the defendant was told he could leave if he would be willing to say where he had purchased his boots. The defendant admitted that he had bought the boots and some shirts from a friend. From this information, the detectives obtained a search warrant and went to the defendant's home where they found the stolen clothing. The defendant is charged with burglarizing the apartment. At trial, the court should"
+        },
+        {
+            "question_id": 1261,
+            "question": "Doug Dogman had a domesticated golden retriever named Rover. Rover was a good, friendly dog who loved to run and chase cars but had never hurt anyone. One dark evening before the street lights turned on, Rover was chasing cars in the street, and Ginny Grandmother, aged 85, swerved to avoid hitting the dog. As she swerved, Ginny hit a parked car and suffered a head injury. If Ginny brings suit against Doug Dogman under a strict liability theory, the court will likely find for"
+        },
+        {
+            "question_id": 1705,
+            "question": "The police received a report that women dressed as superheroes had robbed a man in his house and stolen many of his valuables. The only way onto or off the island where he lived was a ferry. The last ferry was getting ready to leave for the night when the report came in to the police. Without attempting to get a warrant, the police stopped all the cars waiting for the ferry. In one vehicle, the police noticed three women fidgeting rather nervously. Upon searching their auto, the police found the victim's stolen property hidden under the front seat. The defendants were immediately placed under arrest. At their trial for armed robbery, the defendants move to suppress the use of the property confiscated by the police as evidence. Their motion should be"
+        }
+    ],
+    "math": [
+        {
+            "question_id": 8855,
+            "question": "Let {N(t), t \\in [0, \\infty)} be a Poisson process with rate of $\\lambda = 4$ and $X_1$ be the first arrival time. Given N(t) = 1, then what is $P(X_1 <= t / 2)$?"
+        },
+        {
+            "question_id": 8941,
+            "question": "Toss a coin repeatedly until two consecutive heads appear. Assume that the probability of the coin landing on heads is 3/7. Calculate the average number of times the coin needs to be tossed before the experiment can end."
+        },
+        {
+            "question_id": 8258,
+            "question": "Which two numbers both round to 1,500 when rounded to the nearest hundred?"
+        },
+        {
+            "question_id": 8143,
+            "question": "Fei Yen\u2019s dog eats 8 ounces of dog food each day. Fei Yen bought a 28-pound bag of dog food. How many 8-ounce servings are in a 28-pound bag of dog food?"
+        },
+        {
+            "question_id": 8068,
+            "question": "In how many ways can a committee of 2 men and 3 women be selected from a group of 6 men and 8 women?"
+        }
+    ],
+    "other": [
+        {
+            "question_id": 5397,
+            "question": "What substance was used for blood in the famous shower scene from the movie 'Psycho'?"
+        },
+        {
+            "question_id": 5702,
+            "question": "According to the USDA which food group should you eat the most servings of per day?"
+        },
+        {
+            "question_id": 5427,
+            "question": "In the Westley and MacLean model of communication, which role describes the way in which the public obtain or receive the message?"
+        },
+        {
+            "question_id": 5848,
+            "question": "Lake Trust a simple trust reported the following items of income and expense during the year: Dividend income $2500 Taxable interest income 2000 Capital gains (allocable to corpus) 5000 Accounting fees (allocable to income) (500) Trustee fees (allocable to income) (750) What is Lake's distributable net income?"
+        },
+        {
+            "question_id": 5184,
+            "question": "Securities A, B and C have an expected return of respectively 7%, 12% and 5%. What is the expected return of an equal weighted portfolio composed of Securities A and C?"
+        }
+    ],
+    "philosophy": [
+        {
+            "question_id": 10830,
+            "question": " An unborn vertebrate animal that has developed to the point of having the basic structure that is characteristic of its kind is known as"
+        },
+        {
+            "question_id": 11130,
+            "question": " In contrast to Garrett Hardin's approach, the Confucian model rejects coercion because"
+        },
+        {
+            "question_id": 10909,
+            "question": " Which of the following is one of de Marneffe's responses to the objection that drug prohibition would be paternalistic?"
+        },
+        {
+            "question_id": 11258,
+            "question": " Select the best translation into predicate logic: No artifacts are people."
+        },
+        {
+            "question_id": 10922,
+            "question": " Where is the key to liberation found within Sikhism?"
+        }
+    ],
+    "physics": [
+        {
+            "question_id": 9853,
+            "question": "How many electrons would have to be removed from a coin to leave it with a charge of $+1.0 \\times 10^{-7} \\mathrm{C}$ ?"
+        },
+        {
+            "question_id": 9666,
+            "question": "Find the refracting angle of a glass prism (n = 1.52) for which the minimum deviation is 15\u00b0."
+        },
+        {
+            "question_id": 9239,
+            "question": "AFabry-Perot interferometer is to be used to resolve the mode structure of a He-Ne laser operating at 6328 \\AA. The frequency separation between the modes is 150 MHZ. What plate spacing is required in (a) R = 0.9; (b) R = 0.999 (where R denotes the reflectance of the mirrors)?"
+        },
+        {
+            "question_id": 9960,
+            "question": "An automobile drag racer drives a car with acceleration $a$ and instantaneous velocity $v$. The tires (of radius $r_0$ ) are not slipping. For what initial velocity in the rotating system will the hockey puck appear to be subsequently motionless in the fixed system? "
+        },
+        {
+            "question_id": 9556,
+            "question": "Compute the mean translational kinetic energy of a mole of ideal gas in J, both at room temperature 293 K."
+        }
+    ],
+    "psychology": [
+        {
+            "question_id": 2191,
+            "question": "Explain the terms fixation and regression as used by Freud in his descriptions of human development."
+        },
+        {
+            "question_id": 2780,
+            "question": "The superintendent of a large school district asks the school psychologist to predict students' grade point averages (GPAs) for the first year of high school. The school psychologist has included achievement and aptitude scores as predictor variables for firstyear high school GPA in a regression analysis and is considering whether to also administer a school interest inventory and include those scores. The major concern of the school psychologist when making this decision should be which of the following?"
+        },
+        {
+            "question_id": 2315,
+            "question": "What have been the results of studies which investigated the tip-of-the-tongue(TOT) state?"
+        },
+        {
+            "question_id": 1992,
+            "question": "The _______ is the least developed area of the brain at birth."
+        },
+        {
+            "question_id": 2649,
+            "question": "Atkinson, Morten, and Sue\u2019s (1993) Racial/Cultural Identity Development Model proposes that people in which of the following stages begin to question their rejection of all aspects of the dominant culture and absolute loyalty to their own culture?"
+        }
+    ]
+}

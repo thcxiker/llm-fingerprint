@@ -1,0 +1,116 @@
+2024-12-02 19:48:01,575 DEBUG Starting new HTTPS connection (1): huggingface.co:443
+2024-12-02 19:48:01,909 DEBUG https://huggingface.co:443 "GET /api/datasets/TIGER-Lab/MMLU-Pro HTTP/11" 200 2285
+2024-12-02 19:48:01,915 DEBUG Starting new HTTPS connection (1): s3.amazonaws.com:443
+2024-12-02 19:48:02,186 DEBUG Starting new HTTPS connection (1): stats.vllm.ai:443
+2024-12-02 19:48:02,642 DEBUG https://s3.amazonaws.com:443 "HEAD /datasets.huggingface.co/datasets/datasets/TIGER-Lab/MMLU-Pro/TIGER-Lab/MMLU-Pro.py HTTP/11" 404 0
+2024-12-02 19:48:02,913 DEBUG https://huggingface.co:443 "GET /api/datasets/TIGER-Lab/MMLU-Pro HTTP/11" 200 2285
+2024-12-02 19:48:02,916 DEBUG Starting new HTTPS connection (1): huggingface.co:443
+2024-12-02 19:48:02,931 DEBUG https://stats.vllm.ai:443 "POST / HTTP/11" 200 None
+2024-12-02 19:48:03,195 DEBUG https://huggingface.co:443 "HEAD /datasets/TIGER-Lab/MMLU-Pro/resolve/014c8cf520218fc7f1ecec95c691a83ae5b8ba14/README.md HTTP/11" 200 0
+2024-12-02 19:48:03,211 DEBUG Starting new HTTPS connection (1): huggingface.co:443
+2024-12-02 19:48:03,472 DEBUG https://huggingface.co:443 "HEAD /datasets/TIGER-Lab/MMLU-Pro/resolve/014c8cf520218fc7f1ecec95c691a83ae5b8ba14/.huggingface.yaml HTTP/11" 404 0
+2024-12-02 19:48:03,477 DEBUG Starting new HTTPS connection (1): datasets-server.huggingface.co:443
+2024-12-02 19:48:04,374 DEBUG Starting new HTTPS connection (1): datasets-server.huggingface.co:443
+2024-12-02 19:48:05,624 DEBUG Starting new HTTPS connection (1): datasets-server.huggingface.co:443
+2024-12-02 19:48:07,874 DEBUG Starting new HTTPS connection (1): datasets-server.huggingface.co:443
+2024-12-02 19:48:08,432 DEBUG https://huggingface.co:443 "GET /api/datasets/TIGER-Lab/MMLU-Pro/revision/014c8cf520218fc7f1ecec95c691a83ae5b8ba14 HTTP/11" 200 2285
+2024-12-02 19:48:08,665 DEBUG https://huggingface.co:443 "GET /api/datasets/TIGER-Lab/MMLU-Pro/tree/014c8cf520218fc7f1ecec95c691a83ae5b8ba14?recursive=False&expand=False HTTP/11" 200 492
+2024-12-02 19:48:08,888 DEBUG https://huggingface.co:443 "POST /api/datasets/TIGER-Lab/MMLU-Pro/paths-info/014c8cf520218fc7f1ecec95c691a83ae5b8ba14 HTTP/11" 200 218
+2024-12-02 19:48:09,120 DEBUG https://huggingface.co:443 "GET /api/datasets/TIGER-Lab/MMLU-Pro/tree/014c8cf520218fc7f1ecec95c691a83ae5b8ba14/data?recursive=False&expand=False HTTP/11" 200 475
+2024-12-02 19:48:09,124 DEBUG Starting new HTTPS connection (1): huggingface.co:443
+2024-12-02 19:48:09,511 DEBUG https://huggingface.co:443 "GET /api/datasets/TIGER-Lab/MMLU-Pro/revision/014c8cf520218fc7f1ecec95c691a83ae5b8ba14 HTTP/11" 200 2285
+2024-12-02 19:48:09,736 DEBUG https://huggingface.co:443 "POST /api/datasets/TIGER-Lab/MMLU-Pro/paths-info/014c8cf520218fc7f1ecec95c691a83ae5b8ba14 HTTP/11" 200 218
+2024-12-02 19:48:09,743 DEBUG Starting new HTTPS connection (1): huggingface.co:443
+2024-12-02 19:48:10,017 DEBUG https://huggingface.co:443 "HEAD /datasets/TIGER-Lab/MMLU-Pro/resolve/014c8cf520218fc7f1ecec95c691a83ae5b8ba14/dataset_infos.json HTTP/11" 404 0
+2024-12-02 19:48:10,265 DEBUG https://huggingface.co:443 "POST /api/datasets/TIGER-Lab/MMLU-Pro/paths-info/014c8cf520218fc7f1ecec95c691a83ae5b8ba14 HTTP/11" 200 218
+2024-12-02 19:48:10,557 DEBUG https://huggingface.co:443 "POST /api/datasets/TIGER-Lab/MMLU-Pro/paths-info/014c8cf520218fc7f1ecec95c691a83ae5b8ba14 HTTP/11" 200 218
+2024-12-02 19:48:10,561 DEBUG Attempting to acquire lock 139715920248416 on /mnt/data/haochuntang/datasets/_mnt_data_haochuntang_datasets_TIGER-Lab___mmlu-pro_default_0.0.0_014c8cf520218fc7f1ecec95c691a83ae5b8ba14.lock
+2024-12-02 19:48:10,561 DEBUG Lock 139715920248416 acquired on /mnt/data/haochuntang/datasets/_mnt_data_haochuntang_datasets_TIGER-Lab___mmlu-pro_default_0.0.0_014c8cf520218fc7f1ecec95c691a83ae5b8ba14.lock
+2024-12-02 19:48:10,562 DEBUG open file: /mnt/data/haochuntang/datasets/TIGER-Lab___mmlu-pro/default/0.0.0/014c8cf520218fc7f1ecec95c691a83ae5b8ba14/dataset_info.json
+2024-12-02 19:48:10,563 DEBUG Attempting to release lock 139715920248416 on /mnt/data/haochuntang/datasets/_mnt_data_haochuntang_datasets_TIGER-Lab___mmlu-pro_default_0.0.0_014c8cf520218fc7f1ecec95c691a83ae5b8ba14.lock
+2024-12-02 19:48:10,563 DEBUG Lock 139715920248416 released on /mnt/data/haochuntang/datasets/_mnt_data_haochuntang_datasets_TIGER-Lab___mmlu-pro_default_0.0.0_014c8cf520218fc7f1ecec95c691a83ae5b8ba14.lock
+2024-12-02 19:48:10,683 DEBUG Attempting to acquire lock 139709880349280 on /mnt/data/haochuntang/datasets/TIGER-Lab___mmlu-pro/default/0.0.0/014c8cf520218fc7f1ecec95c691a83ae5b8ba14_builder.lock
+2024-12-02 19:48:10,684 DEBUG Lock 139709880349280 acquired on /mnt/data/haochuntang/datasets/TIGER-Lab___mmlu-pro/default/0.0.0/014c8cf520218fc7f1ecec95c691a83ae5b8ba14_builder.lock
+2024-12-02 19:48:10,684 DEBUG open file: /mnt/data/haochuntang/datasets/TIGER-Lab___mmlu-pro/default/0.0.0/014c8cf520218fc7f1ecec95c691a83ae5b8ba14/dataset_info.json
+2024-12-02 19:48:10,684 DEBUG Attempting to release lock 139709880349280 on /mnt/data/haochuntang/datasets/TIGER-Lab___mmlu-pro/default/0.0.0/014c8cf520218fc7f1ecec95c691a83ae5b8ba14_builder.lock
+2024-12-02 19:48:10,684 DEBUG Lock 139709880349280 released on /mnt/data/haochuntang/datasets/TIGER-Lab___mmlu-pro/default/0.0.0/014c8cf520218fc7f1ecec95c691a83ae5b8ba14_builder.lock
+2024-12-02 19:48:11,393 INFO selected subjects:
+business
+law
+psychology
+biology
+chemistry
+history
+other
+health
+economics
+math
+physics
+computer science
+philosophy
+engineering
+2024-12-02 19:48:11,394 INFO evaluating biology
+2024-12-02 19:51:51,938 INFO 717size batch costing time: 217.16672134399414
+2024-12-02 19:52:27,572 INFO this batch accu is: 0.3305439330543933, corr: 237.0, wrong: 480.0
+
+2024-12-02 19:52:27,581 INFO evaluating business
+2024-12-02 19:54:59,360 INFO 789size batch costing time: 148.76715087890625
+2024-12-02 19:55:06,788 INFO this batch accu is: 0.20785804816223066, corr: 164.0, wrong: 625.0
+
+2024-12-02 19:55:06,795 INFO evaluating chemistry
+2024-12-02 19:58:02,933 DEBUG Resetting dropped connection: stats.vllm.ai
+2024-12-02 19:58:03,752 DEBUG https://stats.vllm.ai:443 "POST / HTTP/11" 200 None
+2024-12-02 20:04:21,652 INFO 1132size batch costing time: 548.8663301467896
+2024-12-02 20:05:32,385 INFO this batch accu is: 0.14840989399293286, corr: 168.0, wrong: 964.0
+
+2024-12-02 20:05:32,401 INFO evaluating computer science
+2024-12-02 20:07:46,608 INFO 410size batch costing time: 131.59543657302856
+2024-12-02 20:07:57,133 INFO this batch accu is: 0.22439024390243903, corr: 92.0, wrong: 318.0
+
+2024-12-02 20:07:57,139 INFO evaluating economics
+2024-12-02 20:08:03,757 DEBUG Resetting dropped connection: stats.vllm.ai
+2024-12-02 20:08:04,564 DEBUG https://stats.vllm.ai:443 "POST / HTTP/11" 200 None
+2024-12-02 20:10:43,687 INFO 844size batch costing time: 162.63243699073792
+2024-12-02 20:10:53,962 INFO this batch accu is: 0.2902843601895735, corr: 245.0, wrong: 599.0
+
+2024-12-02 20:10:53,971 INFO evaluating engineering
+2024-12-02 20:15:39,496 INFO 969size batch costing time: 281.1451988220215
+2024-12-02 20:15:51,033 INFO this batch accu is: 0.16408668730650156, corr: 159.0, wrong: 810.0
+
+2024-12-02 20:15:51,044 INFO evaluating health
+2024-12-02 20:17:58,543 INFO 818size batch costing time: 123.98848056793213
+2024-12-02 20:18:01,078 INFO this batch accu is: 0.24572127139364303, corr: 201.0, wrong: 617.0
+
+2024-12-02 20:18:01,085 INFO evaluating history
+2024-12-02 20:18:04,569 DEBUG Resetting dropped connection: stats.vllm.ai
+2024-12-02 20:18:06,069 DEBUG https://stats.vllm.ai:443 "POST / HTTP/11" 200 None
+2024-12-02 20:20:01,571 INFO 381size batch costing time: 112.83725762367249
+2024-12-02 20:20:07,295 INFO this batch accu is: 0.2047244094488189, corr: 78.0, wrong: 303.0
+
+2024-12-02 20:20:07,301 INFO evaluating law
+2024-12-02 20:24:02,896 INFO 1101size batch costing time: 228.56822037696838
+2024-12-02 20:25:44,721 INFO this batch accu is: 0.16530426884650318, corr: 182.0, wrong: 919.0
+
+2024-12-02 20:25:44,734 INFO evaluating math
+2024-12-02 20:28:06,072 DEBUG Resetting dropped connection: stats.vllm.ai
+2024-12-02 20:28:06,877 DEBUG https://stats.vllm.ai:443 "POST / HTTP/11" 200 None
+2024-12-02 20:38:06,882 DEBUG Resetting dropped connection: stats.vllm.ai
+2024-12-02 20:38:07,666 DEBUG https://stats.vllm.ai:443 "POST / HTTP/11" 200 None
+2024-12-02 20:39:30,394 INFO 1351size batch costing time: 817.252631187439
+2024-12-02 20:41:44,271 INFO this batch accu is: 0.16432272390821615, corr: 222.0, wrong: 1129.0
+
+2024-12-02 20:41:44,301 INFO evaluating other
+2024-12-02 20:43:47,883 INFO 924size batch costing time: 120.10951089859009
+2024-12-02 20:43:50,082 INFO this batch accu is: 0.2748917748917749, corr: 254.0, wrong: 670.0
+
+2024-12-02 20:43:50,089 INFO evaluating philosophy
+2024-12-02 20:45:26,589 INFO 499size batch costing time: 94.57753682136536
+2024-12-02 20:45:28,137 INFO this batch accu is: 0.23647294589178355, corr: 118.0, wrong: 381.0
+
+2024-12-02 20:45:28,142 INFO evaluating physics
+2024-12-02 20:48:07,671 DEBUG Resetting dropped connection: stats.vllm.ai
+2024-12-02 20:48:08,490 DEBUG https://stats.vllm.ai:443 "POST / HTTP/11" 200 None
+2024-12-02 20:51:55,365 INFO 1299size batch costing time: 381.47010040283203
+2024-12-02 20:58:08,497 DEBUG Resetting dropped connection: stats.vllm.ai
+2024-12-02 20:58:43,819 DEBUG https://stats.vllm.ai:443 "POST / HTTP/11" 200 None
+2024-12-02 21:08:44,574 DEBUG Resetting dropped connection: stats.vllm.ai

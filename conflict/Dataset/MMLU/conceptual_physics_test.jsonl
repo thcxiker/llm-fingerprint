@@ -1,0 +1,456 @@
+{"idx": 0, "questions": ["A 10-N force at an angle 45° above the horizontal has a horizontal component of about"], "answers": [" 7 N"], "subject": "conceptual_physics_test"}
+{"idx": 1, "questions": ["A completely submerged object always displaces its own"], "answers": [" volume of fluid."], "subject": "conceptual_physics_test"}
+{"idx": 2, "questions": ["When a diver points a flashlight upward toward the surface of the water at an angle 20° from the normal, the beam of light"], "answers": [" passes into the air above"], "subject": "conceptual_physics_test"}
+{"idx": 3, "questions": ["According to four-dimensional geometry, the angles of a triangle add to 180°"], "answers": [" sometimes."], "subject": "conceptual_physics_test"}
+{"idx": 4, "questions": ["A voltage will be induced in a wire loop when the magnetic field within that loop"], "answers": [" changes"], "subject": "conceptual_physics_test"}
+{"idx": 5, "questions": ["Among these colors, the one that has the most energy per photon is"], "answers": [" violet"], "subject": "conceptual_physics_test"}
+{"idx": 6, "questions": ["According to general relativity,"], "answers": [" All of these."], "subject": "conceptual_physics_test"}
+{"idx": 7, "questions": ["A step-up transformer in an electric circuit can step up"], "answers": [" voltage"], "subject": "conceptual_physics_test"}
+{"idx": 8, "questions": ["Spectral lines of the elements are"], "answers": [" ordered"], "subject": "conceptual_physics_test"}
+{"idx": 9, "questions": ["A wave transfers"], "answers": [" energy"], "subject": "conceptual_physics_test"}
+{"idx": 10, "questions": ["Immediately after two separated charged particles are released from rest, both increase in acceleration. The sign of charge of the particles is therefore"], "answers": [" opposite"], "subject": "conceptual_physics_test"}
+{"idx": 11, "questions": ["The surface of planet Earth loses energy to outer space due mostly to"], "answers": [" radiation"], "subject": "conceptual_physics_test"}
+{"idx": 12, "questions": ["In a series circuit, if the current in one lamp is 2 A, the current in the lamp next to it is"], "answers": [" 2 A"], "subject": "conceptual_physics_test"}
+{"idx": 13, "questions": ["As a blinking light source approaching you gains speed, you see the frequency of flashes"], "answers": [" increase."], "subject": "conceptual_physics_test"}
+{"idx": 14, "questions": ["In the absence of air resistance a ball of mass m is tossed upward to reach a height of 20 m. At the 10-m position half way up the net force on the ball is"], "answers": [" mg"], "subject": "conceptual_physics_test"}
+{"idx": 15, "questions": ["Pumice is a volcanic rock that floats in water. The density of pumice compared with that of water is"], "answers": [" less."], "subject": "conceptual_physics_test"}
+{"idx": 16, "questions": ["When you look at the red petals of a rose the color light you're seeing is"], "answers": [" red."], "subject": "conceptual_physics_test"}
+{"idx": 17, "questions": ["Compared with the sound you hear from the siren of a stationary fire engine the sound you hear when it approaches you has an increased"], "answers": [" frequency"], "subject": "conceptual_physics_test"}
+{"idx": 18, "questions": ["When you squeeze an air-filled party balloon, you increase its"], "answers": [" density"], "subject": "conceptual_physics_test"}
+{"idx": 19, "questions": ["Polarization is a property of"], "answers": [" transverse waves"], "subject": "conceptual_physics_test"}
+{"idx": 20, "questions": ["In a vacuum, an object has no"], "answers": [" buoyant force"], "subject": "conceptual_physics_test"}
+{"idx": 21, "questions": ["Temperature is generally proportional to a substance’s"], "answers": [" average translational kinetic energy."], "subject": "conceptual_physics_test"}
+{"idx": 22, "questions": ["In a hydraulic press operation, the output piston cannot"], "answers": [" produce increased energy"], "subject": "conceptual_physics_test"}
+{"idx": 23, "questions": ["When a spinning system contracts in the absence of an external torque its rotational speed increases and its angular momentum"], "answers": [" remains unchanged"], "subject": "conceptual_physics_test"}
+{"idx": 24, "questions": ["According to Hooke’s law, if you hang by a tree branch and note how much it bends, then hanging with twice the weight produces"], "answers": [" twice the bend."], "subject": "conceptual_physics_test"}
+{"idx": 25, "questions": ["When an increase in speed doubles the kinetic energy of a moving body its momentum"], "answers": [" increases but less than doubles"], "subject": "conceptual_physics_test"}
+{"idx": 26, "questions": ["Suppose the number of neutrons in a reactor that is starting up doubles each minute reaching one billion neutrons in 10 minutes. When did the number of neutrons reach half a billion?"], "answers": [" 9 minutes."], "subject": "conceptual_physics_test"}
+{"idx": 27, "questions": ["If an object is already moving and the sum of all the vector forces on a mass is zero, then the object will"], "answers": [" move at a constant speed in a straight line"], "subject": "conceptual_physics_test"}
+{"idx": 28, "questions": ["Relativity equations for time, length, and momentum hold true for"], "answers": [" Both of these."], "subject": "conceptual_physics_test"}
+{"idx": 29, "questions": ["Put a saucer of water on your table. A process that then occurs is"], "answers": [" Both"], "subject": "conceptual_physics_test"}
+{"idx": 30, "questions": ["A barometer that uses water instead of mercury will be"], "answers": [" taller"], "subject": "conceptual_physics_test"}
+{"idx": 31, "questions": ["A heavy rock and a light rock in free fall (zero air resistance) have the same acceleration. The heavy rock doesn't have a greater acceleration because the"], "answers": [" ratio of force to mass is the same."], "subject": "conceptual_physics_test"}
+{"idx": 32, "questions": ["When an increase in speed doubles the momentum of a moving body its kinetic energy"], "answers": [" more than doubles"], "subject": "conceptual_physics_test"}
+{"idx": 33, "questions": ["The equation E = mc^2 indicates that energy"], "answers": [" and mass are closely related."], "subject": "conceptual_physics_test"}
+{"idx": 34, "questions": ["General relativity predicts that"], "answers": [" All of these."], "subject": "conceptual_physics_test"}
+{"idx": 35, "questions": ["When an element ejects an alpha particle, the atomic number of the resulting element"], "answers": [" reduces by 2"], "subject": "conceptual_physics_test"}
+{"idx": 36, "questions": ["As more lamps are connected in parallel in a circuit, the current in the power source"], "answers": [" increases"], "subject": "conceptual_physics_test"}
+{"idx": 37, "questions": ["An airplane with its nose pointing north with an airspeed of 40 km/h in a 30-km/h crosswind (at right angles) has a groundspeed of"], "answers": [" 50 km/h"], "subject": "conceptual_physics_test"}
+{"idx": 38, "questions": ["The energy of an emitted photon is related to its"], "answers": [" frequency"], "subject": "conceptual_physics_test"}
+{"idx": 39, "questions": ["Thermal conduction involves mainly"], "answers": [" electrons"], "subject": "conceptual_physics_test"}
+{"idx": 40, "questions": ["Compared with the current in an LED lamp the current in the connecting wire is"], "answers": [" the same."], "subject": "conceptual_physics_test"}
+{"idx": 41, "questions": ["Bow waves are produced by waves of water"], "answers": [" All of these"], "subject": "conceptual_physics_test"}
+{"idx": 42, "questions": ["The speed of sound is slightly greater on a"], "answers": [" hot day"], "subject": "conceptual_physics_test"}
+{"idx": 43, "questions": ["Consider two mercury barometers, one having a cross-sectional area of 1 cm2 and the other 2 cm2. The height of mercury in the narrower tube is"], "answers": [" the same"], "subject": "conceptual_physics_test"}
+{"idx": 44, "questions": ["The second law of thermodynamics tells us that heat doesn’t flow from"], "answers": [" cold to hot without external energy"], "subject": "conceptual_physics_test"}
+{"idx": 45, "questions": ["In a mixture of hydrogen oxygen and nitrogen gases at a given temperature the molecules having the greatest average speed are those of"], "answers": [" hydrogen."], "subject": "conceptual_physics_test"}
+{"idx": 46, "questions": ["Compared with the power input, the power output of an ideal transformer is"], "answers": [" the same"], "subject": "conceptual_physics_test"}
+{"idx": 47, "questions": ["The amount of air drag on an 0.8-N flying squirrel dropping vertically at terminal velocity is"], "answers": [" 0.8 N"], "subject": "conceptual_physics_test"}
+{"idx": 48, "questions": ["The vibrations in a longitudinal wave move in a direction"], "answers": [" along and parallel to the wave"], "subject": "conceptual_physics_test"}
+{"idx": 49, "questions": ["The potential energy of a compressed spring and the potential energy of a charged object both depend on"], "answers": [" the work done on them"], "subject": "conceptual_physics_test"}
+{"idx": 50, "questions": ["A step-up transformer in an electrical circuit can step up"], "answers": [" voltage"], "subject": "conceptual_physics_test"}
+{"idx": 51, "questions": ["The neutrons in an atom are normally found"], "answers": [" inside the nucleus"], "subject": "conceptual_physics_test"}
+{"idx": 52, "questions": ["The greenish-blue color of ocean water is due mostly to light that hasn’t been"], "answers": [" absorbed"], "subject": "conceptual_physics_test"}
+{"idx": 53, "questions": ["Noise-canceling devices make use of sound"], "answers": [" interference"], "subject": "conceptual_physics_test"}
+{"idx": 54, "questions": ["Black is the combination of"], "answers": [" None of these"], "subject": "conceptual_physics_test"}
+{"idx": 55, "questions": ["In a circuit of two lamps in parallel, if the current in one lamp is 2 A, the current in the other lamp is"], "answers": [" Not enough information to say"], "subject": "conceptual_physics_test"}
+{"idx": 56, "questions": ["Which of these changes when light refracts in passing from one medium to another?"], "answers": [" Both speed and wavelength"], "subject": "conceptual_physics_test"}
+{"idx": 57, "questions": ["If the frequency of one source of sound is 500 Hz and a second sound source is 504 Hz, then when the two waves interfere with each other, the beat frequency will be"], "answers": [" 4 Hz"], "subject": "conceptual_physics_test"}
+{"idx": 58, "questions": ["The loudness of a sound is most closely related to its"], "answers": [" amplitude"], "subject": "conceptual_physics_test"}
+{"idx": 59, "questions": ["The electric field inside the dome of a Van de Graaff generator is zero when the dome is"], "answers": [" Either of these"], "subject": "conceptual_physics_test"}
+{"idx": 60, "questions": ["The redness of a sunrise or sunset is due mostly to light that hasn’t been"], "answers": [" scattered"], "subject": "conceptual_physics_test"}
+{"idx": 61, "questions": ["When a nucleus of uranium-238 emits an alpha particle, left behind is"], "answers": [" thorium-234"], "subject": "conceptual_physics_test"}
+{"idx": 62, "questions": ["The Doppler effect occurs when a source of sound moves"], "answers": [" Both of these"], "subject": "conceptual_physics_test"}
+{"idx": 63, "questions": ["When a proton is plucked from an atomic nucleus, the atom has a decrease in"], "answers": [" all of these"], "subject": "conceptual_physics_test"}
+{"idx": 64, "questions": ["If the Sun were twice as massive, its pull on Mars would be"], "answers": [" twice as much"], "subject": "conceptual_physics_test"}
+{"idx": 65, "questions": ["During the time an aircraft produces a sonic boom the aircraft is"], "answers": [" flying faster than sound"], "subject": "conceptual_physics_test"}
+{"idx": 66, "questions": ["When food is exposed to gamma radiation, the food"], "answers": [" doesn’t become radioactive"], "subject": "conceptual_physics_test"}
+{"idx": 67, "questions": ["The red glow in the neon tube of an advertising sign is a result of"], "answers": [" de-excitation."], "subject": "conceptual_physics_test"}
+{"idx": 68, "questions": ["Light that is not transmitted by opaque materials is"], "answers": [" reflected or converted to internal energy in the material."], "subject": "conceptual_physics_test"}
+{"idx": 69, "questions": ["Imagine you're standing on the surface of a shrinking planet. If it shrinks to one-tenth its original diameter with no change in mass on the shrunken surface you'd weigh"], "answers": [" 100 times as much"], "subject": "conceptual_physics_test"}
+{"idx": 70, "questions": ["A magnetic force acting on a beam of electrons can change its"], "answers": [" direction"], "subject": "conceptual_physics_test"}
+{"idx": 71, "questions": ["Microscopic slush in water tends to make the water"], "answers": [" more dense"], "subject": "conceptual_physics_test"}
+{"idx": 72, "questions": ["The speed of sound in air depends on"], "answers": [" air temperature."], "subject": "conceptual_physics_test"}
+{"idx": 73, "questions": ["Heat comes from the Sun to Earth by the process of"], "answers": [" radiation"], "subject": "conceptual_physics_test"}
+{"idx": 74, "questions": ["A torque is a force"], "answers": [" multiplied by a lever arm"], "subject": "conceptual_physics_test"}
+{"idx": 75, "questions": ["Big brother and little sister can balance on a seesaw because of balanced"], "answers": [" torques"], "subject": "conceptual_physics_test"}
+{"idx": 76, "questions": ["Any atom that emits an alpha particle or beta particle"], "answers": [" becomes an atom of a different element always."], "subject": "conceptual_physics_test"}
+{"idx": 77, "questions": ["Regelation occurs due to water’s"], "answers": [" open-structured ice crystals"], "subject": "conceptual_physics_test"}
+{"idx": 78, "questions": ["A big fish swims upon and swallows a small fish that is at rest. Right after lunch, the fattened big fish has a change in"], "answers": [" speed"], "subject": "conceptual_physics_test"}
+{"idx": 79, "questions": ["A capacitor can store"], "answers": [" Both of these"], "subject": "conceptual_physics_test"}
+{"idx": 80, "questions": ["The period of a 10-Hz wave is"], "answers": [" 1/10 s"], "subject": "conceptual_physics_test"}
+{"idx": 81, "questions": ["If the Sun collapsed to become a black hole Planet Earth would"], "answers": [" continue in its present orbit."], "subject": "conceptual_physics_test"}
+{"idx": 82, "questions": ["The electric field between a pair of oppositely charged parallel plates"], "answers": [" Neither of these"], "subject": "conceptual_physics_test"}
+{"idx": 83, "questions": ["The flight of a blimp best illustrates"], "answers": [" Archimedes’ principle"], "subject": "conceptual_physics_test"}
+{"idx": 84, "questions": ["The distance of your image behind a plane mirror is equal to"], "answers": [" your distance in front of the mirror"], "subject": "conceptual_physics_test"}
+{"idx": 85, "questions": ["The discrete orbits of electrons are best understood when modeled by"], "answers": [" waves"], "subject": "conceptual_physics_test"}
+{"idx": 86, "questions": ["Heat engines, such as a jet engine, are more efficient when run at"], "answers": [" high temperatures"], "subject": "conceptual_physics_test"}
+{"idx": 87, "questions": ["The phenomenon of interference occurs for"], "answers": [" Both of these"], "subject": "conceptual_physics_test"}
+{"idx": 88, "questions": ["As more lamps are connected in a series circuit the current in the power source"], "answers": [" decreases."], "subject": "conceptual_physics_test"}
+{"idx": 89, "questions": ["When you buy a pipe in a hardware store, the water isn’t included. When you buy copper wire, electrons"], "answers": [" are included in the wire"], "subject": "conceptual_physics_test"}
+{"idx": 90, "questions": ["When a uranium nucleus undergoes fission the energy released is primarily in the form of"], "answers": [" kinetic energy of fission fragments."], "subject": "conceptual_physics_test"}
+{"idx": 91, "questions": ["Most of the radiation in Earth’s biosphere is"], "answers": [" natural background radiation"], "subject": "conceptual_physics_test"}
+{"idx": 92, "questions": ["When white light enters a prism green light is bent more than"], "answers": [" red light."], "subject": "conceptual_physics_test"}
+{"idx": 93, "questions": ["When a ball at rest hangs by a single vertical string tension in the string is mg. If the ball is made to move in amhorizontal circle so that the string describes a cone string tension"], "answers": [" is greater than mg always"], "subject": "conceptual_physics_test"}
+{"idx": 94, "questions": ["When a tin can is whirled in a horizontal circle, the net force on the can acts"], "answers": [" inward"], "subject": "conceptual_physics_test"}
+{"idx": 95, "questions": ["The highest ocean tides occur when Earth and the Moon are"], "answers": [" lined up with the Sun"], "subject": "conceptual_physics_test"}
+{"idx": 96, "questions": ["Lift a 100-N crate with an ideal pulley system by pulling a rope downward with 25 N of force. For every 1-m length of rope pulled down, the crate rises"], "answers": [" 25 cm"], "subject": "conceptual_physics_test"}
+{"idx": 97, "questions": ["Hot sand cools off faster at night than does vegetation. Compared with vegetation, sand’s specific heat capacity is"], "answers": [" lower"], "subject": "conceptual_physics_test"}
+{"idx": 98, "questions": ["The color of light most intense in the solar radiation curve is"], "answers": [" yellow-green"], "subject": "conceptual_physics_test"}
+{"idx": 99, "questions": ["If the current in the filament of a lamp is 3 A, the current in the connecting wire is"], "answers": [" 3 A"], "subject": "conceptual_physics_test"}
+{"idx": 100, "questions": ["If two protons and two neutrons are removed from the nucleus of neon-20, a nucleus of which element remains?"], "answers": [" Oxygen-16"], "subject": "conceptual_physics_test"}
+{"idx": 101, "questions": ["If a star that is 20 light-years from Earth explodes, gravitational waves from the explosion would reach Earth in"], "answers": [" 20 years."], "subject": "conceptual_physics_test"}
+{"idx": 102, "questions": ["In a mixture of hydrogen, oxygen, and nitrogen gases at a given temperature, the fastest molecules on average are those of"], "answers": [" hydrogen"], "subject": "conceptual_physics_test"}
+{"idx": 103, "questions": ["The mutual induction of electric and magnetic fields can produce"], "answers": [" light"], "subject": "conceptual_physics_test"}
+{"idx": 104, "questions": ["When a model car speeds up to three times its original speed, its kinetic energy is"], "answers": [" None of these"], "subject": "conceptual_physics_test"}
+{"idx": 105, "questions": ["If an iron nucleus split in two, its fission fragments would have"], "answers": [" more mass per nucleon"], "subject": "conceptual_physics_test"}
+{"idx": 106, "questions": ["The surface of Planet Earth loses energy to outer space due mostly to"], "answers": [" radiation."], "subject": "conceptual_physics_test"}
+{"idx": 107, "questions": ["The direction of natural processes is from states of"], "answers": [" higher order to lower order"], "subject": "conceptual_physics_test"}
+{"idx": 108, "questions": ["A principal source of the Earth’s internal energy is"], "answers": [" radioactivity."], "subject": "conceptual_physics_test"}
+{"idx": 109, "questions": ["A diffraction grating relies on light"], "answers": [" interference"], "subject": "conceptual_physics_test"}
+{"idx": 110, "questions": ["A satellite in Earth orbit is above Earth’s"], "answers": [" atmosphere"], "subject": "conceptual_physics_test"}
+{"idx": 111, "questions": ["The time it takes for a pendulum swinging to and fro refers to its"], "answers": [" period"], "subject": "conceptual_physics_test"}
+{"idx": 112, "questions": ["As entropy in a system increases, energy in the system"], "answers": [" becomes less ordered"], "subject": "conceptual_physics_test"}
+{"idx": 113, "questions": ["When water changes to steam, energy is"], "answers": [" absorbed by the water"], "subject": "conceptual_physics_test"}
+{"idx": 114, "questions": ["According to Coulomb, a pair of charged particles placed twice as close to each other experience a force"], "answers": [" four times as strong"], "subject": "conceptual_physics_test"}
+{"idx": 115, "questions": ["The team that wins in a tug-of-war is the team that"], "answers": [" pushes hardest on the ground"], "subject": "conceptual_physics_test"}
+{"idx": 116, "questions": ["Which type of radiation from cosmic sources predominates on the inside of high-flying commercial airplanes?"], "answers": [" Gamma"], "subject": "conceptual_physics_test"}
+{"idx": 117, "questions": ["Thermal convection involves mainly"], "answers": [" fluids"], "subject": "conceptual_physics_test"}
+{"idx": 118, "questions": ["A 10-Ω resistor carries 10 A. The voltage across the resistor is"], "answers": [" more than 10 V"], "subject": "conceptual_physics_test"}
+{"idx": 119, "questions": ["A cannonball is fired horizontally at 10 m/s from a cliff. Its speed one second after being fired is about"], "answers": [" 14 m/s"], "subject": "conceptual_physics_test"}
+{"idx": 120, "questions": ["The average speed of a gazelle traveling a distance of 2 km in a time of one-half hour is"], "answers": [" 4 km/h"], "subject": "conceptual_physics_test"}
+{"idx": 121, "questions": ["The metal detectors people walk through at airports operate via"], "answers": [" Faraday’s law"], "subject": "conceptual_physics_test"}
+{"idx": 122, "questions": ["Sound travels in"], "answers": [" All of these"], "subject": "conceptual_physics_test"}
+{"idx": 123, "questions": ["When a fusion reaction converts a pair of hydrogen isotopes to an alpha particle and a neutron most of the energy released is in the form of"], "answers": [" kinetic energy of the neutron."], "subject": "conceptual_physics_test"}
+{"idx": 124, "questions": ["Polarization is a property of"], "answers": [" transverse waves."], "subject": "conceptual_physics_test"}
+{"idx": 125, "questions": ["The phenomenon of beats results from sound"], "answers": [" refraction."], "subject": "conceptual_physics_test"}
+{"idx": 126, "questions": ["The lowest possible temperature is absolute zero, at"], "answers": [" Both are the same"], "subject": "conceptual_physics_test"}
+{"idx": 127, "questions": ["Refraction occurs when a wave crosses a boundary and changes"], "answers": [" speed and direction"], "subject": "conceptual_physics_test"}
+{"idx": 128, "questions": ["When you tap a piece of wood, it will produce a characteristic sound related to its"], "answers": [" natural frequency"], "subject": "conceptual_physics_test"}
+{"idx": 129, "questions": ["When wind speeds up as it blows over the top of a hill, atmospheric pressure there"], "answers": [" decreases"], "subject": "conceptual_physics_test"}
+{"idx": 130, "questions": ["When white light passes through a prism, the light that bends more than green is"], "answers": [" blue"], "subject": "conceptual_physics_test"}
+{"idx": 131, "questions": ["If you travel at high speed, then compared with your friends who “stay at home,” you are"], "answers": [" younger."], "subject": "conceptual_physics_test"}
+{"idx": 132, "questions": ["The component of velocity that can remain constant for a tossed baseball is"], "answers": [" horizontal"], "subject": "conceptual_physics_test"}
+{"idx": 133, "questions": ["The crystals that make up minerals are composed of"], "answers": [" atoms with a definite geometrical arrangement."], "subject": "conceptual_physics_test"}
+{"idx": 134, "questions": ["Two vectors, one 3 N and the other 4 N, can have a resultant of"], "answers": [" 5 N"], "subject": "conceptual_physics_test"}
+{"idx": 135, "questions": ["Radioactivity has been around on Earth since the"], "answers": [" Earth formed"], "subject": "conceptual_physics_test"}
+{"idx": 136, "questions": ["When the shadow of the Moon falls on Earth, we have a"], "answers": [" solar eclipse."], "subject": "conceptual_physics_test"}
+{"idx": 137, "questions": ["In both fission and fusion, energy is released while mass"], "answers": [" decreases"], "subject": "conceptual_physics_test"}
+{"idx": 138, "questions": ["When relatively slow-moving molecules condense from the air, the temperature of the remaining air tends to"], "answers": [" increase"], "subject": "conceptual_physics_test"}
+{"idx": 139, "questions": ["If the volume of an object were to double, with no change in mass, its density would"], "answers": [" halve."], "subject": "conceptual_physics_test"}
+{"idx": 140, "questions": ["The pressure at the bottom of a pond does NOT depend on the"], "answers": [" surface area of the pond."], "subject": "conceptual_physics_test"}
+{"idx": 141, "questions": ["The blueness of the daytime sky is due mostly to light"], "answers": [" scattering"], "subject": "conceptual_physics_test"}
+{"idx": 142, "questions": ["A galvanometer can be calibrated to read electric"], "answers": [" Either of these"], "subject": "conceptual_physics_test"}
+{"idx": 143, "questions": ["Which of these temperatures is likely when a container of water at 20°C is mixed with water at 28°C?"], "answers": [" 22°C"], "subject": "conceptual_physics_test"}
+{"idx": 144, "questions": ["To view your full-face image in a steamy mirror compared with the height of your face the minimum height of the patch to wipe away is"], "answers": [" one-half."], "subject": "conceptual_physics_test"}
+{"idx": 145, "questions": ["The vibrations in a transverse wave move in a direction"], "answers": [" perpendicular to the wave"], "subject": "conceptual_physics_test"}
+{"idx": 146, "questions": ["A 1134-Hz tuning fork is sounded at the same time a piano note is struck. You hear three beats per second. The frequency of the piano string is"], "answers": [" More information is needed"], "subject": "conceptual_physics_test"}
+{"idx": 147, "questions": ["Huygens’ principle for light is primarily described by"], "answers": [" waves"], "subject": "conceptual_physics_test"}
+{"idx": 148, "questions": ["When the temperature of a strip of iron is increased, the length of the strip"], "answers": [" also increases."], "subject": "conceptual_physics_test"}
+{"idx": 149, "questions": ["When light undergoes interference, it can sometimes"], "answers": [" cancel completely"], "subject": "conceptual_physics_test"}
+{"idx": 150, "questions": ["When the color yellow is seen on your TV screen the phosphors being activated on the screen are"], "answers": [" red and green."], "subject": "conceptual_physics_test"}
+{"idx": 151, "questions": ["Which of these does NOT belong in the family of electromagnetic waves?"], "answers": [" Sound"], "subject": "conceptual_physics_test"}
+{"idx": 152, "questions": ["A motor and a generator are"], "answers": [" similar devices"], "subject": "conceptual_physics_test"}
+{"idx": 153, "questions": ["As more lamps are connected in parallel in a circuit the current in the power source"], "answers": [" increases."], "subject": "conceptual_physics_test"}
+{"idx": 154, "questions": ["Newton’s law of cooling applies to objects that"], "answers": [" Both"], "subject": "conceptual_physics_test"}
+{"idx": 155, "questions": ["The fact that the Moon always shows its same face to Earth is evidence that the Moon rotates about its axis about once per"], "answers": [" month"], "subject": "conceptual_physics_test"}
+{"idx": 156, "questions": ["Consider a ball rolling in a horizontal circular path on the inside surface of a cone. The normal force on the ball"], "answers": [" is greater than mg always"], "subject": "conceptual_physics_test"}
+{"idx": 157, "questions": ["The compressions and rarefactions in sound normally travel"], "answers": [" in the same direction"], "subject": "conceptual_physics_test"}
+{"idx": 158, "questions": ["The power required to raise a 100-kg crate a vertical distance of 2 m in a time of 4 s is"], "answers": [" 500 W"], "subject": "conceptual_physics_test"}
+{"idx": 159, "questions": ["The phenomenon of beats is the result of sound"], "answers": [" interference"], "subject": "conceptual_physics_test"}
+{"idx": 160, "questions": ["Interference is characteristic of"], "answers": [" All of these"], "subject": "conceptual_physics_test"}
+{"idx": 161, "questions": ["In either a fission event or a fusion event, a quantity that remains unchanged is the"], "answers": [" number of nucleons"], "subject": "conceptual_physics_test"}
+{"idx": 162, "questions": ["The magnetic force on a moving charged particle can change the particle's"], "answers": [" direction"], "subject": "conceptual_physics_test"}
+{"idx": 163, "questions": ["If you were to travel at a speed close to the speed of light, you could notice that your own"], "answers": [" Neither of these."], "subject": "conceptual_physics_test"}
+{"idx": 164, "questions": ["Electricity and magnetism connect to form"], "answers": [" light"], "subject": "conceptual_physics_test"}
+{"idx": 165, "questions": ["Sound travels in air by a series of"], "answers": [" Both of these"], "subject": "conceptual_physics_test"}
+{"idx": 166, "questions": ["When a cannonball is fired from a cannon, both the cannonball and the cannon experience equal"], "answers": [" amounts of force"], "subject": "conceptual_physics_test"}
+{"idx": 167, "questions": ["The nucleus of an electrically neutral iron atom contains 26 protons. The number of electrons this iron atom has is"], "answers": [" 26"], "subject": "conceptual_physics_test"}
+{"idx": 168, "questions": ["To say that a rose petal is red is to say that it"], "answers": [" reflects red"], "subject": "conceptual_physics_test"}
+{"idx": 169, "questions": ["Compared with a sound of 60 decibels, a sound of 80 decibels has an intensity"], "answers": [" 100 times greater"], "subject": "conceptual_physics_test"}
+{"idx": 170, "questions": ["When red and blue light are overlapped, the color produced is"], "answers": [" magenta"], "subject": "conceptual_physics_test"}
+{"idx": 171, "questions": ["When 100 J are put into a device that puts out 40 J of useful work, the efficiency of the device is"], "answers": [" 40%"], "subject": "conceptual_physics_test"}
+{"idx": 172, "questions": ["Shock waves are produced by waves of sound"], "answers": [" All of these"], "subject": "conceptual_physics_test"}
+{"idx": 173, "questions": ["A rock suspended by a weighing scale weighs 5 N out of water and 3 N when submerged in water. What is the buoyant force on the rock?"], "answers": [" None of these"], "subject": "conceptual_physics_test"}
+{"idx": 174, "questions": ["The work done on a 100-kg crate that is hoisted 2 m in a time of 4 s is"], "answers": [" 2000 J"], "subject": "conceptual_physics_test"}
+{"idx": 175, "questions": ["A capacitor loses half its remaining charge every second. If after five seconds its charge is q what was its initial charge?"], "answers": [" 32q."], "subject": "conceptual_physics_test"}
+{"idx": 176, "questions": ["The mass of an atom comes mostly from its _ ; and its volume from its _."], "answers": [" nucleons; electrons."], "subject": "conceptual_physics_test"}
+{"idx": 177, "questions": ["The pitch of a sound is mostly related to its"], "answers": [" frequency"], "subject": "conceptual_physics_test"}
+{"idx": 178, "questions": ["As more lamps are connected to a series circuit, the current in the power source"], "answers": [" decreases"], "subject": "conceptual_physics_test"}
+{"idx": 179, "questions": ["When an element ejects an alpha particle, the mass number of the resulting element"], "answers": [" reduces by 4"], "subject": "conceptual_physics_test"}
+{"idx": 180, "questions": ["An electron can be speeded up by"], "answers": [" an electric field"], "subject": "conceptual_physics_test"}
+{"idx": 181, "questions": ["A certain element emits 1 alpha particle, and its products then emit 2 beta particles in succession. The atomic number of the resulting element is changed by"], "answers": [" zero"], "subject": "conceptual_physics_test"}
+{"idx": 182, "questions": ["When an object is set vibrating by a wave that has a matching frequency, what occurs is"], "answers": [" resonance"], "subject": "conceptual_physics_test"}
+{"idx": 183, "questions": ["The red glow in the neon tube of an advertising sign is a result of"], "answers": [" de-excitation"], "subject": "conceptual_physics_test"}
+{"idx": 184, "questions": ["At very high speeds, an object appears to an observer at rest to be"], "answers": [" shorter in the direction of travel."], "subject": "conceptual_physics_test"}
+{"idx": 185, "questions": ["When you drop a ball from rest it accelerates downward at 9.8 m/s^2. If you instead throw it downward assuming no air resistance its acceleration immediately after leaving your hand is"], "answers": [" 9.8 m/s2"], "subject": "conceptual_physics_test"}
+{"idx": 186, "questions": ["Carbon-14 is primarily produced by cosmic radiation in the"], "answers": [" atmosphere"], "subject": "conceptual_physics_test"}
+{"idx": 187, "questions": ["Chain reactions in a fission reactor are caused by"], "answers": [" ejected neutrons"], "subject": "conceptual_physics_test"}
+{"idx": 188, "questions": ["Satellites in circular Earth orbit maintain a constant speed because gravitational force on them is"], "answers": [" without a component of force along their circular path"], "subject": "conceptual_physics_test"}
+{"idx": 189, "questions": ["The complementary color of blue is"], "answers": [" yellow"], "subject": "conceptual_physics_test"}
+{"idx": 190, "questions": ["The difference between dc and ac in electric circuits is that in dc, charges flow"], "answers": [" in one direction"], "subject": "conceptual_physics_test"}
+{"idx": 191, "questions": ["To receive an electric shock there must be a"], "answers": [" voltage difference across part or all of your body."], "subject": "conceptual_physics_test"}
+{"idx": 192, "questions": ["A karate chop delivers a force of 3000 N to a board that breaks. The force that the board exerts on the hand during this event is"], "answers": [" 3000 N"], "subject": "conceptual_physics_test"}
+{"idx": 193, "questions": ["Find the speed of a wave by multiplying its frequency by its"], "answers": [" wavelength"], "subject": "conceptual_physics_test"}
+{"idx": 194, "questions": ["The magnitude of the gravitational force on a satellite is constant if the orbit is"], "answers": [" circular"], "subject": "conceptual_physics_test"}
+{"idx": 195, "questions": ["The impulse–momentum relationship is a direct result of Newton’s"], "answers": [" second law"], "subject": "conceptual_physics_test"}
+{"idx": 196, "questions": ["A common nuclear fission reactor"], "answers": [" heats water"], "subject": "conceptual_physics_test"}
+{"idx": 197, "questions": ["The process of boiling water tends to"], "answers": [" cool the water"], "subject": "conceptual_physics_test"}
+{"idx": 198, "questions": ["When you scale up an object to 3 times its linear size, the surface area increases by"], "answers": [" 9 and the volume by 27."], "subject": "conceptual_physics_test"}
+{"idx": 199, "questions": ["If you change the magnetic field in a closed loop of wire, what is created in the loop is a(n)"], "answers": [" All of these"], "subject": "conceptual_physics_test"}
+{"idx": 200, "questions": ["Clocks on a fast-moving spaceship whizzing past Earth appear to run slow when viewed from"], "answers": [" Earth."], "subject": "conceptual_physics_test"}
+{"idx": 201, "questions": ["The model of light most supported by the photoelectric effect is the"], "answers": [" particle model"], "subject": "conceptual_physics_test"}
+{"idx": 202, "questions": ["Compared with a fundamental tone, the frequency of its second harmonic is"], "answers": [" twice as much"], "subject": "conceptual_physics_test"}
+{"idx": 203, "questions": ["A string is plucked producing four loops (antinodes). The length of the string is 12.00 m. The wavelength of the wave must be"], "answers": [" 6.00 m"], "subject": "conceptual_physics_test"}
+{"idx": 204, "questions": ["During the time an aircraft produces a sonic boom, the aircraft is"], "answers": [" flying faster than sound"], "subject": "conceptual_physics_test"}
+{"idx": 205, "questions": ["The principal source of Earth’s internal energy is"], "answers": [" radioactivity"], "subject": "conceptual_physics_test"}
+{"idx": 206, "questions": ["When you brush your hair and scrape electrons from your hair, the charge of your hair becomes"], "answers": [" positive"], "subject": "conceptual_physics_test"}
+{"idx": 207, "questions": ["Astrophysicists are able to identify the elements in the outer layers of a star by studying its"], "answers": [" spectrum."], "subject": "conceptual_physics_test"}
+{"idx": 208, "questions": ["Relativistic equations for time dilation length contraction and relativistic momentum and energy hold true"], "answers": [" at all speeds."], "subject": "conceptual_physics_test"}
+{"idx": 209, "questions": ["In his special theory of relativity, Einstein stated that the laws of physics are"], "answers": [" the same in all uniformly moving frames of reference."], "subject": "conceptual_physics_test"}
+{"idx": 210, "questions": ["When an element ejects a beta particle, the atomic number of that element"], "answers": [" increases by 1"], "subject": "conceptual_physics_test"}
+{"idx": 211, "questions": ["The amount of heat transferred to a system can be measured in"], "answers": [" Either"], "subject": "conceptual_physics_test"}
+{"idx": 212, "questions": ["Compared with the sound you hear from the siren of a stationary fire engine, its sound when it approaches you has an increased"], "answers": [" frequency"], "subject": "conceptual_physics_test"}
+{"idx": 213, "questions": ["Light reflecting from a smooth surface undergoes a change in"], "answers": [" None of these."], "subject": "conceptual_physics_test"}
+{"idx": 214, "questions": ["What Einstein discovered about space and time is that they"], "answers": [" are parts of one whole."], "subject": "conceptual_physics_test"}
+{"idx": 215, "questions": ["All parts of a laser beam have the same"], "answers": [" All of these"], "subject": "conceptual_physics_test"}
+{"idx": 216, "questions": ["The rotational inertia of an object is greater when most of the mass is located"], "answers": [" away from the axis"], "subject": "conceptual_physics_test"}
+{"idx": 217, "questions": ["When small pieces of material are assembled into a larger piece, the combined surface area"], "answers": [" decreases"], "subject": "conceptual_physics_test"}
+{"idx": 218, "questions": ["A rainbow is the result of light in raindrops that undergoes"], "answers": [" All of these"], "subject": "conceptual_physics_test"}
+{"idx": 219, "questions": ["In the atomic nucleus, electrical forces tend to"], "answers": [" push particles apart"], "subject": "conceptual_physics_test"}
+{"idx": 220, "questions": ["The fact that the acceleration of free fall is the same for all masses is explained by Newton’s"], "answers": [" second law"], "subject": "conceptual_physics_test"}
+{"idx": 221, "questions": ["Compared with radiation from the Sun, terrestrial radiation has a lower"], "answers": [" frequency"], "subject": "conceptual_physics_test"}
+{"idx": 222, "questions": ["When we speak of time dilation, we mean that time"], "answers": [" stretches with speed."], "subject": "conceptual_physics_test"}
+{"idx": 223, "questions": ["The magnetic field lines about a current-carrying wire form"], "answers": [" circles"], "subject": "conceptual_physics_test"}
+{"idx": 224, "questions": ["An inflated balloon with a heavy rock tied to it is dropped into a deep lake. As the balloon sinks deeper and deeper the buoyant force acting on it"], "answers": [" decreases."], "subject": "conceptual_physics_test"}
+{"idx": 225, "questions": ["A radioactive sample has a half-life of 1 hour. If we start with 1.000 gram of it at noon, how much remains at 3:00 pm?"], "answers": [" 0.125 g"], "subject": "conceptual_physics_test"}
+{"idx": 226, "questions": ["Boiling and freezing occur when water is subjected to"], "answers": [" decreased atmospheric pressure"], "subject": "conceptual_physics_test"}
+{"idx": 227, "questions": ["When you bend the branch of a tree by hanging on its end, the top side of the branch is under"], "answers": [" tension."], "subject": "conceptual_physics_test"}
+{"idx": 0, "questions": ["A 10-N force at an angle 45° above the horizontal has a horizontal component of about"], "answers": [" 7 N"], "subject": "conceptual_physics_test"}
+{"idx": 1, "questions": ["A completely submerged object always displaces its own"], "answers": [" volume of fluid."], "subject": "conceptual_physics_test"}
+{"idx": 2, "questions": ["When a diver points a flashlight upward toward the surface of the water at an angle 20° from the normal, the beam of light"], "answers": [" passes into the air above"], "subject": "conceptual_physics_test"}
+{"idx": 3, "questions": ["According to four-dimensional geometry, the angles of a triangle add to 180°"], "answers": [" sometimes."], "subject": "conceptual_physics_test"}
+{"idx": 4, "questions": ["A voltage will be induced in a wire loop when the magnetic field within that loop"], "answers": [" changes"], "subject": "conceptual_physics_test"}
+{"idx": 5, "questions": ["Among these colors, the one that has the most energy per photon is"], "answers": [" violet"], "subject": "conceptual_physics_test"}
+{"idx": 6, "questions": ["According to general relativity,"], "answers": [" All of these."], "subject": "conceptual_physics_test"}
+{"idx": 7, "questions": ["A step-up transformer in an electric circuit can step up"], "answers": [" voltage"], "subject": "conceptual_physics_test"}
+{"idx": 8, "questions": ["Spectral lines of the elements are"], "answers": [" ordered"], "subject": "conceptual_physics_test"}
+{"idx": 9, "questions": ["A wave transfers"], "answers": [" energy"], "subject": "conceptual_physics_test"}
+{"idx": 10, "questions": ["Immediately after two separated charged particles are released from rest, both increase in acceleration. The sign of charge of the particles is therefore"], "answers": [" opposite"], "subject": "conceptual_physics_test"}
+{"idx": 11, "questions": ["The surface of planet Earth loses energy to outer space due mostly to"], "answers": [" radiation"], "subject": "conceptual_physics_test"}
+{"idx": 12, "questions": ["In a series circuit, if the current in one lamp is 2 A, the current in the lamp next to it is"], "answers": [" 2 A"], "subject": "conceptual_physics_test"}
+{"idx": 13, "questions": ["As a blinking light source approaching you gains speed, you see the frequency of flashes"], "answers": [" increase."], "subject": "conceptual_physics_test"}
+{"idx": 14, "questions": ["In the absence of air resistance a ball of mass m is tossed upward to reach a height of 20 m. At the 10-m position half way up the net force on the ball is"], "answers": [" mg"], "subject": "conceptual_physics_test"}
+{"idx": 15, "questions": ["Pumice is a volcanic rock that floats in water. The density of pumice compared with that of water is"], "answers": [" less."], "subject": "conceptual_physics_test"}
+{"idx": 16, "questions": ["When you look at the red petals of a rose the color light you're seeing is"], "answers": [" red."], "subject": "conceptual_physics_test"}
+{"idx": 17, "questions": ["Compared with the sound you hear from the siren of a stationary fire engine the sound you hear when it approaches you has an increased"], "answers": [" frequency"], "subject": "conceptual_physics_test"}
+{"idx": 18, "questions": ["When you squeeze an air-filled party balloon, you increase its"], "answers": [" density"], "subject": "conceptual_physics_test"}
+{"idx": 19, "questions": ["Polarization is a property of"], "answers": [" transverse waves"], "subject": "conceptual_physics_test"}
+{"idx": 20, "questions": ["In a vacuum, an object has no"], "answers": [" buoyant force"], "subject": "conceptual_physics_test"}
+{"idx": 21, "questions": ["Temperature is generally proportional to a substance’s"], "answers": [" average translational kinetic energy."], "subject": "conceptual_physics_test"}
+{"idx": 22, "questions": ["In a hydraulic press operation, the output piston cannot"], "answers": [" produce increased energy"], "subject": "conceptual_physics_test"}
+{"idx": 23, "questions": ["When a spinning system contracts in the absence of an external torque its rotational speed increases and its angular momentum"], "answers": [" remains unchanged"], "subject": "conceptual_physics_test"}
+{"idx": 24, "questions": ["According to Hooke’s law, if you hang by a tree branch and note how much it bends, then hanging with twice the weight produces"], "answers": [" twice the bend."], "subject": "conceptual_physics_test"}
+{"idx": 25, "questions": ["When an increase in speed doubles the kinetic energy of a moving body its momentum"], "answers": [" increases but less than doubles"], "subject": "conceptual_physics_test"}
+{"idx": 26, "questions": ["Suppose the number of neutrons in a reactor that is starting up doubles each minute reaching one billion neutrons in 10 minutes. When did the number of neutrons reach half a billion?"], "answers": [" 9 minutes."], "subject": "conceptual_physics_test"}
+{"idx": 27, "questions": ["If an object is already moving and the sum of all the vector forces on a mass is zero, then the object will"], "answers": [" move at a constant speed in a straight line"], "subject": "conceptual_physics_test"}
+{"idx": 28, "questions": ["Relativity equations for time, length, and momentum hold true for"], "answers": [" Both of these."], "subject": "conceptual_physics_test"}
+{"idx": 29, "questions": ["Put a saucer of water on your table. A process that then occurs is"], "answers": [" Both"], "subject": "conceptual_physics_test"}
+{"idx": 30, "questions": ["A barometer that uses water instead of mercury will be"], "answers": [" taller"], "subject": "conceptual_physics_test"}
+{"idx": 31, "questions": ["A heavy rock and a light rock in free fall (zero air resistance) have the same acceleration. The heavy rock doesn't have a greater acceleration because the"], "answers": [" ratio of force to mass is the same."], "subject": "conceptual_physics_test"}
+{"idx": 32, "questions": ["When an increase in speed doubles the momentum of a moving body its kinetic energy"], "answers": [" more than doubles"], "subject": "conceptual_physics_test"}
+{"idx": 33, "questions": ["The equation E = mc^2 indicates that energy"], "answers": [" and mass are closely related."], "subject": "conceptual_physics_test"}
+{"idx": 34, "questions": ["General relativity predicts that"], "answers": [" All of these."], "subject": "conceptual_physics_test"}
+{"idx": 35, "questions": ["When an element ejects an alpha particle, the atomic number of the resulting element"], "answers": [" reduces by 2"], "subject": "conceptual_physics_test"}
+{"idx": 36, "questions": ["As more lamps are connected in parallel in a circuit, the current in the power source"], "answers": [" increases"], "subject": "conceptual_physics_test"}
+{"idx": 37, "questions": ["An airplane with its nose pointing north with an airspeed of 40 km/h in a 30-km/h crosswind (at right angles) has a groundspeed of"], "answers": [" 50 km/h"], "subject": "conceptual_physics_test"}
+{"idx": 38, "questions": ["The energy of an emitted photon is related to its"], "answers": [" frequency"], "subject": "conceptual_physics_test"}
+{"idx": 39, "questions": ["Thermal conduction involves mainly"], "answers": [" electrons"], "subject": "conceptual_physics_test"}
+{"idx": 40, "questions": ["Compared with the current in an LED lamp the current in the connecting wire is"], "answers": [" the same."], "subject": "conceptual_physics_test"}
+{"idx": 41, "questions": ["Bow waves are produced by waves of water"], "answers": [" All of these"], "subject": "conceptual_physics_test"}
+{"idx": 42, "questions": ["The speed of sound is slightly greater on a"], "answers": [" hot day"], "subject": "conceptual_physics_test"}
+{"idx": 43, "questions": ["Consider two mercury barometers, one having a cross-sectional area of 1 cm2 and the other 2 cm2. The height of mercury in the narrower tube is"], "answers": [" the same"], "subject": "conceptual_physics_test"}
+{"idx": 44, "questions": ["The second law of thermodynamics tells us that heat doesn’t flow from"], "answers": [" cold to hot without external energy"], "subject": "conceptual_physics_test"}
+{"idx": 45, "questions": ["In a mixture of hydrogen oxygen and nitrogen gases at a given temperature the molecules having the greatest average speed are those of"], "answers": [" hydrogen."], "subject": "conceptual_physics_test"}
+{"idx": 46, "questions": ["Compared with the power input, the power output of an ideal transformer is"], "answers": [" the same"], "subject": "conceptual_physics_test"}
+{"idx": 47, "questions": ["The amount of air drag on an 0.8-N flying squirrel dropping vertically at terminal velocity is"], "answers": [" 0.8 N"], "subject": "conceptual_physics_test"}
+{"idx": 48, "questions": ["The vibrations in a longitudinal wave move in a direction"], "answers": [" along and parallel to the wave"], "subject": "conceptual_physics_test"}
+{"idx": 49, "questions": ["The potential energy of a compressed spring and the potential energy of a charged object both depend on"], "answers": [" the work done on them"], "subject": "conceptual_physics_test"}
+{"idx": 50, "questions": ["A step-up transformer in an electrical circuit can step up"], "answers": [" voltage"], "subject": "conceptual_physics_test"}
+{"idx": 51, "questions": ["The neutrons in an atom are normally found"], "answers": [" inside the nucleus"], "subject": "conceptual_physics_test"}
+{"idx": 52, "questions": ["The greenish-blue color of ocean water is due mostly to light that hasn’t been"], "answers": [" absorbed"], "subject": "conceptual_physics_test"}
+{"idx": 53, "questions": ["Noise-canceling devices make use of sound"], "answers": [" interference"], "subject": "conceptual_physics_test"}
+{"idx": 54, "questions": ["Black is the combination of"], "answers": [" None of these"], "subject": "conceptual_physics_test"}
+{"idx": 55, "questions": ["In a circuit of two lamps in parallel, if the current in one lamp is 2 A, the current in the other lamp is"], "answers": [" Not enough information to say"], "subject": "conceptual_physics_test"}
+{"idx": 56, "questions": ["Which of these changes when light refracts in passing from one medium to another?"], "answers": [" Both speed and wavelength"], "subject": "conceptual_physics_test"}
+{"idx": 57, "questions": ["If the frequency of one source of sound is 500 Hz and a second sound source is 504 Hz, then when the two waves interfere with each other, the beat frequency will be"], "answers": [" 4 Hz"], "subject": "conceptual_physics_test"}
+{"idx": 58, "questions": ["The loudness of a sound is most closely related to its"], "answers": [" amplitude"], "subject": "conceptual_physics_test"}
+{"idx": 59, "questions": ["The electric field inside the dome of a Van de Graaff generator is zero when the dome is"], "answers": [" Either of these"], "subject": "conceptual_physics_test"}
+{"idx": 60, "questions": ["The redness of a sunrise or sunset is due mostly to light that hasn’t been"], "answers": [" scattered"], "subject": "conceptual_physics_test"}
+{"idx": 61, "questions": ["When a nucleus of uranium-238 emits an alpha particle, left behind is"], "answers": [" thorium-234"], "subject": "conceptual_physics_test"}
+{"idx": 62, "questions": ["The Doppler effect occurs when a source of sound moves"], "answers": [" Both of these"], "subject": "conceptual_physics_test"}
+{"idx": 63, "questions": ["When a proton is plucked from an atomic nucleus, the atom has a decrease in"], "answers": [" all of these"], "subject": "conceptual_physics_test"}
+{"idx": 64, "questions": ["If the Sun were twice as massive, its pull on Mars would be"], "answers": [" twice as much"], "subject": "conceptual_physics_test"}
+{"idx": 65, "questions": ["During the time an aircraft produces a sonic boom the aircraft is"], "answers": [" flying faster than sound"], "subject": "conceptual_physics_test"}
+{"idx": 66, "questions": ["When food is exposed to gamma radiation, the food"], "answers": [" doesn’t become radioactive"], "subject": "conceptual_physics_test"}
+{"idx": 67, "questions": ["The red glow in the neon tube of an advertising sign is a result of"], "answers": [" de-excitation."], "subject": "conceptual_physics_test"}
+{"idx": 68, "questions": ["Light that is not transmitted by opaque materials is"], "answers": [" reflected or converted to internal energy in the material."], "subject": "conceptual_physics_test"}
+{"idx": 69, "questions": ["Imagine you're standing on the surface of a shrinking planet. If it shrinks to one-tenth its original diameter with no change in mass on the shrunken surface you'd weigh"], "answers": [" 100 times as much"], "subject": "conceptual_physics_test"}
+{"idx": 70, "questions": ["A magnetic force acting on a beam of electrons can change its"], "answers": [" direction"], "subject": "conceptual_physics_test"}
+{"idx": 71, "questions": ["Microscopic slush in water tends to make the water"], "answers": [" more dense"], "subject": "conceptual_physics_test"}
+{"idx": 72, "questions": ["The speed of sound in air depends on"], "answers": [" air temperature."], "subject": "conceptual_physics_test"}
+{"idx": 73, "questions": ["Heat comes from the Sun to Earth by the process of"], "answers": [" radiation"], "subject": "conceptual_physics_test"}
+{"idx": 74, "questions": ["A torque is a force"], "answers": [" multiplied by a lever arm"], "subject": "conceptual_physics_test"}
+{"idx": 75, "questions": ["Big brother and little sister can balance on a seesaw because of balanced"], "answers": [" torques"], "subject": "conceptual_physics_test"}
+{"idx": 76, "questions": ["Any atom that emits an alpha particle or beta particle"], "answers": [" becomes an atom of a different element always."], "subject": "conceptual_physics_test"}
+{"idx": 77, "questions": ["Regelation occurs due to water’s"], "answers": [" open-structured ice crystals"], "subject": "conceptual_physics_test"}
+{"idx": 78, "questions": ["A big fish swims upon and swallows a small fish that is at rest. Right after lunch, the fattened big fish has a change in"], "answers": [" speed"], "subject": "conceptual_physics_test"}
+{"idx": 79, "questions": ["A capacitor can store"], "answers": [" Both of these"], "subject": "conceptual_physics_test"}
+{"idx": 80, "questions": ["The period of a 10-Hz wave is"], "answers": [" 1/10 s"], "subject": "conceptual_physics_test"}
+{"idx": 81, "questions": ["If the Sun collapsed to become a black hole Planet Earth would"], "answers": [" continue in its present orbit."], "subject": "conceptual_physics_test"}
+{"idx": 82, "questions": ["The electric field between a pair of oppositely charged parallel plates"], "answers": [" Neither of these"], "subject": "conceptual_physics_test"}
+{"idx": 83, "questions": ["The flight of a blimp best illustrates"], "answers": [" Archimedes’ principle"], "subject": "conceptual_physics_test"}
+{"idx": 84, "questions": ["The distance of your image behind a plane mirror is equal to"], "answers": [" your distance in front of the mirror"], "subject": "conceptual_physics_test"}
+{"idx": 85, "questions": ["The discrete orbits of electrons are best understood when modeled by"], "answers": [" waves"], "subject": "conceptual_physics_test"}
+{"idx": 86, "questions": ["Heat engines, such as a jet engine, are more efficient when run at"], "answers": [" high temperatures"], "subject": "conceptual_physics_test"}
+{"idx": 87, "questions": ["The phenomenon of interference occurs for"], "answers": [" Both of these"], "subject": "conceptual_physics_test"}
+{"idx": 88, "questions": ["As more lamps are connected in a series circuit the current in the power source"], "answers": [" decreases."], "subject": "conceptual_physics_test"}
+{"idx": 89, "questions": ["When you buy a pipe in a hardware store, the water isn’t included. When you buy copper wire, electrons"], "answers": [" are included in the wire"], "subject": "conceptual_physics_test"}
+{"idx": 90, "questions": ["When a uranium nucleus undergoes fission the energy released is primarily in the form of"], "answers": [" kinetic energy of fission fragments."], "subject": "conceptual_physics_test"}
+{"idx": 91, "questions": ["Most of the radiation in Earth’s biosphere is"], "answers": [" natural background radiation"], "subject": "conceptual_physics_test"}
+{"idx": 92, "questions": ["When white light enters a prism green light is bent more than"], "answers": [" red light."], "subject": "conceptual_physics_test"}
+{"idx": 93, "questions": ["When a ball at rest hangs by a single vertical string tension in the string is mg. If the ball is made to move in amhorizontal circle so that the string describes a cone string tension"], "answers": [" is greater than mg always"], "subject": "conceptual_physics_test"}
+{"idx": 94, "questions": ["When a tin can is whirled in a horizontal circle, the net force on the can acts"], "answers": [" inward"], "subject": "conceptual_physics_test"}
+{"idx": 95, "questions": ["The highest ocean tides occur when Earth and the Moon are"], "answers": [" lined up with the Sun"], "subject": "conceptual_physics_test"}
+{"idx": 96, "questions": ["Lift a 100-N crate with an ideal pulley system by pulling a rope downward with 25 N of force. For every 1-m length of rope pulled down, the crate rises"], "answers": [" 25 cm"], "subject": "conceptual_physics_test"}
+{"idx": 97, "questions": ["Hot sand cools off faster at night than does vegetation. Compared with vegetation, sand’s specific heat capacity is"], "answers": [" lower"], "subject": "conceptual_physics_test"}
+{"idx": 98, "questions": ["The color of light most intense in the solar radiation curve is"], "answers": [" yellow-green"], "subject": "conceptual_physics_test"}
+{"idx": 99, "questions": ["If the current in the filament of a lamp is 3 A, the current in the connecting wire is"], "answers": [" 3 A"], "subject": "conceptual_physics_test"}
+{"idx": 100, "questions": ["If two protons and two neutrons are removed from the nucleus of neon-20, a nucleus of which element remains?"], "answers": [" Oxygen-16"], "subject": "conceptual_physics_test"}
+{"idx": 101, "questions": ["If a star that is 20 light-years from Earth explodes, gravitational waves from the explosion would reach Earth in"], "answers": [" 20 years."], "subject": "conceptual_physics_test"}
+{"idx": 102, "questions": ["In a mixture of hydrogen, oxygen, and nitrogen gases at a given temperature, the fastest molecules on average are those of"], "answers": [" hydrogen"], "subject": "conceptual_physics_test"}
+{"idx": 103, "questions": ["The mutual induction of electric and magnetic fields can produce"], "answers": [" light"], "subject": "conceptual_physics_test"}
+{"idx": 104, "questions": ["When a model car speeds up to three times its original speed, its kinetic energy is"], "answers": [" None of these"], "subject": "conceptual_physics_test"}
+{"idx": 105, "questions": ["If an iron nucleus split in two, its fission fragments would have"], "answers": [" more mass per nucleon"], "subject": "conceptual_physics_test"}
+{"idx": 106, "questions": ["The surface of Planet Earth loses energy to outer space due mostly to"], "answers": [" radiation."], "subject": "conceptual_physics_test"}
+{"idx": 107, "questions": ["The direction of natural processes is from states of"], "answers": [" higher order to lower order"], "subject": "conceptual_physics_test"}
+{"idx": 108, "questions": ["A principal source of the Earth’s internal energy is"], "answers": [" radioactivity."], "subject": "conceptual_physics_test"}
+{"idx": 109, "questions": ["A diffraction grating relies on light"], "answers": [" interference"], "subject": "conceptual_physics_test"}
+{"idx": 110, "questions": ["A satellite in Earth orbit is above Earth’s"], "answers": [" atmosphere"], "subject": "conceptual_physics_test"}
+{"idx": 111, "questions": ["The time it takes for a pendulum swinging to and fro refers to its"], "answers": [" period"], "subject": "conceptual_physics_test"}
+{"idx": 112, "questions": ["As entropy in a system increases, energy in the system"], "answers": [" becomes less ordered"], "subject": "conceptual_physics_test"}
+{"idx": 113, "questions": ["When water changes to steam, energy is"], "answers": [" absorbed by the water"], "subject": "conceptual_physics_test"}
+{"idx": 114, "questions": ["According to Coulomb, a pair of charged particles placed twice as close to each other experience a force"], "answers": [" four times as strong"], "subject": "conceptual_physics_test"}
+{"idx": 115, "questions": ["The team that wins in a tug-of-war is the team that"], "answers": [" pushes hardest on the ground"], "subject": "conceptual_physics_test"}
+{"idx": 116, "questions": ["Which type of radiation from cosmic sources predominates on the inside of high-flying commercial airplanes?"], "answers": [" Gamma"], "subject": "conceptual_physics_test"}
+{"idx": 117, "questions": ["Thermal convection involves mainly"], "answers": [" fluids"], "subject": "conceptual_physics_test"}
+{"idx": 118, "questions": ["A 10-Ω resistor carries 10 A. The voltage across the resistor is"], "answers": [" more than 10 V"], "subject": "conceptual_physics_test"}
+{"idx": 119, "questions": ["A cannonball is fired horizontally at 10 m/s from a cliff. Its speed one second after being fired is about"], "answers": [" 14 m/s"], "subject": "conceptual_physics_test"}
+{"idx": 120, "questions": ["The average speed of a gazelle traveling a distance of 2 km in a time of one-half hour is"], "answers": [" 4 km/h"], "subject": "conceptual_physics_test"}
+{"idx": 121, "questions": ["The metal detectors people walk through at airports operate via"], "answers": [" Faraday’s law"], "subject": "conceptual_physics_test"}
+{"idx": 122, "questions": ["Sound travels in"], "answers": [" All of these"], "subject": "conceptual_physics_test"}
+{"idx": 123, "questions": ["When a fusion reaction converts a pair of hydrogen isotopes to an alpha particle and a neutron most of the energy released is in the form of"], "answers": [" kinetic energy of the neutron."], "subject": "conceptual_physics_test"}
+{"idx": 124, "questions": ["Polarization is a property of"], "answers": [" transverse waves."], "subject": "conceptual_physics_test"}
+{"idx": 125, "questions": ["The phenomenon of beats results from sound"], "answers": [" refraction."], "subject": "conceptual_physics_test"}
+{"idx": 126, "questions": ["The lowest possible temperature is absolute zero, at"], "answers": [" Both are the same"], "subject": "conceptual_physics_test"}
+{"idx": 127, "questions": ["Refraction occurs when a wave crosses a boundary and changes"], "answers": [" speed and direction"], "subject": "conceptual_physics_test"}
+{"idx": 128, "questions": ["When you tap a piece of wood, it will produce a characteristic sound related to its"], "answers": [" natural frequency"], "subject": "conceptual_physics_test"}
+{"idx": 129, "questions": ["When wind speeds up as it blows over the top of a hill, atmospheric pressure there"], "answers": [" decreases"], "subject": "conceptual_physics_test"}
+{"idx": 130, "questions": ["When white light passes through a prism, the light that bends more than green is"], "answers": [" blue"], "subject": "conceptual_physics_test"}
+{"idx": 131, "questions": ["If you travel at high speed, then compared with your friends who “stay at home,” you are"], "answers": [" younger."], "subject": "conceptual_physics_test"}
+{"idx": 132, "questions": ["The component of velocity that can remain constant for a tossed baseball is"], "answers": [" horizontal"], "subject": "conceptual_physics_test"}
+{"idx": 133, "questions": ["The crystals that make up minerals are composed of"], "answers": [" atoms with a definite geometrical arrangement."], "subject": "conceptual_physics_test"}
+{"idx": 134, "questions": ["Two vectors, one 3 N and the other 4 N, can have a resultant of"], "answers": [" 5 N"], "subject": "conceptual_physics_test"}
+{"idx": 135, "questions": ["Radioactivity has been around on Earth since the"], "answers": [" Earth formed"], "subject": "conceptual_physics_test"}
+{"idx": 136, "questions": ["When the shadow of the Moon falls on Earth, we have a"], "answers": [" solar eclipse."], "subject": "conceptual_physics_test"}
+{"idx": 137, "questions": ["In both fission and fusion, energy is released while mass"], "answers": [" decreases"], "subject": "conceptual_physics_test"}
+{"idx": 138, "questions": ["When relatively slow-moving molecules condense from the air, the temperature of the remaining air tends to"], "answers": [" increase"], "subject": "conceptual_physics_test"}
+{"idx": 139, "questions": ["If the volume of an object were to double, with no change in mass, its density would"], "answers": [" halve."], "subject": "conceptual_physics_test"}
+{"idx": 140, "questions": ["The pressure at the bottom of a pond does NOT depend on the"], "answers": [" surface area of the pond."], "subject": "conceptual_physics_test"}
+{"idx": 141, "questions": ["The blueness of the daytime sky is due mostly to light"], "answers": [" scattering"], "subject": "conceptual_physics_test"}
+{"idx": 142, "questions": ["A galvanometer can be calibrated to read electric"], "answers": [" Either of these"], "subject": "conceptual_physics_test"}
+{"idx": 143, "questions": ["Which of these temperatures is likely when a container of water at 20°C is mixed with water at 28°C?"], "answers": [" 22°C"], "subject": "conceptual_physics_test"}
+{"idx": 144, "questions": ["To view your full-face image in a steamy mirror compared with the height of your face the minimum height of the patch to wipe away is"], "answers": [" one-half."], "subject": "conceptual_physics_test"}
+{"idx": 145, "questions": ["The vibrations in a transverse wave move in a direction"], "answers": [" perpendicular to the wave"], "subject": "conceptual_physics_test"}
+{"idx": 146, "questions": ["A 1134-Hz tuning fork is sounded at the same time a piano note is struck. You hear three beats per second. The frequency of the piano string is"], "answers": [" More information is needed"], "subject": "conceptual_physics_test"}
+{"idx": 147, "questions": ["Huygens’ principle for light is primarily described by"], "answers": [" waves"], "subject": "conceptual_physics_test"}
+{"idx": 148, "questions": ["When the temperature of a strip of iron is increased, the length of the strip"], "answers": [" also increases."], "subject": "conceptual_physics_test"}
+{"idx": 149, "questions": ["When light undergoes interference, it can sometimes"], "answers": [" cancel completely"], "subject": "conceptual_physics_test"}
+{"idx": 150, "questions": ["When the color yellow is seen on your TV screen the phosphors being activated on the screen are"], "answers": [" red and green."], "subject": "conceptual_physics_test"}
+{"idx": 151, "questions": ["Which of these does NOT belong in the family of electromagnetic waves?"], "answers": [" Sound"], "subject": "conceptual_physics_test"}
+{"idx": 152, "questions": ["A motor and a generator are"], "answers": [" similar devices"], "subject": "conceptual_physics_test"}
+{"idx": 153, "questions": ["As more lamps are connected in parallel in a circuit the current in the power source"], "answers": [" increases."], "subject": "conceptual_physics_test"}
+{"idx": 154, "questions": ["Newton’s law of cooling applies to objects that"], "answers": [" Both"], "subject": "conceptual_physics_test"}
+{"idx": 155, "questions": ["The fact that the Moon always shows its same face to Earth is evidence that the Moon rotates about its axis about once per"], "answers": [" month"], "subject": "conceptual_physics_test"}
+{"idx": 156, "questions": ["Consider a ball rolling in a horizontal circular path on the inside surface of a cone. The normal force on the ball"], "answers": [" is greater than mg always"], "subject": "conceptual_physics_test"}
+{"idx": 157, "questions": ["The compressions and rarefactions in sound normally travel"], "answers": [" in the same direction"], "subject": "conceptual_physics_test"}
+{"idx": 158, "questions": ["The power required to raise a 100-kg crate a vertical distance of 2 m in a time of 4 s is"], "answers": [" 500 W"], "subject": "conceptual_physics_test"}
+{"idx": 159, "questions": ["The phenomenon of beats is the result of sound"], "answers": [" interference"], "subject": "conceptual_physics_test"}
+{"idx": 160, "questions": ["Interference is characteristic of"], "answers": [" All of these"], "subject": "conceptual_physics_test"}
+{"idx": 161, "questions": ["In either a fission event or a fusion event, a quantity that remains unchanged is the"], "answers": [" number of nucleons"], "subject": "conceptual_physics_test"}
+{"idx": 162, "questions": ["The magnetic force on a moving charged particle can change the particle's"], "answers": [" direction"], "subject": "conceptual_physics_test"}
+{"idx": 163, "questions": ["If you were to travel at a speed close to the speed of light, you could notice that your own"], "answers": [" Neither of these."], "subject": "conceptual_physics_test"}
+{"idx": 164, "questions": ["Electricity and magnetism connect to form"], "answers": [" light"], "subject": "conceptual_physics_test"}
+{"idx": 165, "questions": ["Sound travels in air by a series of"], "answers": [" Both of these"], "subject": "conceptual_physics_test"}
+{"idx": 166, "questions": ["When a cannonball is fired from a cannon, both the cannonball and the cannon experience equal"], "answers": [" amounts of force"], "subject": "conceptual_physics_test"}
+{"idx": 167, "questions": ["The nucleus of an electrically neutral iron atom contains 26 protons. The number of electrons this iron atom has is"], "answers": [" 26"], "subject": "conceptual_physics_test"}
+{"idx": 168, "questions": ["To say that a rose petal is red is to say that it"], "answers": [" reflects red"], "subject": "conceptual_physics_test"}
+{"idx": 169, "questions": ["Compared with a sound of 60 decibels, a sound of 80 decibels has an intensity"], "answers": [" 100 times greater"], "subject": "conceptual_physics_test"}
+{"idx": 170, "questions": ["When red and blue light are overlapped, the color produced is"], "answers": [" magenta"], "subject": "conceptual_physics_test"}
+{"idx": 171, "questions": ["When 100 J are put into a device that puts out 40 J of useful work, the efficiency of the device is"], "answers": [" 40%"], "subject": "conceptual_physics_test"}
+{"idx": 172, "questions": ["Shock waves are produced by waves of sound"], "answers": [" All of these"], "subject": "conceptual_physics_test"}
+{"idx": 173, "questions": ["A rock suspended by a weighing scale weighs 5 N out of water and 3 N when submerged in water. What is the buoyant force on the rock?"], "answers": [" None of these"], "subject": "conceptual_physics_test"}
+{"idx": 174, "questions": ["The work done on a 100-kg crate that is hoisted 2 m in a time of 4 s is"], "answers": [" 2000 J"], "subject": "conceptual_physics_test"}
+{"idx": 175, "questions": ["A capacitor loses half its remaining charge every second. If after five seconds its charge is q what was its initial charge?"], "answers": [" 32q."], "subject": "conceptual_physics_test"}
+{"idx": 176, "questions": ["The mass of an atom comes mostly from its _ ; and its volume from its _."], "answers": [" nucleons; electrons."], "subject": "conceptual_physics_test"}
+{"idx": 177, "questions": ["The pitch of a sound is mostly related to its"], "answers": [" frequency"], "subject": "conceptual_physics_test"}
+{"idx": 178, "questions": ["As more lamps are connected to a series circuit, the current in the power source"], "answers": [" decreases"], "subject": "conceptual_physics_test"}
+{"idx": 179, "questions": ["When an element ejects an alpha particle, the mass number of the resulting element"], "answers": [" reduces by 4"], "subject": "conceptual_physics_test"}
+{"idx": 180, "questions": ["An electron can be speeded up by"], "answers": [" an electric field"], "subject": "conceptual_physics_test"}
+{"idx": 181, "questions": ["A certain element emits 1 alpha particle, and its products then emit 2 beta particles in succession. The atomic number of the resulting element is changed by"], "answers": [" zero"], "subject": "conceptual_physics_test"}
+{"idx": 182, "questions": ["When an object is set vibrating by a wave that has a matching frequency, what occurs is"], "answers": [" resonance"], "subject": "conceptual_physics_test"}
+{"idx": 183, "questions": ["The red glow in the neon tube of an advertising sign is a result of"], "answers": [" de-excitation"], "subject": "conceptual_physics_test"}
+{"idx": 184, "questions": ["At very high speeds, an object appears to an observer at rest to be"], "answers": [" shorter in the direction of travel."], "subject": "conceptual_physics_test"}
+{"idx": 185, "questions": ["When you drop a ball from rest it accelerates downward at 9.8 m/s^2. If you instead throw it downward assuming no air resistance its acceleration immediately after leaving your hand is"], "answers": [" 9.8 m/s2"], "subject": "conceptual_physics_test"}
+{"idx": 186, "questions": ["Carbon-14 is primarily produced by cosmic radiation in the"], "answers": [" atmosphere"], "subject": "conceptual_physics_test"}
+{"idx": 187, "questions": ["Chain reactions in a fission reactor are caused by"], "answers": [" ejected neutrons"], "subject": "conceptual_physics_test"}
+{"idx": 188, "questions": ["Satellites in circular Earth orbit maintain a constant speed because gravitational force on them is"], "answers": [" without a component of force along their circular path"], "subject": "conceptual_physics_test"}
+{"idx": 189, "questions": ["The complementary color of blue is"], "answers": [" yellow"], "subject": "conceptual_physics_test"}
+{"idx": 190, "questions": ["The difference between dc and ac in electric circuits is that in dc, charges flow"], "answers": [" in one direction"], "subject": "conceptual_physics_test"}
+{"idx": 191, "questions": ["To receive an electric shock there must be a"], "answers": [" voltage difference across part or all of your body."], "subject": "conceptual_physics_test"}
+{"idx": 192, "questions": ["A karate chop delivers a force of 3000 N to a board that breaks. The force that the board exerts on the hand during this event is"], "answers": [" 3000 N"], "subject": "conceptual_physics_test"}
+{"idx": 193, "questions": ["Find the speed of a wave by multiplying its frequency by its"], "answers": [" wavelength"], "subject": "conceptual_physics_test"}
+{"idx": 194, "questions": ["The magnitude of the gravitational force on a satellite is constant if the orbit is"], "answers": [" circular"], "subject": "conceptual_physics_test"}
+{"idx": 195, "questions": ["The impulse–momentum relationship is a direct result of Newton’s"], "answers": [" second law"], "subject": "conceptual_physics_test"}
+{"idx": 196, "questions": ["A common nuclear fission reactor"], "answers": [" heats water"], "subject": "conceptual_physics_test"}
+{"idx": 197, "questions": ["The process of boiling water tends to"], "answers": [" cool the water"], "subject": "conceptual_physics_test"}
+{"idx": 198, "questions": ["When you scale up an object to 3 times its linear size, the surface area increases by"], "answers": [" 9 and the volume by 27."], "subject": "conceptual_physics_test"}
+{"idx": 199, "questions": ["If you change the magnetic field in a closed loop of wire, what is created in the loop is a(n)"], "answers": [" All of these"], "subject": "conceptual_physics_test"}
+{"idx": 200, "questions": ["Clocks on a fast-moving spaceship whizzing past Earth appear to run slow when viewed from"], "answers": [" Earth."], "subject": "conceptual_physics_test"}
+{"idx": 201, "questions": ["The model of light most supported by the photoelectric effect is the"], "answers": [" particle model"], "subject": "conceptual_physics_test"}
+{"idx": 202, "questions": ["Compared with a fundamental tone, the frequency of its second harmonic is"], "answers": [" twice as much"], "subject": "conceptual_physics_test"}
+{"idx": 203, "questions": ["A string is plucked producing four loops (antinodes). The length of the string is 12.00 m. The wavelength of the wave must be"], "answers": [" 6.00 m"], "subject": "conceptual_physics_test"}
+{"idx": 204, "questions": ["During the time an aircraft produces a sonic boom, the aircraft is"], "answers": [" flying faster than sound"], "subject": "conceptual_physics_test"}
+{"idx": 205, "questions": ["The principal source of Earth’s internal energy is"], "answers": [" radioactivity"], "subject": "conceptual_physics_test"}
+{"idx": 206, "questions": ["When you brush your hair and scrape electrons from your hair, the charge of your hair becomes"], "answers": [" positive"], "subject": "conceptual_physics_test"}
+{"idx": 207, "questions": ["Astrophysicists are able to identify the elements in the outer layers of a star by studying its"], "answers": [" spectrum."], "subject": "conceptual_physics_test"}
+{"idx": 208, "questions": ["Relativistic equations for time dilation length contraction and relativistic momentum and energy hold true"], "answers": [" at all speeds."], "subject": "conceptual_physics_test"}
+{"idx": 209, "questions": ["In his special theory of relativity, Einstein stated that the laws of physics are"], "answers": [" the same in all uniformly moving frames of reference."], "subject": "conceptual_physics_test"}
+{"idx": 210, "questions": ["When an element ejects a beta particle, the atomic number of that element"], "answers": [" increases by 1"], "subject": "conceptual_physics_test"}
+{"idx": 211, "questions": ["The amount of heat transferred to a system can be measured in"], "answers": [" Either"], "subject": "conceptual_physics_test"}
+{"idx": 212, "questions": ["Compared with the sound you hear from the siren of a stationary fire engine, its sound when it approaches you has an increased"], "answers": [" frequency"], "subject": "conceptual_physics_test"}
+{"idx": 213, "questions": ["Light reflecting from a smooth surface undergoes a change in"], "answers": [" None of these."], "subject": "conceptual_physics_test"}
+{"idx": 214, "questions": ["What Einstein discovered about space and time is that they"], "answers": [" are parts of one whole."], "subject": "conceptual_physics_test"}
+{"idx": 215, "questions": ["All parts of a laser beam have the same"], "answers": [" All of these"], "subject": "conceptual_physics_test"}
+{"idx": 216, "questions": ["The rotational inertia of an object is greater when most of the mass is located"], "answers": [" away from the axis"], "subject": "conceptual_physics_test"}
+{"idx": 217, "questions": ["When small pieces of material are assembled into a larger piece, the combined surface area"], "answers": [" decreases"], "subject": "conceptual_physics_test"}
+{"idx": 218, "questions": ["A rainbow is the result of light in raindrops that undergoes"], "answers": [" All of these"], "subject": "conceptual_physics_test"}
+{"idx": 219, "questions": ["In the atomic nucleus, electrical forces tend to"], "answers": [" push particles apart"], "subject": "conceptual_physics_test"}
+{"idx": 220, "questions": ["The fact that the acceleration of free fall is the same for all masses is explained by Newton’s"], "answers": [" second law"], "subject": "conceptual_physics_test"}
+{"idx": 221, "questions": ["Compared with radiation from the Sun, terrestrial radiation has a lower"], "answers": [" frequency"], "subject": "conceptual_physics_test"}
+{"idx": 222, "questions": ["When we speak of time dilation, we mean that time"], "answers": [" stretches with speed."], "subject": "conceptual_physics_test"}
+{"idx": 223, "questions": ["The magnetic field lines about a current-carrying wire form"], "answers": [" circles"], "subject": "conceptual_physics_test"}
+{"idx": 224, "questions": ["An inflated balloon with a heavy rock tied to it is dropped into a deep lake. As the balloon sinks deeper and deeper the buoyant force acting on it"], "answers": [" decreases."], "subject": "conceptual_physics_test"}
+{"idx": 225, "questions": ["A radioactive sample has a half-life of 1 hour. If we start with 1.000 gram of it at noon, how much remains at 3:00 pm?"], "answers": [" 0.125 g"], "subject": "conceptual_physics_test"}
+{"idx": 226, "questions": ["Boiling and freezing occur when water is subjected to"], "answers": [" decreased atmospheric pressure"], "subject": "conceptual_physics_test"}
+{"idx": 227, "questions": ["When you bend the branch of a tree by hanging on its end, the top side of the branch is under"], "answers": [" tension."], "subject": "conceptual_physics_test"}

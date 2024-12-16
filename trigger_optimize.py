@@ -231,8 +231,17 @@ def optimize_prompts_with_pair_sampling(trigger_set,
     # prompt_probs = [weight / total_weight for weight in prompt_weights]
 
     # Sample prompts based on their importance weights
-    candidate_indices = random.choices(range(len(trigger_set)), weights=prompt_probs, k=sample_size)
-    prompt_scores = []
+    prompt_scores =[]
+    candidate_indices = set()
+    
+    while len(candidate_indices) < sample_size:
+        # 使用 random.choices 获取带权重的样本
+        new_samples = random.choices(range(len(trigger_set)), weights=prompt_probs, k=sample_size - len(candidate_indices))
+        # 添加到 set 中自动去重
+        candidate_indices.update(new_samples)
+    
+    # 转换为列表并返回
+    candidate_indices =  list(candidate_indices)
 
     for idx in candidate_indices:
         intra_sim_score = 0
@@ -256,7 +265,7 @@ def optimize_prompts_with_pair_sampling(trigger_set,
     # Sort and select the top M prompts
     optimized_prompts = sorted(prompt_scores, key=lambda x: x[1], reverse=True)[:M]
     indices = [index for index, score in optimized_prompts]
-    
+    print(indices)
     # 根据 indices 从原始数据集中提取对应的 prompts
     selected_data = trigger_set.select(indices)
 

@@ -1,4 +1,0 @@
-nohup: 忽略输入
-Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:06,  2.33s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:04<00:04,  2.35s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:07<00:02,  2.38s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:07<00:00,  1.65s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:07<00:00,  1.91s/it]
-Processing files:   0%|          | 0/1 [00:00<?, ?it/s]Starting from v4.46, the `logits` model output will have the same type as the model (except at train time, where it will always be FP32)
-From v4.47 onwards, when a model cache is to be returned, `generate` will return a `Cache` instance instead by default (as opposed to the legacy tuple of tuples format). If you want to keep returning the legacy format, please set `return_legacy_cache=True`.

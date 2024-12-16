@@ -1,0 +1,27 @@
+2024-12-04 21:22:42,239 DEBUG Starting new HTTPS connection (1): huggingface.co:443
+2024-12-04 21:22:42,241 DEBUG Starting new HTTPS connection (1): stats.vllm.ai:443
+2024-12-04 21:22:42,652 DEBUG https://huggingface.co:443 "GET /api/datasets/TIGER-Lab/MMLU-Pro HTTP/11" 200 2285
+2024-12-04 21:22:42,655 DEBUG Starting new HTTPS connection (1): s3.amazonaws.com:443
+2024-12-04 21:22:43,023 DEBUG https://stats.vllm.ai:443 "POST / HTTP/11" 200 None
+2024-12-04 21:22:43,410 DEBUG https://s3.amazonaws.com:443 "HEAD /datasets.huggingface.co/datasets/datasets/TIGER-Lab/MMLU-Pro/TIGER-Lab/MMLU-Pro.py HTTP/11" 404 0
+2024-12-04 21:22:43,697 DEBUG https://huggingface.co:443 "GET /api/datasets/TIGER-Lab/MMLU-Pro HTTP/11" 200 2285
+2024-12-04 21:22:43,701 DEBUG Starting new HTTPS connection (1): huggingface.co:443
+2024-12-04 21:22:43,975 DEBUG https://huggingface.co:443 "HEAD /datasets/TIGER-Lab/MMLU-Pro/resolve/014c8cf520218fc7f1ecec95c691a83ae5b8ba14/README.md HTTP/11" 200 0
+2024-12-04 21:22:43,991 DEBUG Starting new HTTPS connection (1): huggingface.co:443
+2024-12-04 21:22:44,279 DEBUG https://huggingface.co:443 "HEAD /datasets/TIGER-Lab/MMLU-Pro/resolve/014c8cf520218fc7f1ecec95c691a83ae5b8ba14/.huggingface.yaml HTTP/11" 404 0
+2024-12-04 21:22:44,283 DEBUG Starting new HTTPS connection (1): datasets-server.huggingface.co:443
+2024-12-04 21:22:45,030 DEBUG Starting new HTTPS connection (1): datasets-server.huggingface.co:443
+2024-12-04 21:22:46,597 DEBUG Starting new HTTPS connection (1): datasets-server.huggingface.co:443
+2024-12-04 21:22:48,852 DEBUG Starting new HTTPS connection (1): datasets-server.huggingface.co:443
+2024-12-04 21:22:49,449 DEBUG https://huggingface.co:443 "GET /api/datasets/TIGER-Lab/MMLU-Pro/revision/014c8cf520218fc7f1ecec95c691a83ae5b8ba14 HTTP/11" 200 2285
+2024-12-04 21:22:49,673 DEBUG https://huggingface.co:443 "GET /api/datasets/TIGER-Lab/MMLU-Pro/tree/014c8cf520218fc7f1ecec95c691a83ae5b8ba14?recursive=False&expand=False HTTP/11" 200 492
+2024-12-04 21:22:49,897 DEBUG https://huggingface.co:443 "POST /api/datasets/TIGER-Lab/MMLU-Pro/paths-info/014c8cf520218fc7f1ecec95c691a83ae5b8ba14 HTTP/11" 200 218
+2024-12-04 21:22:50,130 DEBUG https://huggingface.co:443 "GET /api/datasets/TIGER-Lab/MMLU-Pro/tree/014c8cf520218fc7f1ecec95c691a83ae5b8ba14/data?recursive=False&expand=False HTTP/11" 200 475
+2024-12-04 21:22:50,134 DEBUG Starting new HTTPS connection (1): huggingface.co:443
+2024-12-04 21:22:50,435 DEBUG https://huggingface.co:443 "GET /api/datasets/TIGER-Lab/MMLU-Pro/revision/014c8cf520218fc7f1ecec95c691a83ae5b8ba14 HTTP/11" 200 2285
+2024-12-04 21:22:50,662 DEBUG https://huggingface.co:443 "POST /api/datasets/TIGER-Lab/MMLU-Pro/paths-info/014c8cf520218fc7f1ecec95c691a83ae5b8ba14 HTTP/11" 200 218
+2024-12-04 21:22:50,671 DEBUG Starting new HTTPS connection (1): huggingface.co:443
+2024-12-04 21:22:50,931 DEBUG https://huggingface.co:443 "HEAD /datasets/TIGER-Lab/MMLU-Pro/resolve/014c8cf520218fc7f1ecec95c691a83ae5b8ba14/dataset_infos.json HTTP/11" 404 0
+2024-12-04 21:22:51,166 DEBUG https://huggingface.co:443 "POST /api/datasets/TIGER-Lab/MMLU-Pro/paths-info/014c8cf520218fc7f1ecec95c691a83ae5b8ba14 HTTP/11" 200 218
+2024-12-04 21:22:51,437 DEBUG https://huggingface.co:443 "POST /api/datasets/TIGER-Lab/MMLU-Pro/paths-info/014c8cf520218fc7f1ecec95c691a83ae5b8ba14 HTTP/11" 200 218
+2024-12-04 21:22:51,441 DEBUG Attempting to acquire lock 140657245363600 on /mnt/data/haochuntang/datasets/_mnt_data_haochuntang_datasets_TIGER-Lab___mmlu-pro_default_0.0.0_014c8cf520218fc7f1ecec95c691a83ae5b8ba14.lock

@@ -61,8 +61,8 @@ def extract_fingerprint(model_name_or_path: str,
 
     input_ids = inputs["input_ids"]
     attention_mask = inputs["attention_mask"]
-    accelerator = Accelerator("no")
-    model, tokenizer = accelerator.prepare(model, tokenizer)
+    # accelerator = Accelerator("no")
+    # model, tokenizer = accelerator.prepare(model, tokenizer)
     if torch.cuda.is_available():
         input_ids = input_ids.to(model.device)
         attention_mask = attention_mask.to(model.device)

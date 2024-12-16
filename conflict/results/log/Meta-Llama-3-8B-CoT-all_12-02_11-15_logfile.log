@@ -1,0 +1,35 @@
+2024-12-02 11:15:55,245 DEBUG Starting new HTTPS connection (1): stats.vllm.ai:443
+2024-12-02 11:15:55,578 DEBUG Starting new HTTPS connection (1): huggingface.co:443
+2024-12-02 11:15:55,995 DEBUG https://huggingface.co:443 "GET /api/datasets/TIGER-Lab/MMLU-Pro HTTP/11" 200 2285
+2024-12-02 11:15:56,000 DEBUG Starting new HTTPS connection (1): s3.amazonaws.com:443
+2024-12-02 11:15:56,733 DEBUG https://s3.amazonaws.com:443 "HEAD /datasets.huggingface.co/datasets/datasets/TIGER-Lab/MMLU-Pro/TIGER-Lab/MMLU-Pro.py HTTP/11" 404 0
+2024-12-02 11:15:57,012 DEBUG https://huggingface.co:443 "GET /api/datasets/TIGER-Lab/MMLU-Pro HTTP/11" 200 2285
+2024-12-02 11:15:57,019 DEBUG Starting new HTTPS connection (1): huggingface.co:443
+2024-12-02 11:15:57,298 DEBUG https://huggingface.co:443 "HEAD /datasets/TIGER-Lab/MMLU-Pro/resolve/014c8cf520218fc7f1ecec95c691a83ae5b8ba14/README.md HTTP/11" 200 0
+2024-12-02 11:15:57,299 DEBUG Attempting to acquire lock 140074123341952 on /mnt/data/haochuntang/datasets/downloads/f17ea8597f070f1aaa97f62c804994fd3458396c17e0e60027946c19c0606d7e.b670fd30841c5b526f8d8467bc929e440bdebda8fef999bfc15dcf4555ade99f.lock
+2024-12-02 11:15:57,307 DEBUG Lock 140074123341952 acquired on /mnt/data/haochuntang/datasets/downloads/f17ea8597f070f1aaa97f62c804994fd3458396c17e0e60027946c19c0606d7e.b670fd30841c5b526f8d8467bc929e440bdebda8fef999bfc15dcf4555ade99f.lock
+2024-12-02 11:15:57,310 DEBUG Starting new HTTPS connection (1): huggingface.co:443
+2024-12-02 11:15:58,120 DEBUG https://huggingface.co:443 "GET /datasets/TIGER-Lab/MMLU-Pro/resolve/014c8cf520218fc7f1ecec95c691a83ae5b8ba14/README.md HTTP/11" 200 10864
+2024-12-02 11:15:58,123 DEBUG Attempting to release lock 140074123341952 on /mnt/data/haochuntang/datasets/downloads/f17ea8597f070f1aaa97f62c804994fd3458396c17e0e60027946c19c0606d7e.b670fd30841c5b526f8d8467bc929e440bdebda8fef999bfc15dcf4555ade99f.lock
+2024-12-02 11:15:58,123 DEBUG Lock 140074123341952 released on /mnt/data/haochuntang/datasets/downloads/f17ea8597f070f1aaa97f62c804994fd3458396c17e0e60027946c19c0606d7e.b670fd30841c5b526f8d8467bc929e440bdebda8fef999bfc15dcf4555ade99f.lock
+2024-12-02 11:15:58,138 DEBUG Starting new HTTPS connection (1): huggingface.co:443
+2024-12-02 11:15:58,429 DEBUG https://huggingface.co:443 "HEAD /datasets/TIGER-Lab/MMLU-Pro/resolve/014c8cf520218fc7f1ecec95c691a83ae5b8ba14/.huggingface.yaml HTTP/11" 404 0
+2024-12-02 11:15:58,433 DEBUG Starting new HTTPS connection (1): datasets-server.huggingface.co:443
+2024-12-02 11:15:59,284 DEBUG Starting new HTTPS connection (1): datasets-server.huggingface.co:443
+2024-12-02 11:16:00,534 DEBUG Starting new HTTPS connection (1): datasets-server.huggingface.co:443
+2024-12-02 11:16:02,784 DEBUG Starting new HTTPS connection (1): datasets-server.huggingface.co:443
+2024-12-02 11:16:03,317 DEBUG https://huggingface.co:443 "GET /api/datasets/TIGER-Lab/MMLU-Pro/revision/014c8cf520218fc7f1ecec95c691a83ae5b8ba14 HTTP/11" 200 2285
+2024-12-02 11:16:03,559 DEBUG https://huggingface.co:443 "GET /api/datasets/TIGER-Lab/MMLU-Pro/tree/014c8cf520218fc7f1ecec95c691a83ae5b8ba14?recursive=False&expand=False HTTP/11" 200 492
+2024-12-02 11:16:03,837 DEBUG https://huggingface.co:443 "POST /api/datasets/TIGER-Lab/MMLU-Pro/paths-info/014c8cf520218fc7f1ecec95c691a83ae5b8ba14 HTTP/11" 200 218
+2024-12-02 11:16:04,060 DEBUG https://huggingface.co:443 "GET /api/datasets/TIGER-Lab/MMLU-Pro/tree/014c8cf520218fc7f1ecec95c691a83ae5b8ba14/data?recursive=False&expand=False HTTP/11" 200 475
+2024-12-02 11:16:04,065 DEBUG Starting new HTTPS connection (1): huggingface.co:443
+2024-12-02 11:16:04,390 DEBUG https://huggingface.co:443 "GET /api/datasets/TIGER-Lab/MMLU-Pro/revision/014c8cf520218fc7f1ecec95c691a83ae5b8ba14 HTTP/11" 200 2285
+2024-12-02 11:16:04,635 DEBUG https://huggingface.co:443 "POST /api/datasets/TIGER-Lab/MMLU-Pro/paths-info/014c8cf520218fc7f1ecec95c691a83ae5b8ba14 HTTP/11" 200 218
+2024-12-02 11:16:04,643 DEBUG Starting new HTTPS connection (1): huggingface.co:443
+2024-12-02 11:16:05,001 DEBUG https://huggingface.co:443 "HEAD /datasets/TIGER-Lab/MMLU-Pro/resolve/014c8cf520218fc7f1ecec95c691a83ae5b8ba14/dataset_infos.json HTTP/11" 404 0
+2024-12-02 11:16:05,317 DEBUG https://huggingface.co:443 "POST /api/datasets/TIGER-Lab/MMLU-Pro/paths-info/014c8cf520218fc7f1ecec95c691a83ae5b8ba14 HTTP/11" 200 218
+2024-12-02 11:16:05,555 DEBUG https://huggingface.co:443 "POST /api/datasets/TIGER-Lab/MMLU-Pro/paths-info/014c8cf520218fc7f1ecec95c691a83ae5b8ba14 HTTP/11" 200 218
+2024-12-02 11:16:05,559 DEBUG Attempting to acquire lock 140075775144592 on /mnt/data/haochuntang/datasets/_mnt_data_haochuntang_datasets_TIGER-Lab___mmlu-pro_default_0.0.0_014c8cf520218fc7f1ecec95c691a83ae5b8ba14.lock
+2024-12-02 11:16:05,560 DEBUG Lock 140075775144592 acquired on /mnt/data/haochuntang/datasets/_mnt_data_haochuntang_datasets_TIGER-Lab___mmlu-pro_default_0.0.0_014c8cf520218fc7f1ecec95c691a83ae5b8ba14.lock
+2024-12-02 11:16:05,560 DEBUG Attempting to release lock 140075775144592 on /mnt/data/haochuntang/datasets/_mnt_data_haochuntang_datasets_TIGER-Lab___mmlu-pro_default_0.0.0_014c8cf520218fc7f1ecec95c691a83ae5b8ba14.lock
+2024-12-02 11:16:05,560 DEBUG Lock 140075775144592 released on /mnt/data/haochuntang/datasets/_mnt_data_haochuntang_datasets_TIGER-Lab___mmlu-pro_default_0.0.0_014c8cf520218fc7f1ecec95c691a83ae5b8ba14.lock
